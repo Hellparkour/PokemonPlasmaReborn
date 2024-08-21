@@ -1,0 +1,5136 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[CAMPER,Liam]
+LoseText = A very good battle, indeed!
+Pokemon = DIGLETT,10
+Pokemon = BONSLY,11
+#-------------------------------
+[LEADER_Brock,Brock]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Very good.
+Pokemon = GEODUDE,12
+    Gender = male
+    Moves = DEFENSECURL,HEADSMASH,ROCKPOLISH,ROCKTHROW
+    AbilityIndex = 0
+    IV = 20,20,20,20,20,20
+Pokemon = ONIX,14
+    Name = Rocky
+    Gender = male
+    Shiny = yes
+    Moves = HEADSMASH,ROCKTHROW,RAGE,ROCKTOMB
+    AbilityIndex = 0
+    Item = SITRUSBERRY
+    IV = 20,20,20,20,20,20
+    Ball = HEAVYBALL
+#-------------------------------
+[TEAMROCKET_M,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = WEEPINBELL,21
+    Shadow = yes
+#-------------------------------
+[TEAMROCKET_F,Grunt,1]
+LoseText = You're too good for me!
+Pokemon = BURMY,19
+Pokemon = WINGULL,19
+Pokemon = ELECTABUZZ,20
+    Shadow = yes
+#-------------------------------
+[YOUNGSTER,Ben]
+LoseText = Aww, I lost.
+Pokemon = RATTATA,11
+Pokemon = EKANS,11
+#-------------------------------
+[CAMPER,Jeff]
+LoseText = A very good battle, indeed!
+Pokemon = SPEAROW,16
+Pokemon = SENTRET,16
+#-------------------------------
+[CAMPER,Jeff,1]
+LoseText = You beat me again!
+Pokemon = FEAROW,29
+Pokemon = FURRET,29
+#-------------------------------
+[PICNICKER,Susie]
+LoseText = Defeated! Oh my!
+Pokemon = MEOWTH,18
+#-------------------------------
+[PICNICKER,Susie,1]
+LoseText = Defeated! Oh my!
+Pokemon = PERSIAN,32
+#-------------------------------
+[HIKER,Ford]
+LoseText = You're too good for me!
+Pokemon = MACHOP,19
+#-------------------------------
+[FISHERMAN,Andrew]
+LoseText = Washed out!
+Pokemon = MAGIKARP,14
+Pokemon = MAGIKARP,18
+#-------------------------------
+[BEAUTY,Bridget]
+LoseText = My Skitty!
+Pokemon = SKITTY,18
+#-------------------------------
+[LASS,Crissy]
+LoseText = You didn't have to win so convincingly!
+Pokemon = PLUSLE,17
+Pokemon = MINUN,17
+#-------------------------------
+[COOLCOUPLE,Alice & Bob]
+LoseText = Our teamwork failed!
+Pokemon = TURTWIG,19
+Pokemon = CHIMCHAR,19
+#-------------------------------
+[POKEMONTRAINER_May,May]
+LoseText = ...
+Pokemon = COMBUSKEN,19
+#-------------------------------
+[SWIMMER2_F,Ariel]
+LoseText = Washed out!
+Pokemon = STARYU,15
+Pokemon = GOLDEEN,11
+#-------------------------------
+[RIVAL1,Blue]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = BULBASAUR,18
+#-------------------------------
+[RIVAL1,Blue,1]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = CHARMANDER,18
+#-------------------------------
+[RIVAL1,Blue,2]
+LoseText = Not too shabby.
+Pokemon = PIDGEOTTO,17
+Pokemon = RATTATA,15
+Pokemon = SQUIRTLE,18
+#-------------------------------
+[CHAMPION,Blue]
+LoseText = A good battle indeed!
+Pokemon = VENUSAUR,63
+    Item = SITRUSBERRY
+Pokemon = CHARIZARD,63
+    Item = SITRUSBERRY
+Pokemon = BLASTOISE,63
+    Item = SITRUSBERRY
+#-------------------------------
+[PLASMAM,Dek]
+LoseText = Who are you ?
+Pokemon = PATRAT,3
+#-------------------------------
+[YOUNGSTER,Patrick]
+LoseText = Oh wow, defeated !
+Pokemon = TIMBURR,7
+    Moves = POUND,LEER,FOCUSENERGY
+#-------------------------------
+[LEADER_ZACHARY,Zachary]
+LoseText = Congratulation, you might be one of the kind to take the league !
+Pokemon = TIMBURR,9
+Pokemon = MACHOP,9
+Pokemon = RIOLU,11
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,QUICKATTACK,LOWSWEEP
+    Item = ORANBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[WAITER,Dylan]
+LoseText = Heh, I am not used to battles anyway !
+Pokemon = RATTATA,5
+Pokemon = DODUO,4
+#-------------------------------
+[LADY,Nina]
+LoseText = You were too hard on me...
+Pokemon = NINCADA,4
+Pokemon = DRIFLOON,5
+#-------------------------------
+[EXPLORER,Davidson]
+LoseText = I ain't good in battles, congratulation anyways !
+Pokemon = BAGON,4
+Pokemon = BIDOOF,5
+#-------------------------------
+[PICNICKER,Amy]
+LoseText = Totaly need some more training after that loss !
+Pokemon = WEEDLE,4
+Pokemon = PICHU,3
+#-------------------------------
+[BLACKBELT,Denis]
+LoseText = Next time, I'll Gunk at you !
+Pokemon = MANKEY,5
+Pokemon = CROAGUNK,5
+#-------------------------------
+[BUGCATCHER,Morgan]
+LoseText = Hoi, that's not nice !
+Pokemon = KAKUNA,7
+Pokemon = YANMA,5
+#-------------------------------
+[RIVALTalma,Talma,1]
+Items = POTION
+LoseText = Stronger than expected.
+Pokemon = RALTS,6
+Pokemon = LARVITAR,8
+#-------------------------------
+[KING_Douglas,Douglas]
+LoseText = ...
+Pokemon = SCIZOR,75
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMAF,Tina]
+LoseText = Too much strenght...
+Pokemon = VENIPEDE,8
+#-------------------------------
+[PLASMAM,Dek,1]
+LoseText = Not again !?
+Pokemon = WOOBAT,8
+Pokemon = PATRAT,10
+#-------------------------------
+[PLASMAM,Eric]
+LoseText = Tactical retreat !!
+Pokemon = PAWNIARD,10
+#-------------------------------
+[PLASMAM,Derek]
+LoseText = Oh... Over already.
+Pokemon = GOTHITA,10
+Pokemon = PURRLOIN,10
+#-------------------------------
+[PLASMAM,Albert]
+LoseText = You can't defeat our boss, it's simply impossible.
+Pokemon = TRUBBISH,10
+#-------------------------------
+[PLASMAM,Davy]
+LoseText = The barriers won't let you pass.
+Pokemon = SCRAGGY,10
+#-------------------------------
+[PLASMAF,Elma]
+LoseText = You won't defeat our boss.
+Pokemon = SEWADDLE,10
+#-------------------------------
+[PLASMAM,Ismael]
+LoseText = I'll close my eyes, get out.
+Pokemon = WOOBAT,9
+#-------------------------------
+[PLASMAM,Dek,2]
+LoseText = How can I be defeated 3 times by now...
+Pokemon = WOOBAT,9
+Pokemon = PATRAT,10
+#-------------------------------
+[PLASMAF,Tina,1]
+LoseText = Again ? Oh wow.
+Pokemon = VENIPEDE,8
+#-------------------------------
+[PLASMAF,Maeva]
+LoseText = You got some skills.
+Pokemon = YAMASK,10
+#-------------------------------
+[SCIENTIST,Miguel]
+LoseText = Can't I be alone ?
+Pokemon = BULBASAUR,10
+Pokemon = VOLTORB,11
+#-------------------------------
+[SCIENTIST,Bytel]
+LoseText = Why won't you do what kids knows the most ?
+Pokemon = PICHU,10
+Pokemon = GLAMEOW,11
+#-------------------------------
+[PLASMAM,Madevic]
+LoseText = Ugh !
+Pokemon = VULLABY,11
+#-------------------------------
+[SHADOW,Myme]
+LoseText = ...
+Pokemon = PAWNIARD,12
+Pokemon = SHUPPET,14
+#-------------------------------
+[PLASMACO2,Giallo]
+LoseText = Welp, I'm out of here !
+Pokemon = MUNNA,13
+Pokemon = SOLOSIS,13
+Pokemon = SANDILE,15
+#-------------------------------
+[PSYCHIC_F,Lauriane]
+LoseText = Another lost case.
+Pokemon = GIRAFARIG,10
+#-------------------------------
+[HIKER,Tristan]
+LoseText = Badaboum !
+Pokemon = GEODUDE,12
+Pokemon = GEODUDE,12
+Pokemon = GEODUDE,12
+#-------------------------------
+[AROMALADY,Tama]
+LoseText = Sometimes, nature can't decide of the victory !
+Pokemon = ODDISH,13
+Pokemon = GLOOM,15
+Pokemon = SHROOMISH,14
+#-------------------------------
+[AROMALADY,Martine]
+LoseText = We can't win every battles !
+Pokemon = PANSAGE,13
+Pokemon = LOTAD,13
+Pokemon = BELLSPROUT,13
+#-------------------------------
+[LADY,Cassydee]
+LoseText = My taillow ...
+Pokemon = TAILLOW,14
+Pokemon = BLITZLE,14
+#-------------------------------
+[GAMBLER,Alm]
+LoseText = Lumina forest is to fear but, you are strong !
+Pokemon = MEOWTH,15
+Pokemon = TANGELA,15
+#-------------------------------
+[ADMIN_ELISIA,Elisia el Clipsia]
+LoseText = OH, You pushed your luck too far !
+Pokemon = SOLROCK,18
+Pokemon = DUSKULL,20
+Pokemon = ROSELIA,18
+#-------------------------------
+[LCULTISTM,Ronan]
+LoseText = Ugh, it's not over yet !
+Pokemon = GRIMER,16
+Pokemon = MURKROW,16
+#-------------------------------
+[LCULTISTM,Cameron]
+LoseText = This is nonsence !
+Pokemon = MAKUHITA,16
+#-------------------------------
+[LCULTISTM,Paul]
+LoseText = Power... how come ?
+Pokemon = GIBLE,17
+#-------------------------------
+[LCULTISTM,Loaf]
+LoseText = It was useless to obey, but I did it anyways.
+Pokemon = PIDGEOTTO,18
+Pokemon = SLUGMA,18
+#-------------------------------
+[EXPLORER,Davidson,1]
+LoseText = You sure, progress everyday !
+Pokemon = BAGON,13
+Pokemon = BIDOOF,15
+#-------------------------------
+[EXPLORER,Davidson,2]
+LoseText = You sure, progress everyday !
+Pokemon = BAGON,20
+Pokemon = BIBAREL,22
+#-------------------------------
+[EXPLORER,Davidson,3]
+LoseText = You sure, progress everyday !
+Pokemon = SHELGON,30
+Pokemon = NUZLEAF,30
+Pokemon = BIBAREL,32
+#-------------------------------
+[EXPLORER,Davidson,4]
+LoseText = You sure, progress everyday !
+Pokemon = CROAGUNK,35
+Pokemon = SHELGON,35
+Pokemon = NUZLEAF,36
+Pokemon = BIBAREL,37
+#-------------------------------
+[EXPLORER,Davidson,5]
+LoseText = You sure, progress everyday !
+Pokemon = TOXICROAK,40
+Pokemon = SHELGON,40
+Pokemon = SHIFTRY,41
+Pokemon = BIBAREL,42
+#-------------------------------
+[EXPLORER,Davidson,6]
+LoseText = You sure, progress everyday !
+Pokemon = TOXICROAK,44
+Pokemon = SHELGON,44
+Pokemon = SHIFTRY,44
+Pokemon = BIBAREL,46
+#-------------------------------
+[EXPLORER,Davidson,7]
+LoseText = You sure, progress everyday !
+Pokemon = TOXICROAK,68
+Pokemon = SALAMENCE,68
+Pokemon = SHIFTRY,68
+Pokemon = CRUSTLE,68
+Pokemon = BIBAREL,70
+#-------------------------------
+[EXPLORER,Davidson,8]
+LoseText = You sure, progress everyday !
+Pokemon = TOXICROAK,72
+Pokemon = SALAMENCE,72
+Pokemon = SHIFTRY,72
+Pokemon = CRUSTLE,72
+Pokemon = GOLURK,72
+Pokemon = BIBAREL,75
+#-------------------------------
+[EXPLORER,Davidson,20]
+LoseText = You sure, progress everyday !
+Pokemon = CRUSTLE,80
+    Moves = STEALTHROCK,SPIKES,ROCKBLAST,KNOCKOFF
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK,80
+    Moves = SWORDSDANCE,DRAINPUNCH,POISONJAB,SUCKERPUNCH
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,80
+    Moves = DRAGONDANCE,ROOST,OUTRAGE,THUNDERFANG
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = SHIFTRY,80
+    Moves = KNOCKOFF,SUCKERPUNCH,LEAFSTORM,LOWKICK
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = GOLURK,80
+    Moves = SHADOWPUNCH,ICEPUNCH,EARTHQUAKE,FIREPUNCH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = BIBAREL,82
+    Moves = SWORDSDANCE,RETURN,WATERFALL,AQUAJET
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[EXPLORER,Davidson,21]
+LoseText = You sure, progress everyday !
+Pokemon = CRUSTLE,85
+    Moves = STEALTHROCK,SPIKES,ROCKBLAST,KNOCKOFF
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK,85
+    Moves = SWORDSDANCE,DRAINPUNCH,POISONJAB,SUCKERPUNCH
+    Item = LIFEORB
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,85
+    Moves = DRAGONDANCE,ROOST,OUTRAGE,THUNDERFANG
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = SHIFTRY,85
+    Moves = KNOCKOFF,SUCKERPUNCH,LEAFSTORM,LOWKICK
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = GOLURK,85
+    Moves = SHADOWPUNCH,ICEPUNCH,EARTHQUAKE,FIREPUNCH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = BIBAREL,88
+    Moves = SWORDSDANCE,RETURN,WATERFALL,AQUAJET
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar,Ogar]
+LoseText = Omega Pokemon Defeated !?
+Pokemon = SWOOBAT,24
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar,Ogar,1]
+LoseText = Ogar doesn't accept losing !
+Pokemon = SWOOBAT,35
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    IV = 31,31,31,31,31,31
+Pokemon = ACCELGOR,36
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+Pokemon = QUAGSIRE,33
+#-------------------------------
+[LCULTISTM,Loaf,1]
+LoseText = You won't destroy our Omega Pokemon !
+Pokemon = PIDGEOTTO,22
+Pokemon = SLUGMA,22
+#-------------------------------
+[LCULTISTM,Martin]
+LoseText = What ? I am already done ?
+Pokemon = GRIMER,21
+Pokemon = NOSEPASS,22
+#-------------------------------
+[HIKER,Marco]
+LoseText = Another job for us hikers is to explore !
+Pokemon = GEODUDE,12
+Pokemon = CUBONE,12
+#-------------------------------
+[HIKER,Hotaku]
+LoseText = I have to train better.
+Pokemon = PHANPY,12
+Pokemon = SANDSHREW,12
+#-------------------------------
+[HIKER,Basim]
+LoseText = Fun's over.
+Pokemon = SANDSHREW,12
+Pokemon = ONIX,13
+#-------------------------------
+[CUEBALL,Bastian]
+LoseText = Now now, these still time to negociate the victory !
+Pokemon = CARVANHA,20
+Pokemon = HOOTHOOT,19
+#-------------------------------
+[CUEBALL,Silas]
+LoseText = Did I go blind ?
+Pokemon = CACNEA,19
+Pokemon = STUNKY,20
+#-------------------------------
+[CUEBALL,Aron]
+LoseText = Huh... okay.
+Pokemon = STUNKY,19
+Pokemon = SNEASEL,20
+Pokemon = HOUNDOUR,20
+#-------------------------------
+[CUEBALL,Tristan]
+LoseText = It is not fair !
+Pokemon = MURKROW,19
+Pokemon = NUZLEAF,20
+Pokemon = CARVANHA,21
+#-------------------------------
+[CUEBALL,Thomas]
+LoseText = Why is it always that hard to beat a trainer ?
+Pokemon = HOUNDOUR,21
+Pokemon = SNEASEL,21
+Pokemon = CARVANHA,21
+#-------------------------------
+[ACE_F,Rachel]
+LoseText = Congratulation ! I must say, it's been a while since someone was strong as you !
+Pokemon = SABLEYE,22
+    Moves = RECOVER,FEINTATTACK,DETECT,SHADOWSNEAK
+Pokemon = LIEPARD,22
+    Moves = FAKEOUT,TAUNT,DETECT,SNARL
+Pokemon = SNEASEL,22
+    Moves = METALCLAW,TAUNT,PAYBACK,FEINTATTACK
+Pokemon = UMBREON,24
+    Moves = WISH,PAYBACK,QUICKATTACK,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[FISHERMAN,Gaelin]
+LoseText = Some fish can be strong, some others just aren't.
+Pokemon = PSYDUCK,9
+Pokemon = GOLDEEN,9
+#-------------------------------
+[HIKER,Seth]
+LoseText = You can be a fantastic hiker like me !
+Pokemon = SANDSHREW,10
+#-------------------------------
+[GENTLEMAN,Koty]
+LoseText = Congratulation, on our gentleman rule, I'll give you some pokedollars.
+Pokemon = NIDORANmA,10
+#-------------------------------
+[LASS,Britney]
+LoseText = My skitty...
+Pokemon = SKITTY,10
+Pokemon = SKITTY,10
+#-------------------------------
+[HIKER,Brad]
+LoseText = Hiker one day, hiker everyday !
+Pokemon = GEODUDE,9
+Pokemon = SANDSHREW,9
+#-------------------------------
+[CHANELLER,Mady]
+LoseText = Booo... I lost.
+Pokemon = GASTLY,10
+#-------------------------------
+[BUGCATCHER,Carter]
+LoseText = Next time a challenger come, I start with Beautifly.
+Pokemon = VENONAT,23
+Pokemon = BEAUTIFLY,23
+#-------------------------------
+[BUGCATCHER,Butler]
+LoseText = I'll Bee-Drill your bag !
+Pokemon = BEEDRILL,23
+Pokemon = SEWADDLE,23
+#-------------------------------
+[BUGCATCHER,Trevor]
+LoseText = Oh... Another day throwed into the webs.
+Pokemon = SPINARAK,23
+Pokemon = MASQUERAIN,23
+#-------------------------------
+[RIVALTalma,Talma,2]
+Items = POTION
+LoseText = Stronger than expected.
+Pokemon = RALTS,25
+Pokemon = SCYTHER,25
+Pokemon = LARVITAR,27
+#-------------------------------
+[CHANELLER,Allison]
+LoseText = How can I evolve my haunter ?!
+Pokemon = HAUNTER,25
+#-------------------------------
+[GENTLEMAN,Ebiel]
+LoseText = On behalf of many of us, you have big skills.
+Pokemon = MEDITITE,24
+Pokemon = DELCATTY,25
+#-------------------------------
+[HIKER,Theodore]
+LoseText = ...
+Pokemon = DIGLETT,26
+Pokemon = RHYHORN,27
+#-------------------------------
+[HIKER,Elias]
+LoseText = ...
+Pokemon = SHUCKLE,26
+Pokemon = MAWILE,27
+#-------------------------------
+[JUGGLER,Phil]
+LoseText = ...
+Pokemon = GURDURR,27
+Pokemon = NUMEL,26
+#-------------------------------
+[PICNICKER,Trish]
+LoseText = ...
+Pokemon = DODRIO,27
+Pokemon = GRAVELER,27
+#-------------------------------
+[LASS,Tina]
+LoseText = ...
+Pokemon = VENOMOTH,28
+Pokemon = GIRAFARIG,26
+Pokemon = BLITZLE,26
+#-------------------------------
+[LCULTISTM,Oliver]
+LoseText = ...
+Pokemon = GOLBAT,29
+Pokemon = ROSELIA,29
+#-------------------------------
+[LCULTISTM,Aaron]
+LoseText = ...
+Pokemon = LOUDRED,29
+Pokemon = BUIZEL,29
+#-------------------------------
+[LCULTISTM,Gael]
+LoseText = ...
+Pokemon = MISDREAVUS,29
+Pokemon = PILOSWINE,30
+#-------------------------------
+[LCULTISTM,Marc,1]
+LoseText = ...
+Pokemon = BANETTE,30
+Pokemon = GOTHORITA,30
+Pokemon = SWADLOON,30
+#-------------------------------
+[LCULTISTM,Ronan,1]
+LoseText = Once more, another lost...
+Pokemon = MUK,31
+Pokemon = MURKROW,31
+#-------------------------------
+[LCULTISTM,Ivan]
+LoseText = ...
+Pokemon = WEEPINBELL,31
+Pokemon = GROVYLE,31
+Pokemon = FLOATZEL,31
+#-------------------------------
+[LCULTISTM,Cameron,1]
+LoseText = This is nonsence !
+Pokemon = HARIYAMA,31
+Pokemon = BUNEARY,31
+Pokemon = VANILLISH,31
+#-------------------------------
+[LCULTISTM,Loaf,2]
+LoseText = You won't destroy our Omega Pokemon !
+Pokemon = PIDGEOTTO,32
+Pokemon = SLUGMA,32
+Pokemon = EELEKTRIK,32
+Pokemon = FRAXURE,34
+#-------------------------------
+[LCULTISTM,Elias]
+LoseText = You should get a degree on being annoying !
+Pokemon = MIGHTYENA,31
+Pokemon = LUNATONE,30
+#-------------------------------
+[LCULTISTM,Gaspart]
+LoseText = Huh !? No way !
+Pokemon = SEALEO,31
+Pokemon = SOLROCK,30
+#-------------------------------
+[LCULTISTM,Ted]
+LoseText = What !?
+Pokemon = CHARMELEON,30
+Pokemon = WORMADAM,30
+Pokemon = KADABRA,30
+#-------------------------------
+[LCULTISTM,Ismael]
+LoseText = Intruders should be punished.
+Pokemon = SKIPLOOM,30
+Pokemon = TORKOAL,31
+#-------------------------------
+[LCULTISTM,Harold]
+LoseText = What you have done !
+Pokemon = BELLOSSOM,30
+Pokemon = SHELGON,31
+#-------------------------------
+[LCULTISTM,Lionel]
+LoseText = I... Incredible.
+Pokemon = DELCATTY,30
+Pokemon = NUZLEAF,30
+Pokemon = NOCTOWL,30
+#-------------------------------
+[LCULTISTM,Arundel]
+LoseText = I've let my whole team down...
+Pokemon = SKARMORY,32
+Pokemon = SABLEYE,32
+Pokemon = STARAVIA,32
+Pokemon = DRAGONAIR,34
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,1]
+LoseText = OH, You pushed your luck too far !
+Pokemon = SOLROCK,33
+Pokemon = DUSCLOPS,33
+Pokemon = ROSERADE,35
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARCHKNIGHT,Kivanee]
+LoseText = Bravo, simply, just bravo !
+Pokemon = VILEPLUME,36
+    Moves = POISONPOWDER,GIGADRAIN,SLUDGEBOMB,SLEEPPOWDER
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,36
+    Moves = MOONBLAST,CALMMIND,PSYCHIC,SHADOWBALL
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,36
+    Moves = EARTHQUAKE,REST,GIGAIMPACT,ROLLOUT
+    IV = 31,31,31,31,31,31
+Pokemon = BRONZONG,36
+    Moves = TRICKROOM,BULLDOZE,EXTRASENSORY,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,36
+    Moves = SUCKERPUNCH,DOUBLETEAM,ICYWIND,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,38
+    Moves = FLAMETHROWER,DRAGONCLAW,BULLDOZE,FEINTATTACK
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PSYCHIC_F,Erica]
+LoseText = ...
+Pokemon = MEDICHAM,34
+#-------------------------------
+[PICNICKER,Alya]
+LoseText = ...
+Pokemon = SANDSLASH,33
+Pokemon = MAROWAK,33
+#-------------------------------
+[SAILOR,Olek]
+LoseText = ...
+Pokemon = LOMBRE,32
+Pokemon = KINGLER,34
+#-------------------------------
+[PSYCHIC_M,Bischa]
+LoseText = ...
+Pokemon = GALLADE,80
+Pokemon = GARDEVOIR,80
+Pokemon = METAGROSS,80
+Pokemon = MEDICHAM,80
+#-------------------------------
+[PLASMAM,Kristopher,1]
+LoseText = ...
+Pokemon = GURDURR,36
+#-------------------------------
+[PLASMAM,Godot]
+LoseText = ...
+Pokemon = KARRABLAST,35
+Pokemon = SHELMET,35
+Pokemon = SIGILYPH,36
+#-------------------------------
+[PLASMAF,Fransiska,1]
+LoseText = ...
+Pokemon = KROKOROK,35
+Pokemon = WHIRLIPEDE,35
+#-------------------------------
+[PLASMAM,Klavier]
+LoseText = ...
+Pokemon = FRAXURE,36
+Pokemon = RUFFLET,36
+#-------------------------------
+[PLASMAF,Patricia,1]
+LoseText = ...
+Pokemon = GARBODOR,37
+#-------------------------------
+[PLASMABOSS,Ghetsis]
+LoseText = ...
+Pokemon = YAMASK,38
+Pokemon = EELEKTRIK,38
+Pokemon = PAWNIARD,38
+Pokemon = DEINO,41
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,2]
+LoseText = I hate you, I hate you, I hate you.
+Pokemon = ROSERADE,41
+    IV = 31,31,31,31,31,31
+Pokemon = SOLROCK,38
+Pokemon = DUSCLOPS,38
+Pokemon = SKORUPI,38
+#-------------------------------
+[PICNICKER,Ala]
+LoseText = ...
+Pokemon = TYPHLOSION,39
+#-------------------------------
+[CUEBALL,Elias]
+LoseText = ...
+Pokemon = MIGHTYENA,39
+Pokemon = SUDOWOODO,39
+#-------------------------------
+[SAILOR,Odin]
+LoseText = ...
+Pokemon = SLOWBRO,39
+Pokemon = GYARADOS,39
+#-------------------------------
+[MINER,Tobias]
+LoseText = ...
+Pokemon = GRAVELER,39
+Pokemon = MAGCARGO,39
+#-------------------------------
+[WARPARTY,Ked,1]
+LoseText = ...
+Pokemon = ARBOK,39
+#-------------------------------
+[WARPARTY,Tovir,1]
+LoseText = ...
+Pokemon = HAUNTER,39
+Pokemon = SLOWBRO,39
+#-------------------------------
+[WARPARTY,Javier,1]
+LoseText = ...
+Pokemon = RATICATE,39
+Pokemon = HAUNTER,39
+#-------------------------------
+[WARPARTY,Minato,1]
+LoseText = ...
+Pokemon = MAROWAK,39
+Pokemon = KADABRA,39
+#-------------------------------
+[WARPARTY,Caleb,1]
+LoseText = ...
+Pokemon = SANDSLASH,39
+Pokemon = MUK,39
+#-------------------------------
+[WARPARTY_F,Julia,1]
+LoseText = ...
+Pokemon = GRAVELER,39
+Pokemon = HYPNO,39
+#-------------------------------
+[WARPARTY,Aragon,1]
+LoseText = ...
+Pokemon = GENGAR,40
+#-------------------------------
+[WARPARTY_F,Tarja,1]
+LoseText = ...
+Pokemon = PIDGEOT,40
+#-------------------------------
+[WARPARTY,Bastian,1]
+LoseText = ...
+Pokemon = HYPNO,39
+Pokemon = GOLBAT,39
+#-------------------------------
+[WARPARTY,Ray,1]
+LoseText = ...
+Pokemon = FEAROW,39
+Pokemon = HAUNTER,39
+#-------------------------------
+[WARPARTY_F,Bianca,1]
+LoseText = ...
+Pokemon = GOLEM,40
+#-------------------------------
+[WARPARTY_F,Aisha,1]
+LoseText = ...
+Pokemon = ONIX,39
+Pokemon = SANDSLASH,39
+Pokemon = GLOOM,39
+#-------------------------------
+[WARPARTY,Derek,1]
+LoseText = ...
+Pokemon = HAUNTER,39
+Pokemon = HAUNTER,39
+Pokemon = PORYGON,39
+#-------------------------------
+[WARPARTY_F,Alicia,1]
+LoseText = ...
+Pokemon = RHYDON,40
+Pokemon = MACHOKE,40
+#-------------------------------
+[ROCKER,Tobias]
+LoseText = ...
+Pokemon = ELECTRODE,42
+#-------------------------------
+[CUEBALL,Trevis]
+LoseText = ...
+Pokemon = BRELOOM,41
+Pokemon = QUAGSIRE,41
+#-------------------------------
+[GENTLEMAN,Robin]
+LoseText = ...
+Pokemon = MAGNETON,42
+Pokemon = SLOWKING,42
+Pokemon = FERROSEED,42
+#-------------------------------
+[SCIENTIST,Caleb]
+LoseText = ...
+Pokemon = SKARMORY,43
+Pokemon = METANG,43
+#-------------------------------
+[HIKER,Norman]
+LoseText = ...
+Pokemon = FERROSEED,42
+#-------------------------------
+[HIKER,Loyd]
+LoseText = ...
+Pokemon = MAGNETON,42
+Pokemon = STEELIX,42
+#-------------------------------
+[MINER,Urugos]
+LoseText = ...
+Pokemon = FORRETRESS,42
+#-------------------------------
+[HIKER,Suruq]
+LoseText = ...
+Pokemon = LAIRON,42
+Pokemon = ESCAVALIER,43
+#-------------------------------
+[SCIENTIST,Kameron]
+LoseText = ...
+Pokemon = MAGNETON,42
+Pokemon = LAIRON,43
+#-------------------------------
+[MINER,Talas]
+LoseText = ...
+Pokemon = MAWILE,43
+#-------------------------------
+[LEADER_Aragon,Aragon]
+LoseText = ...
+Pokemon = AGGRON,44
+Pokemon = MAGNEZONE,44
+Pokemon = SCIZOR,44
+Pokemon = MAWILE,44
+Pokemon = METAGROSS,46
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[RIVALTalma,Talma,3]
+Items = HYPERPOTION
+LoseText = Stronger than expected.
+Pokemon = GARDEVOIR,44
+Pokemon = SCYTHER,44
+Pokemon = LUCARIO,44
+Pokemon = PUPITAR,46
+#-------------------------------
+[WARPARTY_F,Talia,1]
+LoseText = ...
+Pokemon = RATICATE,42
+Pokemon = RHYDON,43
+#-------------------------------
+[WARPARTY_F,Carla,1]
+LoseText = ...
+Pokemon = HYPNO,44
+Pokemon = PINSIR,44
+#-------------------------------
+[WARPARTY,Derek,2]
+LoseText = ...
+Pokemon = WEEZING,44
+Pokemon = MUK,44
+Pokemon = GOLEM,44
+#-------------------------------
+[WARPARTY,Anderson,2]
+LoseText = ...
+Pokemon = TENTACRUEL,44
+Pokemon = MUK,44
+#-------------------------------
+[WARPARTY,Tarak,2]
+LoseText = ...
+Pokemon = KABUTOPS,46
+#-------------------------------
+[SCIENTIST,Arguel]
+LoseText = ...
+Pokemon = BRONZONG,45
+Pokemon = SWOOBAT,45
+#-------------------------------
+[ROCKETBOSS,Giovanni]
+LoseText = ...
+Pokemon = RHYDON,46
+Pokemon = NIDOKING,47
+Pokemon = NIDOQUEEN,47
+Pokemon = DUGTRIO,46
+Pokemon = RHYPERIOR,49
+#-------------------------------
+[WARPARTY_F,Ara,1]
+LoseText = ...
+Pokemon = ALAKAZAM,48
+#-------------------------------
+[WARPARTY,Mathew,2]
+LoseText = ...
+Pokemon = LAPRAS,48
+#-------------------------------
+[ASHEN_TIBAN,Tiban]
+Items = MEGARING,MAXPOTION
+LoseText = I guess I'll have to get my own arsenal ready.
+Pokemon = HIPPOWDON,48
+    Moves = SANDSTORM,YAWN,EARTHQUAKE,REST
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SERPERIOR,49
+    Moves = COIL,LEAFSTORM,AQUATAIL,NATUREPOWER
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,49
+    Moves = SWORDSDANCE,ROCKSLIDE,EARTHQUAKE,IRONHEAD
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GASTRODON,49
+    Moves = RECOVER,ICEBEAM,SURF,EARTHPOWER
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,52
+    Moves = ROCKSLIDE,ROOST,BRAVEBIRD,IRONHEAD
+    Item = AERODACTYLITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ASHEN_TIBAN,Tiban,20]
+Items = MEGARING,FULLRESTORE
+Pokemon = HIPPOWDON,81
+    Moves = SANDSTORM,YAWN,EARTHQUAKE,REST
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SERPERIOR,81
+    Moves = COIL,LEAFSTORM,AQUATAIL,NATUREPOWER
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,81
+    Moves = SWORDSDANCE,ROCKSLIDE,EARTHQUAKE,IRONHEAD
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GASTRODON,81
+    Moves = RECOVER,ICEBEAM,SURF,EARTHPOWER
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SALAZZLE,81
+	Moves = FLAMETHROWER,SLUDGEBOMB,DRAGONPULSE,TOXIC
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,83
+    Moves = ROCKSLIDE,ROOST,BRAVEBIRD,IRONHEAD
+    Item = AERODACTYLITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ASHEN_TIBAN,Tiban,21]
+Items = MEGARING,FULLRESTORE
+Pokemon = HIPPOWDON,87
+    Moves = SANDSTORM,YAWN,EARTHQUAKE,REST
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SERPERIOR,87
+    Moves = COIL,LEAFSTORM,AQUATAIL,NATUREPOWER
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,87
+    Moves = SWORDSDANCE,ROCKSLIDE,EARTHQUAKE,IRONHEAD
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GASTRODON,87
+    Moves = RECOVER,ICEBEAM,SURF,EARTHPOWER
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SALAZZLE,87
+	Moves = FLAMETHROWER,SLUDGEBOMB,DRAGONPULSE,TOXIC
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,89
+    Moves = ROCKSLIDE,ROOST,BRAVEBIRD,IRONHEAD
+    Item = AERODACTYLITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ASHEN_TIBAN,Tiban,2]
+Items = MEGARING,FULLRESTORE
+Pokemon = HIPPOWDON,89
+    Moves = SANDSTORM,YAWN,EARTHQUAKE,REST
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SERPERIOR,90
+    Moves = COIL,LEAFSTORM,AQUATAIL,NATUREPOWER
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,89
+    Moves = SWORDSDANCE,ROCKSLIDE,EARTHQUAKE,IRONHEAD
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GASTRODON,89
+    Moves = RECOVER,ICEBEAM,SURF,EARTHPOWER
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SALAZZLE,90
+	Moves = FLAMETHROWER,SLUDGEBOMB,DRAGONPULSE,TOXIC
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,93
+    Moves = ROCKSLIDE,ROOST,BRAVEBIRD,IRONHEAD
+    Item = AERODACTYLITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[POKEMONBOSS,???]
+LoseText = . . .
+Pokemon = SANDACONDA,50
+    Form = 1
+    Moves = EARTHQUAKE,BULKUP,THUNDERFANG,FIREFANG
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[VICTORIA,Victoria]
+LoseText = ...
+Pokemon = CROBAT,50
+Pokemon = LUNATONE,50
+Pokemon = TOXICROAK,50
+Pokemon = FERROTHORN,50
+Pokemon = DRAGONAIR,52
+Pokemon = MILOTIC,50
+#-------------------------------
+[FISHERMAN,Salim]
+LoseText = ...
+Pokemon = BLASTOISE,49
+#-------------------------------
+[SWIMMER_F,Eddie]
+LoseText = ...
+Pokemon = KINGLER,49
+Pokemon = TENTACRUEL,49
+#-------------------------------
+[SWIMMER_M,Irh]
+LoseText = ...
+Pokemon = STARMIE,49
+Pokemon = LANTURN,49
+#-------------------------------
+[SWIMMER_M,Taylor]
+LoseText = ...
+Pokemon = LAPRAS,49
+Pokemon = SHARPEDO,49
+#-------------------------------
+[SWIMMER_M,Oras]
+LoseText = ...
+Pokemon = CLOYSTER,49
+Pokemon = SEAKING,49
+#-------------------------------
+[SWIMMER_M,Bylel]
+LoseText = ...
+Pokemon = PELIPPER,49
+Pokemon = GASTRODON,49
+#-------------------------------
+[GENTLEMAN,Tobias]
+LoseText = ...
+Pokemon = MAWILE,51
+Pokemon = MEGANIUM,51
+Pokemon = QUAGSIRE,51
+#-------------------------------
+[BLACKBELT,Richard]
+LoseText = ...
+Pokemon = MACHAMP,52
+#-------------------------------
+[VIKING_Ogar,Ogar,2]
+LoseText = GYAAAAAAAAAAAAAAAAAAAAAAAAA
+Pokemon = HOUNDOOM,52
+Pokemon = QUAGSIRE,52
+Pokemon = SLAKING,52
+Pokemon = GARCHOMP,52
+    IV = 31,31,31,31,31,31
+Pokemon = ACCELGOR,54
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[POKEMONRANGER_M,Benny]
+LoseText = ...
+Pokemon = MANECTRIC,52
+Pokemon = LUXRAY,52
+#-------------------------------
+[POKEMONRANGER_F,Sally]
+LoseText = ...
+Pokemon = ELECTRODE,52
+Pokemon = ZEBSTRIKA,52
+#-------------------------------
+[POKEMONRANGER_F,Tania]
+LoseText = ...
+Pokemon = JOLTEON,53
+Pokemon = EMOLGA,53
+Pokemon = EELEKTROSS,53
+#-------------------------------
+[LEADER_Tobias,Tobias]
+LoseText = A great trainer arrived here ! Congratulation !
+Pokemon = GALVANTULA,53
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,53
+    Moves = FLASHCANNON,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,53
+    Moves = DISCHARGE,FLAMETHROWER,UTURN,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = EMOLGA,53
+    Moves = DISCHARGE,VOLTSWITCH,ENERGYBALL,SWIFT
+    IV = 31,31,31,31,31,31
+Pokemon = AMPHAROS,53
+    Moves = DRAGONPULSE,DISCHARGE,RAINDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,55
+    Shiny = yes
+    Moves = ICEPUNCH,FIREPUNCH,DISCHARGE,BULLDOZE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[SUPERNERD,Ben]
+LoseText = ...
+Pokemon = MUK,53
+Pokemon = ROSERADE,53
+#-------------------------------
+[GAMBLER,Cortner]
+LoseText = ...
+Pokemon = MAROWAK,53
+Pokemon = CRAWDAUNT,53
+Pokemon = TENTACRUEL,53
+Pokemon = EXPLOUD,53
+#-------------------------------
+[GENTLEMAN,Cobi]
+LoseText = ...
+Pokemon = CHARIZARD,53
+Pokemon = FORRETRESS,53
+#-------------------------------
+[PLASMACO3,Rioku]
+LoseText = ...
+Pokemon = MUSHARNA,54
+Pokemon = REUNICLUS,56
+Pokemon = CHANDELURE,54
+#-------------------------------
+[LASS,Kaylee]
+LoseText = ...
+Pokemon = BUTTERFREE,31
+#-------------------------------
+[LEADER_Patrick,Patrick]
+LoseText = We lost ?
+Pokemon = YANMA,25
+    Moves = AERIALACE,DETECT,BUGBUZZ,DOUBLETEAM
+Pokemon = MASQUERAIN,25
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,27
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,25
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,25
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+#-------------------------------
+[P_Patrick,Patrick]
+LoseText = HeLp Me I aM bEgGiNg YoU.
+Pokemon = GALVANTULA,55
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+Pokemon = MASQUERAIN,55
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,57
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,55
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,55
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,3]
+LoseText = I hate you, I hate you, I hate you.
+Pokemon = SOLROCK,55
+Pokemon = DUSKNOIR,55
+Pokemon = DRAPION,55
+Pokemon = SALAMENCE,55
+Pokemon = ROSERADE,57
+    Form = 1
+    Moves = AURASPHERE,TOXIC,DRAGONPULSE,GIGADRAIN
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VICTORIA,Victoria,1]
+LoseText = ...
+Pokemon = CROBAT,54
+Pokemon = LUNATONE,54
+Pokemon = TOXICROAK,54
+Pokemon = FERROTHORN,54
+Pokemon = DRAGONAIR,56
+Pokemon = MILOTIC,55
+#-------------------------------
+[ACE_F,Rachel,1]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = How dare... you !
+Pokemon = ZOROARK,56
+    IV = 31,31,31,31,31,31
+Pokemon = MANDIBUZZ,56
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,56
+    Moves = HONECLAWS,ICEPUNCH,POISONJAB,BRICKBREAK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = HONCHKROW,56
+    Moves = NIGHTSLASH,ROOST,THUNDERWAVE,PLUCK
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,252,2
+Pokemon = ABSOL,56
+    Moves = SWORDSDANCE,ROCKTOMB,SUCKERPUNCH,PLAYROUGH
+    Item = ABSOLITE
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+Pokemon = UMBREON,58
+    Moves = DOUBLEKICK,DARKPULSE,WISH,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[PLASMAM,Grunt,1]
+LoseText = ...
+Pokemon = SCOLIPEDE,56
+Pokemon = SCRAFTY,56
+Pokemon = GIGALITH,56
+#-------------------------------
+[PLASMAM,Grunt]
+LoseText = ...
+Pokemon = SWOOBAT,56
+Pokemon = DRUDDIGON,56
+Pokemon = GARBODOR,56
+#-------------------------------
+[PLASMAF,Grunt]
+LoseText = ...
+Pokemon = EXCADRILL,56
+Pokemon = STOUTLAND,56
+Pokemon = HEATMOR,56
+#-------------------------------
+[PLASMAF,Grunt,1]
+LoseText = ...
+Pokemon = CRUSTLE,56
+Pokemon = GARBODOR,56
+#-------------------------------
+[PLASMAF,Grunt,3]
+LoseText = ...
+Pokemon = CONKELDURR,56
+Pokemon = KROOKODILE,56
+#-------------------------------
+[LCULTISTM,Maxwell]
+LoseText = ...
+Pokemon = LUDICOLO,56
+Pokemon = GLALIE,56
+Pokemon = PROBOPASS,56
+Pokemon = MISMAGIUS,56
+#-------------------------------
+[PLASMAF,Grunt,4]
+LoseText = ...
+Pokemon = GOTHITELLE,57
+Pokemon = UNFEZANT,56
+Pokemon = DRUDDIGON,56
+#-------------------------------
+[PLASMAM,Grunt,7]
+LoseText = ...
+Pokemon = ZEBSTRIKA,57
+Pokemon = MUSHARNA,56
+Pokemon = CINCCINO,56
+#-------------------------------
+[LCULTISTM,Oragur]
+LoseText = ...
+Pokemon = GOLEM,57
+Pokemon = CROBAT,56
+Pokemon = SWAMPERT,56
+Pokemon = LUXRAY,56
+#-------------------------------
+[PLASMACO2,Giallo,1]
+LoseText = Again ?
+Pokemon = MUSHARNA,57
+Pokemon = REUNICLUS,57
+Pokemon = SCRAFTY,57
+Pokemon = KROOKODILE,59
+#-------------------------------
+[LCULTISTM,Paul,1]
+LoseText = Once again...
+Pokemon = GABITE,32
+Pokemon = LAIRON,32
+Pokemon = GOLBAT,32
+#-------------------------------
+[LCULTISTM,Paul,2]
+LoseText = Power... how come ?
+Pokemon = GARCHOMP,57
+Pokemon = AGGRON,57
+Pokemon = CROBAT,57
+Pokemon = SANDSLASH,57
+#-------------------------------
+[PLASMAF,Grunt,5]
+LoseText = ...
+Pokemon = CARRACOSTA,57
+Pokemon = ARCHEOPS,57
+Pokemon = KLINKLANG,57
+#-------------------------------
+[PLASMACO1,Zinzolin]
+LoseText = ...
+Pokemon = CRYOGONAL,58
+Pokemon = CRYOGONAL,58
+Pokemon = REUNICLUS,58
+Pokemon = WEAVILE,60
+#-------------------------------
+[VICTORIA,Victoria,2]
+LoseText = ...
+Pokemon = CROBAT,58
+Pokemon = LUNATONE,58
+Pokemon = TOXICROAK,58
+Pokemon = FERROTHORN,58
+Pokemon = DRAGONITE,61
+Pokemon = MILOTIC,59
+#-------------------------------
+[ACE_F,Rachel,2]
+Items = MEGARING,FULLRESTORE,FULLRESTORE
+LoseText = How dare... you !
+Pokemon = ZOROARK,58
+    IV = 31,31,31,31,31,31
+Pokemon = MANDIBUZZ,58
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,58
+    Moves = HONECLAWS,ICEPUNCH,POISONJAB,BRICKBREAK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = HONCHKROW,58
+    Moves = NIGHTSLASH,ROOST,THUNDERWAVE,PLUCK
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,252,2
+Pokemon = ABSOL,58
+    Moves = SWORDSDANCE,ROCKTOMB,SUCKERPUNCH,PLAYROUGH
+    Item = ABSOLITE
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+Pokemon = UMBREON,61
+    Moves = DOUBLEKICK,DARKPULSE,WISH,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[PLASMACO3,Rioku,1]
+LoseText = ...
+Pokemon = MUSHARNA,58
+Pokemon = HAXORUS,60
+Pokemon = CHANDELURE,58
+Pokemon = SCRAFTY,58
+Pokemon = KROOKODILE,60
+Pokemon = REUNICLUS,62
+#-------------------------------
+[CORRUPTED,???]
+LoseText = ...
+Pokemon = PORYGONZ,59
+Pokemon = GOLURK,59
+Pokemon = SALAMENCE,59
+#-------------------------------
+[CORRUPTED,???,1]
+LoseText = ...
+Pokemon = PORYGONZ,59
+Pokemon = GOLURK,59
+Pokemon = SALAMENCE,59
+Pokemon = CROBAT,59
+#-------------------------------
+[CORRUPTED,???,2]
+LoseText = ...
+Pokemon = DARKRAI,70
+    Name = Kalathar
+    Form = 1
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_ZACHARY,Zachary,1]
+Items = FULLRESTORE,MEGARING
+LoseText = I am still not strong enought !
+Pokemon = CONKELDURR,59
+Pokemon = MACHAMP,59
+Pokemon = TOXICROAK,59
+Pokemon = MEDICHAM,60
+Pokemon = SAWK,60
+Pokemon = LUCARIO,62
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = LUCARIONITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LCULTISTM,Senioros]
+LoseText = No... not now !
+Pokemon = HAXORUS,60
+Pokemon = HONCHKROW,60
+Pokemon = GLALIE,60
+#-------------------------------
+[YAHGOLEADER,Talma]
+Items = HYPERPOTION,HYPERPOTION
+LoseText = Why are you still strong !? And why are you now in my PATH !
+Pokemon = GARDEVOIR,60
+Pokemon = SCIZOR,60
+Pokemon = LUCARIO,60
+Pokemon = LUDICOLO,60
+Pokemon = TYRANITAR,62
+#-------------------------------
+[PLASMABOSS,Ghetsis,19]
+LoseText = I may be nothing in your eyes but I was someone before !
+Pokemon = COFAGRIGUS,80
+    Moves = WILLOWISP,TOXICSPIKES,SHADOWBALL,DESTINYBOND
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,80
+    Moves = THUNDERBOLT,FLAMETHROWER,ROCKTOMB,EARTHPOWER
+    IV = 31,31,31,31,31,31
+Pokemon = SEISMITOAD,80
+    Moves = EARTHPOWER,SLUDGEBOMB,RAINDANCE,SCALD
+    IV = 31,31,31,31,31,31
+Pokemon = BISHARP,80
+    Moves = NIGHTSLASH,IRONHEAD,SWORDSDANCE,GUILLOTINE
+    IV = 31,31,31,31,31,31
+Pokemon = BOUFFALANT,80
+    Moves = MEGAHORN,DOUBLEEDGE,HEADSMASH,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,84
+    Moves = OUTRAGE,CRUNCH,DRAGONDANCE,PROTECT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMAF,Grunt,7]
+LoseText = ...
+Pokemon = MIENSHAO,60
+Pokemon = GARBODOR,60
+Pokemon = EMOLGA,60
+#-------------------------------
+[PLASMAM,Grunt,11]
+LoseText = ...
+Pokemon = GIGALITH,60
+Pokemon = KLINKLANG,60
+Pokemon = JELLICENT,60
+#-------------------------------
+[PLASMAF,Grunt,10]
+LoseText = ...
+Pokemon = SCRAFTY,60
+Pokemon = AMOONGUSS,60
+Pokemon = CRUSTLE,60
+#-------------------------------
+[PLASMACO2,Giallo,2]
+LoseText = ...
+Pokemon = MUSHARNA,60
+Pokemon = SEISMITOAD,60
+Pokemon = SCRAFTY,60
+Pokemon = SCOLIPEDE,60
+Pokemon = KROOKODILE,60
+Pokemon = REUNICLUS,62
+#-------------------------------
+[PLASMAF,Grunt,8]
+LoseText = ...
+Pokemon = CINCCINO,60
+Pokemon = EXCADRILL,60
+Pokemon = SCRAFTY,60
+#-------------------------------
+[PLASMAM,Grunt,10]
+LoseText = ...
+Pokemon = THROH,60
+Pokemon = SWOOBAT,60
+Pokemon = SCOLIPEDE,60
+#-------------------------------
+[PLASMAF,Grunt,9]
+LoseText = ...
+Pokemon = DRUDDIGON,60
+Pokemon = KROOKODILE,60
+Pokemon = MIENSHAO,60
+#-------------------------------
+[PLASMACO3,Rioku,2]
+Items = MEGARING
+LoseText = ...
+Pokemon = MUSHARNA,60
+Pokemon = HAXORUS,60
+	IV = 31,31,31,31,31,31
+	EV = 0,252,252,0,4,0
+	Item = HAXORITE
+Pokemon = CHANDELURE,60
+Pokemon = SCRAFTY,60
+Pokemon = KROOKODILE,60
+Pokemon = REUNICLUS,62
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[CORRUPTED,???,3]
+LoseText = ...
+Pokemon = PORYGONZ,62
+Pokemon = GOLURK,62
+Pokemon = SALAMENCE,62
+Pokemon = CROBAT,62
+Pokemon = MAGNEZONE,62
+#-------------------------------
+[MASKED,Masked]
+LoseText = ...
+Pokemon = HOUNDOOM,63
+Pokemon = SCEPTILE,63
+Pokemon = HONCHKROW,63
+Pokemon = WALREIN,63
+Pokemon = KABUTOPS,63
+#-------------------------------
+[MASKED,Masked,1]
+LoseText = ...
+Pokemon = MIGHTYENA,63
+Pokemon = LANTURN,63
+Pokemon = MAWILE,63
+Pokemon = GARDEVOIR,63
+#-------------------------------
+[MASKED,Masked,2]
+LoseText = ...
+Pokemon = ABOMASNOW,63
+Pokemon = AERODACTYL,63
+Pokemon = SLOWKING,63
+Pokemon = SALAMENCE,63
+#-------------------------------
+[MASKED,Masked,3]
+LoseText = ...
+Pokemon = WALREIN,63
+Pokemon = ARIADOS,63
+Pokemon = LUXRAY,63
+Pokemon = CROBAT,63
+#-------------------------------
+[CORRUPTED2,The Creation]
+LoseText = ...
+Pokemon = PORYGONZ,64
+Pokemon = GOLURK,64
+Pokemon = DARKRAI,70
+    Name = Kalathar
+    Form = 1
+    Moves = DARKPULSE,NASTYPLOT,FOCUSBLAST,SLUDGEBOMB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MASKED,Masked,4]
+LoseText = ...
+Pokemon = VOLCARONA,64
+Pokemon = ZOROARK,64
+Pokemon = POLIWRATH,64
+#-------------------------------
+[YAHGOLEADER,Talma,1]
+Items = HYPERPOTION,HYPERPOTION
+LoseText = Brother...
+Pokemon = GARDEVOIR,65
+Pokemon = SCIZOR,65
+Pokemon = LUCARIO,65
+Pokemon = LUDICOLO,65
+Pokemon = CHARIZARD,67
+    IV = 31,31,31,31,31,31
+Pokemon = TYRANITAR,69
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GUARD,Charles]
+LoseText = ...
+Pokemon = ARCANINE,64
+Pokemon = SHIFTRY,64
+Pokemon = BARBOACH,64
+#-------------------------------
+[GUARD,Ludovic]
+LoseText = ...
+Pokemon = KANGASKHAN,64
+Pokemon = HOUNDOOM,64
+Pokemon = BASTIODON,64
+#-------------------------------
+[GUARD,Paul]
+LoseText = ...
+Pokemon = BRELOOM,64
+Pokemon = GASTRODON,64
+Pokemon = DRAPION,64
+#-------------------------------
+[GUARD,Calas]
+LoseText = ...
+Pokemon = ZEBSTRIKA,64
+Pokemon = ALAKAZAM,64
+Pokemon = KINGDRA,64
+#-------------------------------
+[GUARD,Harold]
+LoseText = ...
+Pokemon = AMPHAROS,64
+Pokemon = RAMPARDOS,64
+Pokemon = CACTURNE,64
+#-------------------------------
+[GUARD,Talon,1]
+LoseText = I've deceived Douglas...
+Pokemon = NIDOQUEEN,65
+    Moves = EARTHPOWER,TAUNT,ICEBEAM,SLUDGEBOMB
+    IV = 31,31,31,31,31,31
+Pokemon = MEDICHAM,65
+    Moves = FAKEOUT,HIGHJUMPKICK,ZENHEADBUTT,ICEPUNCH
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,65
+    Moves = AIRSLASH,WISH,ANCIENTPOWER,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,65
+    Moves = SUCKERPUNCH,PLAYROUGH,PURSUIT,SWORDSDANCE
+    IV = 31,31,31,31,31,31
+Pokemon = BRELOOM,65
+    Moves = MACHPUNCH,ROCKTOMB,THUNDERPUNCH,BULLETSEED
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARGENTA,Argenta,1]
+LoseText = ...
+Pokemon = LATIAS,65
+Pokemon = ARCANINE,65
+Pokemon = MIGHTYENA,65
+Pokemon = HUNTAIL,65
+Pokemon = SCEPTILE,65
+#-------------------------------
+[SAILOR,Kaze,1]
+LoseText = ...
+Pokemon = BLASTOISE,65
+Pokemon = LUDICOLO,65
+Pokemon = CRAWDAUNT,65
+Pokemon = GASTRODON,65
+Pokemon = WAILORD,65
+#-------------------------------
+[MORTY,Morty,1]
+LoseText = ...
+Pokemon = SABLEYE,65
+Pokemon = GENGAR,65
+Pokemon = BANETTE,65
+Pokemon = DUSKNOIR,65
+Pokemon = MISMAGIUS,65
+#-------------------------------
+[SHUGURI,Shuguri,1]
+LoseText = ...
+Pokemon = GYARADOS,65
+Pokemon = INFERNAPE,65
+Pokemon = PELIPPER,65
+Pokemon = LILLIGANT,65
+Pokemon = RHYPERIOR,65
+Pokemon = DEOXYS,65
+#-------------------------------
+[SKIER,Shaila,1]
+LoseText = ...
+Pokemon = ABOMASNOW,65
+Pokemon = LAPRAS,65
+Pokemon = GLALIE,65
+Pokemon = WALREIN,65
+Pokemon = VANILLUXE,65
+#-------------------------------
+[SILVER,Silver,1]
+LoseText = ...
+Pokemon = WEAVILE,65
+Pokemon = MAGNEZONE,65
+Pokemon = ALAKAZAM,65
+Pokemon = GENGAR,65
+Pokemon = CROBAT,65
+Pokemon = FERALIGATR,65
+#-------------------------------
+[GAMBLER,Orphe,1]
+LoseText = ...
+Pokemon = CLOYSTER,65
+Pokemon = SHUCKLE,65
+Pokemon = FORRETRESS,65
+Pokemon = CLAYDOL,65
+Pokemon = LOPUNNY,65
+#-------------------------------
+[GUARD,Domingo,1]
+LoseText = ...
+Pokemon = HOUNDOOM,65
+Pokemon = TORTERRA,65
+Pokemon = HAXORUS,65
+Pokemon = SLAKING,67
+Pokemon = MILOTIC,65
+Pokemon = PROBOPASS,69
+#-------------------------------
+[YAHGOLEADER,Talma,2]
+LoseText = How...
+Pokemon = GARDEVOIR,65
+Pokemon = SCIZOR,65
+Pokemon = LUCARIO,65
+Pokemon = LUDICOLO,65
+Pokemon = CHARIZARD,67
+Pokemon = TYRANITAR,69
+#-------------------------------
+[SCIENTIST,Ted,1]
+LoseText = ...
+Pokemon = KABUTOPS,65
+Pokemon = SLOWKING,65
+Pokemon = CLAYDOL,65
+Pokemon = EXEGGUTOR,65
+Pokemon = QWILFISH,65
+#-------------------------------
+[PALMER,Palmer]
+LoseText = ...
+Pokemon = DRAGONITE,65
+Pokemon = MILOTIC,65
+Pokemon = RHYPERIOR,65
+Pokemon = YANMEGA,65
+Pokemon = CRESSELIA,65
+#-------------------------------
+[SABRINA,Sabrina]
+LoseText = ...
+Pokemon = SLOWBRO,65
+Pokemon = HYPNO,65
+Pokemon = JYNX,65
+Pokemon = GIRAFARIG,65
+Pokemon = ESPEON,65
+Pokemon = ALAKAZAM,65
+#-------------------------------
+[LEADER_Brock,Brock,1]
+LoseText = ...
+Pokemon = SUDOWOODO,65
+Pokemon = GOLEM,65
+Pokemon = ONIX,65
+Pokemon = FORRETRESS,65
+Pokemon = STEELIX,65
+#-------------------------------
+[BEAUTY,Calatild,1]
+LoseText = ...
+Pokemon = VICTREEBEL,65
+Pokemon = DELCATTY,65
+Pokemon = LOPUNNY,65
+Pokemon = FLYGON,65
+Pokemon = ROSERADE,65
+#-------------------------------
+[PRYCE,Pryce,1]
+LoseText = ...
+Pokemon = ABOMASNOW,65
+Pokemon = DEWGONG,65
+Pokemon = WALREIN,65
+Pokemon = FROSLASS,65
+Pokemon = MAMOSWINE,65
+#-------------------------------
+[LCULTISTM,Owald]
+LoseText = ...
+Pokemon = HYPNO,66
+Pokemon = HERACROSS,66
+Pokemon = RAMPARDOS,66
+Pokemon = CROBAT,66
+Pokemon = BOUFFALANT,66
+#-------------------------------
+[LCULTISTM,Gunter,1]
+LoseText = ...
+Pokemon = BLASTOISE,66
+Pokemon = KINGDRA,66
+Pokemon = AMPHAROS,66
+Pokemon = SKARMORY,66
+Pokemon = METAGROSS,66
+#-------------------------------
+[CULTIST_LEADER_ANDREW,Andrew]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Even with Omega Pokemons...
+Pokemon = MAMOSWINE,67
+Pokemon = BLASTOISE,67
+Pokemon = SWOOBAT,68
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    Item = BLACKSLUDGE
+    IV = 31,31,31,31,31,31
+Pokemon = BISHARP,68
+    Form = 1
+    Moves = ICEPUNCH,SUCKERPUNCH,SWORDSDANCE,DOUBLEIRONSLASH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,70
+    Form = 2
+    Moves = PSYCHIC,DRAGONPULSE,AURASPHERE,CALMMIND
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_ERACLES,Eracles,1]
+LoseText = ...
+Pokemon = SWAMPERT,68
+Pokemon = CARRACOSTA,68
+Pokemon = CLOYSTER,68
+Pokemon = KINGDRA,68
+Pokemon = EMPOLEON,68
+Pokemon = STARMIE,70
+    Moves = PSYCHIC,RECOVER,SCALD,CONFUSERAY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ADMIN_ELISIA,Elisia el Clipsia,4]
+LoseText = I hate you, I hate you, I hate you.
+Pokemon = SOLROCK,70
+Pokemon = DUSKNOIR,70
+Pokemon = DRAPION,70
+Pokemon = SALAMENCE,70
+Pokemon = RAPIDASH,70
+Pokemon = ROSERADE,72
+    Form = 1
+    Moves = AURASPHERE,TOXIC,DRAGONPULSE,GIGADRAIN
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar,Ogar,3]
+LoseText = ...
+Pokemon = LUNATONE,70
+Pokemon = QUAGSIRE,70
+Pokemon = ACCELGOR,72
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+Pokemon = MEGANIUM,70
+Pokemon = MACHAMP,70
+Pokemon = BISHARP,70
+    Form = 1
+    Moves = ICEPUNCH,SUCKERPUNCH,SWORDSDANCE,DOUBLEIRONSLASH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_ZACHARY,Zachary,2]
+Items = FULLRESTORE,MEGARING
+LoseText = I am still not strong enought !
+Pokemon = CONKELDURR,70
+    IV = 31,31,31,31,31,31
+Pokemon = HITMONSLASH,71
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK,70
+    IV = 31,31,31,31,31,31
+Pokemon = MEDICHAM,71
+    IV = 31,31,31,31,31,31
+Pokemon = SAWK,71
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,73
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = LUCARIONITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARAGON,Aragon]
+LoseText = So... that's my potential...
+Pokemon = ROTOM,71
+    Form = 5
+Pokemon = VOLCARONA,71
+Pokemon = GYARADOS,71
+Pokemon = HYDREIGON,71
+Pokemon = GALLADE,71
+Pokemon = METAGROSS,73
+#-------------------------------
+[REXPLORER,Robot]
+LoseText = Bip... external error.
+Pokemon = SCRAFTY,73
+Pokemon = SAMUROTT,73
+Pokemon = GENGAR,73
+Pokemon = DRAGONITE,73
+Pokemon = AMPHAROS,73
+Pokemon = GROUDON,75
+#-------------------------------
+[MINER,Orelias]
+LoseText = ...
+Pokemon = SANDSLASH,70
+Pokemon = SUDOWOODO,70
+Pokemon = HOUNDOOM,71
+Pokemon = AERODACTYL,72
+#-------------------------------
+[BLACKBELT,Argan]
+LoseText = ...
+Pokemon = HERACROSS,70
+Pokemon = PRIMEAPE,70
+Pokemon = GALLADE,71
+Pokemon = HITMONLEE,72
+#-------------------------------
+[JUGGLER,Oros]
+LoseText = ...
+Pokemon = GRAVELER,70
+Pokemon = STEELIX,70
+Pokemon = EXCADRILL,71
+Pokemon = MAGMORTAR,72
+#-------------------------------
+[PSYCHIC_F,Lauriane,1]
+LoseText = ...
+Pokemon = ALAKAZAM,70
+Pokemon = GARDEVOIR,71
+Pokemon = CLAYDOL,70
+Pokemon = WOBBUFFET,72
+#-------------------------------
+[HIKER,Bob]
+LoseText = ...
+Pokemon = RHYDON,71
+Pokemon = CLAYDOL,71
+Pokemon = TORTERRA,72
+Pokemon = GIGALITH,71
+#-------------------------------
+[YORCHI,Yorchi]
+LoseText = So, you are the one.
+Pokemon = MAGCARGO,72
+Pokemon = MIGHTYENA,72
+Pokemon = DRUDDIGON,72
+Pokemon = CROBAT,72
+Pokemon = TORTERRA,74
+    Form = 1
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[JUGGLER,Palm]
+LoseText = ...
+Pokemon = NIDOKING,70
+Pokemon = HOUNDOOM,71
+Pokemon = CAMERUPT,71
+Pokemon = DRAPION,72
+#-------------------------------
+[JUGGLER,Taylor]
+LoseText = ...
+Pokemon = NIDOQUEEN,70
+Pokemon = MAWILE,71
+Pokemon = SOLROCK,71
+Pokemon = HEATMOR,72
+#-------------------------------
+[CRUSHGIRL,Iris]
+LoseText = ...
+Pokemon = POLIWRATH,70
+Pokemon = HERACROSS,70
+Pokemon = INFERNAPE,71
+Pokemon = HITMONCHAN,72
+#-------------------------------
+[BIRDKEEPER,Elias]
+LoseText = ...
+Pokemon = GYARADOS,72
+Pokemon = DELIBIRD,72
+Pokemon = HONCHKROW,72
+#-------------------------------
+[BIRDKEEPER,Ambrew]
+LoseText = ...
+Pokemon = FARFETCHD,72
+Pokemon = FEAROW,72
+Pokemon = SIGILYPH,72
+#-------------------------------
+[BIRDKEEPER,Tomson]
+LoseText = ...
+Pokemon = ALTARIA,72
+Pokemon = MANTINE,72
+Pokemon = PIDGEOT,72
+#-------------------------------
+[BIRDKEEPER,Abel]
+LoseText = ...
+Pokemon = SKARMORY,72
+Pokemon = SWANNA,72
+Pokemon = MANDIBUZZ,72
+#-------------------------------
+[LEADER_Artemis,Artemis]
+LoseText = ...
+Pokemon = CHARIZARD,73
+    Moves = DRAGONCLAW,FLAMETHROWER,ROOST,PROTECT
+    Item = CHARCOAL
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,73
+    Moves = ROCKSLIDE,AIRSLASH,ROOST,UTURN
+    Item = CHOICESCARF
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,74
+    Moves = AIRSLASH,MOONBLAST,ANCIENTPOWER,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = TROPIUS,74
+    Moves = LEAFBLADE,AERIALACE,LEECHSEED,RAINDANCE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,75
+    Moves = AQUATAIL,FIREPUNCH,ROOST,DRAGONRUSH
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+Pokemon = RAYQUAZA,78
+    Form = 2
+    Moves = DRAGONDANCE,OUTRAGE,DRAGONASCENT,ROOST
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[P_Patrick,Patrick,1]
+LoseText = GAAAAAAAAAAAAAAAAAAAAAAAAAAAH
+Pokemon = GALVANTULA,75
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+Pokemon = MASQUERAIN,75
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,77
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,75
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,75
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+Pokemon = SHEDINJA,75
+    Moves = SWORDSDANCE,XSCISSOR,NIGHTSLASH,SHADOWSNEAK
+#-------------------------------
+[LCULTISTM,Elbert,1]
+LoseText = ...
+Pokemon = BLAZIKEN,73
+Pokemon = SWELLOW,73
+Pokemon = BRONZONG,73
+Pokemon = MAGMORTAR,73
+#-------------------------------
+[LCULTISTM,Pat,1]
+LoseText = ...
+Pokemon = MACHAMP,73
+Pokemon = STEELIX,73
+Pokemon = MAGMORTAR,73
+Pokemon = EELEKTROSS,73
+#-------------------------------
+[LCULTISTM,Leo,1]
+LoseText = ...
+Pokemon = UMBREON,73
+Pokemon = WALREIN,73
+Pokemon = BRELOOM,73
+Pokemon = MIENSHAO,73
+#-------------------------------
+[LCULTISTM,Emeric,1]
+LoseText = ...
+Pokemon = ESPEON,73
+Pokemon = BASTIODON,73
+Pokemon = LAPRAS,73
+Pokemon = LOPUNNY,73
+#-------------------------------
+[LCULTISTM,Kisay,1]
+LoseText = ...
+Pokemon = KANGASKHAN,73
+Pokemon = EMPOLEON,73
+Pokemon = MISMAGIUS,73
+Pokemon = EXCADRILL,73
+#-------------------------------
+[LCULTISTM,Cal,1]
+LoseText = ...
+Pokemon = PROBOPASS,73
+Pokemon = MAMOSWINE,73
+Pokemon = GLACEON,73
+Pokemon = AERODACTYL,73
+#-------------------------------
+[LCULTISTM,Tovir,1]
+LoseText = ...
+Pokemon = AMPHAROS,73
+Pokemon = BANETTE,73
+Pokemon = MANECTRIC,73
+Pokemon = STARAPTOR,73
+#-------------------------------
+[LCULTISTM,Orlex,1]
+LoseText = ...
+Pokemon = PIDGEOTTO,73
+Pokemon = BRONZONG,73
+Pokemon = ARIADOS,73
+Pokemon = HYPNO,73
+#-------------------------------
+[YORCHI,Yorchi,1]
+LoseText = It's time for me to retreat !
+Pokemon = MAGCARGO,75
+    Moves = STEALTHROCK,RECOVER,TOXIC,LAVAPLUME
+    Item = LEFTOVERS
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,75
+    Moves = CRUNCH,SUCKERPUNCH,PLAYROUGH,IRONTAIL
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,75
+    Moves = GLARE,EARTHQUAKE,OUTRAGE,TAUNT
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,75
+    Moves = ROOST,DARKPULSE,DOUBLETEAM,PLUCK
+Pokemon = ARCANINE,75
+    Moves = MORNINGSUN,FLAREBLITZ,WILDCHARGE,EXTREMESPEED
+    IV = 31,31,31,31,31,31
+Pokemon = TORTERRA,78
+    Form = 1
+    Moves = GIGADRAIN,FLAMETHROWER,EARTHQUAKE,STONEEDGE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LCULTISTM,Hans,1]
+LoseText = ...
+Pokemon = MAROWAK,74
+Pokemon = AGGRON,74
+Pokemon = SHARPEDO,74
+Pokemon = DRUDDIGON,74
+#-------------------------------
+[LCULTISTM,Aurus,1]
+LoseText = ...
+Pokemon = FROSLASS,74
+Pokemon = SCIZOR,74
+Pokemon = CLAYDOL,74
+Pokemon = CONKELDURR,74
+#-------------------------------
+[LCULTISTM,Oras,1]
+LoseText = ...
+Pokemon = SLOWKING,74
+Pokemon = EXPLOUD,74
+Pokemon = TOXICROAK,74
+Pokemon = CINCCINO,74
+#-------------------------------
+[LCULTISTM,Timeo,1]
+LoseText = ...
+Pokemon = RAPIDASH,75
+Pokemon = STARAPTOR,75
+Pokemon = LEAVANNY,75
+Pokemon = MIGHTYENA,75
+#-------------------------------
+[LCULTISTM,Gasper,1]
+LoseText = ...
+Pokemon = ARIADOS,75
+Pokemon = MRMIME,75
+Pokemon = DUSKNOIR,75
+Pokemon = QUAGSIRE,75
+#-------------------------------
+[LCULTISTM,Aurelian,1]
+LoseText = ...
+Pokemon = DRAGONITE,75
+Pokemon = FLYGON,75
+Pokemon = KECLEON,75
+Pokemon = LEAFEON,75
+#-------------------------------
+[LCULTISTM,Temir,1]
+LoseText = ...
+Pokemon = ALTARIA,75
+Pokemon = AGGRON,75
+Pokemon = HONCHKROW,75
+Pokemon = RAPIDASH,75
+#-------------------------------
+[LCULTISTM,David,1]
+LoseText = ...
+Pokemon = ALAKAZAM,75
+Pokemon = SHIFTRY,75
+Pokemon = DELIBIRD,75
+Pokemon = MILTANK,75
+#-------------------------------
+[LCULTISTM,Charles,1]
+LoseText = ...
+Pokemon = LAPRAS,75
+Pokemon = STEELIX,75
+Pokemon = LUXRAY,75
+Pokemon = PRIMEAPE,75
+#-------------------------------
+[LCULTISTM,Arval,1]
+LoseText = ...
+Pokemon = BLASTOISE,77
+#-------------------------------
+[LEADER_Artemis,Artemis,1]
+LoseText = Yet... I have tried my best.
+Items = MEGARING
+Pokemon = CHARIZARD,78
+    Moves = DRAGONCLAW,FLAMETHROWER,ROOST,PROTECT
+    Item = CHARCOAL
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,78
+    Moves = SUCKERPUNCH,DOUBLETEAM,ICYWIND,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,80
+	IV = 31,31,31,31,31,31
+	EV = 0,252,252,0,4,0
+	Item = HAXORITE
+Pokemon = TOGEKISS,79
+    Moves = AIRSLASH,MOONBLAST,ANCIENTPOWER,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = VIKAVOLT,79
+	Moves = VOLTSWITCH,BUGBUZZ,AIRSLASH,DIG
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,80
+    Moves = AQUATAIL,FIREPUNCH,ROOST,DRAGONRUSH
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[TOBIAS,Tobias,3]
+LoseText = Wait... we lost !?
+Pokemon = GALVANTULA,80
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,80
+    Moves = FLASHCANNON,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,80
+    Moves = DISCHARGE,FLAMETHROWER,UTURN,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = ROTOM,80
+    Moves = THUNDERBOLT,SHADOWBALL,VOLTSWITCH,TRICK
+    IV = 31,31,31,31,31,31
+Pokemon = AMPHAROS,80
+    Moves = DRAGONPULSE,DISCHARGE,RAINDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,82
+    Shiny = yes
+    Moves = ICEPUNCH,FIREPUNCH,DISCHARGE,BULLDOZE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VICTORIA,Victoria,4]
+LoseText = It... can't be...
+Pokemon = CROBAT,80
+    Moves = ROOST,LEECHLIFE,RAINDANCE,CROSSPOISON
+    IV = 31,31,31,31,31,31
+Pokemon = LUNATONE,80
+    Moves = EARTHPOWER,COSMICPOWER,HELPINGHAND,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK,80
+    Moves = COUNTER,FAKEOUT,KNOCKOFF,POWERUPPUNCH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = FERROTHORN,80
+    Moves = LEECHSEED,GYROBALL,STEALTHROCK,POWERWHIP
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,80
+    Moves = DRAGONDANCE,OUTRAGE,THUNDERPUNCH,AQUATAIL
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC,80
+    Moves = SCALD,ICEBEAM,RECOVER,AQUARING
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARAGON,Aragon,4]
+LoseText = So... that's my potential...
+Pokemon = ROTOM,80
+    Form = 5
+Pokemon = VOLCARONA,80
+Pokemon = GYARADOS,80
+Pokemon = HYDREIGON,80
+Pokemon = GALLADE,80
+Pokemon = METAGROSS,82
+#-------------------------------
+[ARCHKNIGHT,Kivanee,3]
+LoseText = Bravo, simply, just bravo !
+Pokemon = VILEPLUME,80
+    Moves = POISONPOWDER,GIGADRAIN,SLUDGEBOMB,SLEEPPOWDER
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,80
+    Moves = MOONBLAST,CALMMIND,PSYCHIC,SHADOWBALL
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,80
+    Moves = EARTHQUAKE,REST,GIGAIMPACT,ROLLOUT
+    IV = 31,31,31,31,31,31
+Pokemon = BRONZONG,80
+    Moves = TRICKROOM,BULLDOZE,PSYCHIC,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,80
+    Moves = SUCKERPUNCH,DOUBLETEAM,ICYWIND,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,82
+    Moves = FLAMETHROWER,DRAGONCLAW,BULLDOZE,FEINTATTACK
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar,Ogar,5]
+LoseText = ...
+Pokemon = LUNATONE,81
+Pokemon = QUAGSIRE,81
+Pokemon = ACCELGOR,81
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+Pokemon = MEGANIUM,81
+Pokemon = MACHAMP,81
+Pokemon = BISHARP,83
+    Form = 1
+    Moves = ICEPUNCH,SUCKERPUNCH,SWORDSDANCE,DOUBLEIRONSLASH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ACE_F,Rachel,4]
+LoseText = How dare... you !
+Pokemon = ZOROARK,81
+    IV = 31,31,31,31,31,31
+Pokemon = MANDIBUZZ,81
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,81
+    Moves = HONECLAWS,ICEPUNCH,POISONJAB,BRICKBREAK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = HONCHKROW,81
+    Moves = NIGHTSLASH,ROOST,THUNDERWAVE,PLUCK
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,252,2
+Pokemon = ABSOL,81
+    IV = 31,31,31,31,31,31
+Pokemon = UMBREON,83
+    Moves = DOUBLEKICK,DARKPULSE,WISH,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[CULTIST_LEADER_ANDREW,Andrew,2]
+LoseText = Even with Omega Pokemons...
+Pokemon = SWOOBAT,82
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    Item = BLACKSLUDGE
+    IV = 31,31,31,31,31,31
+Pokemon = STARMIE,82
+    Form = 1
+    Moves = DARKPULSE,TOXIC,FLAMETHROWER,PSYCHIC
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = BLASTOISE,83
+    IV = 31,31,31,31,31,31
+Pokemon = HITMONSLASH,83
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,85
+    Form = 2
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[AMBREW,Ambrew]
+LoseText = First battle experienced... it's a loss.
+Pokemon = SALAMENCE,84
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,84
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,84
+    IV = 31,31,31,31,31,31
+Pokemon = ALTARIA,84
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,84
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[YAHGOLEADER,Talma,4]
+LoseText = I've... failed brother...
+Pokemon = GARDEVOIR,81
+Pokemon = SCIZOR,81
+Pokemon = LUCARIO,81
+Pokemon = LUDICOLO,81
+Pokemon = CHARIZARD,82
+    IV = 31,31,31,31,31,31
+Pokemon = TYRANITAR,84
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,8]
+LoseText = I hate you, I hate you, I hate you.
+Pokemon = SOLROCK,81
+Pokemon = DUSKNOIR,81
+Pokemon = DRAPION,81
+Pokemon = SALAMENCE,81
+Pokemon = RAPIDASH,81
+Pokemon = ROSERADE,83
+    Form = 1
+    Moves = AURASPHERE,TOXIC,DRAGONPULSE,GIGADRAIN
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[AMBREW,Ambrew,1]
+LoseText = Great job !
+Pokemon = SALAMENCE,84
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,84
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,84
+    IV = 31,31,31,31,31,31
+Pokemon = ALTARIA,84
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,84
+    IV = 31,31,31,31,31,31
+Pokemon = DARKRAI,88
+    Name = Kalathar
+    Moves = DARKPULSE,DRACOMETEOR,FOCUSBLAST,SLUDGEBOMB
+    Form = 1
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LCULTISTMORDER,Isma & David & Malo & Trovados,1]
+LoseText = ...
+Pokemon = AMPHAROS,80
+Pokemon = WALREIN,80
+Pokemon = DRIFBLIM,80
+Pokemon = ALAKAZAM,80
+#-------------------------------
+[LCULTISTMORDER,Opo & Ridley & Talon & Bennett,1]
+LoseText = ...
+Pokemon = POLIWRATH,80
+Pokemon = MIGHTYENA,80
+Pokemon = MANECTRIC,80
+Pokemon = GOTHITELLE,80
+#-------------------------------
+[YORCHIMAG,Magmortars & Yorchi,1]
+LoseText = ...
+Pokemon = MAGMORTAR,80
+Pokemon = MAGMORTAR,80
+Pokemon = TORTERRA,82
+    Form = 1
+    Moves = GIGADRAIN,FLAMETHROWER,EARTHQUAKE,STONEEDGE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Artemis,Artemis,20]
+LoseText = ...
+Pokemon = CHARIZARD,81
+    Moves = DRAGONCLAW,FLAMETHROWER,ROOST,PROTECT
+    Item = CHARCOAL
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,81
+    Moves = ROCKSLIDE,AIRSLASH,ROOST,UTURN
+    Item = CHOICESCARF
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,81
+    Moves = AIRSLASH,MOONBLAST,ANCIENTPOWER,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = TROPIUS,81
+    Moves = LEAFBLADE,AERIALACE,LEECHSEED,RAINDANCE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = STARAPTOR,81
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,83
+    Moves = AQUATAIL,FIREPUNCH,ROOST,DRAGONRUSH
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[DETECTIVE,Cliff]
+LoseText = Who fed you ?
+Pokemon = ARCANINE,85
+    Moves = FLAREBLITZ,EXTREMESPEED,CRUNCH,THUNDERFANG
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,85
+    Moves = DRAGONDANCE,OUTRAGE,NIGHTSLASH,BULLDOZE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT,88
+    Moves = ICEPUNCH,EARTHQUAKE,POWERUPPUNCH,AQUATAIL
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LCULTISTM,Aulio,1]
+LoseText = Fun's already done ?
+Pokemon = LANTURN,80
+Pokemon = INFERNAPE,80
+Pokemon = TOGEKISS,80
+Pokemon = ABOMASNOW,80
+#-------------------------------
+[BURGLAR,Taylor,1]
+LoseText = What a mess...
+Pokemon = MACHAMP,80
+Pokemon = AMBIPOM,80
+Pokemon = BLISSEY,80
+Pokemon = EMBOAR,80
+#-------------------------------
+[LCULTISTM,Colesson,1]
+LoseText = It's prisson time I think...
+Pokemon = RAMPARDOS,80
+Pokemon = BEEDRILL,80
+Pokemon = WEEZING,80
+Pokemon = FROSLASS,80
+#-------------------------------
+[FLINT,Flint]
+LoseText = See you at the Tournament !
+Pokemon = CACTURNE,85
+Pokemon = CAMERUPT,85
+Pokemon = KROOKODILE,85
+Pokemon = RHYPERIOR,87
+#-------------------------------
+[CHALLENGER,Ixya]
+LoseText = See you at the Tournament !
+Pokemon = CLEFABLE,85
+Pokemon = NINETALES,85
+Pokemon = TOGEKISS,85
+Pokemon = FROSLASS,88
+#-------------------------------
+[DETECTIVE,Cliff,1]
+Items = MEGARING,FULLRESTORE
+LoseText = Who fed you ?
+Pokemon = ARCANINE,87
+    Moves = FLAREBLITZ,EXTREMESPEED,CRUNCH,THUNDERFANG
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,87
+    Moves = DRAGONDANCE,OUTRAGE,NIGHTSLASH,BULLDOZE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON,87
+    Moves = IRONHEAD,EARTHQUAKE,ROCKSLIDE,PROTECT
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,87
+    Moves = PLAYROUGH,SUCKERPUNCH,SWAGGER,TOXIC
+    IV = 31,31,31,31,31,31
+Pokemon = MIENSHAO,87
+    Moves = BLAZEKICK,HIGHJUMPKICK,THUNDERPUNCH,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT,90
+    Moves = ICEPUNCH,EARTHQUAKE,POWERUPPUNCH,AQUATAIL
+    Item = SWAMPERTITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[AMBREW,Ambrew,2]
+Items = FULLRESTORE,MEGARING
+LoseText = Great job !
+Pokemon = KINGDRA,87
+    IV = 31,31,31,31,31,31
+Pokemon = CHARIZARD,87
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,87
+    IV = 31,31,31,31,31,31
+Pokemon = BRELOOM,87
+    IV = 31,31,31,31,31,31
+Pokemon = SLAKING,87
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,90
+    Item = GARCHOMPITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[FLINT,Flint,1]
+LoseText = Incredible force you have there.
+Pokemon = CACTURNE,86
+    IV = 31,31,31,31,31,31
+Pokemon = CAMERUPT,86
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE,86
+    IV = 31,31,31,31,31,31
+Pokemon = GASTRODON,86
+    IV = 31,31,31,31,31,31
+Pokemon = ALTARIA,86
+    IV = 31,31,31,31,31,31
+Pokemon = RHYPERIOR,89
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[CHALLENGER,Ixya,1]
+LoseText = What a performance you did out there !
+Pokemon = CLEFABLE,86
+    Moves = METRONOME,MOONBLAST,MINIMIZE,BATONPASS
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES,86
+    Moves = CALMMIND,FLAMETHROWER,PROTECT,EXTRASENSORY
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,86
+    IV = 31,31,31,31,31,31
+Pokemon = BUTTERFREE,86
+    Moves = QUIVERDANCE,ROOST,INFESTATION,HURRICANE
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,86
+    IV = 31,31,31,31,31,31
+Pokemon = FROSLASS,89
+    Moves = BLIZZARD,SHADOWBALL,HAIL,ICYWIND
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMACO1,Zinzolin,20]
+LoseText = A mess... we prepared so well...
+Pokemon = CRYOGONAL,86
+    Moves = RECOVER,FREEZEDRY,FLASHCANNON,WATERPULSE
+    IV = 31,31,31,31,31,31
+Pokemon = BEARTIC,86
+    Moves = AQUAJET,YAWN,PLAYROUGH,ICEFANG
+    IV = 31,31,31,31,31,31
+Pokemon = REUNICLUS,86
+    Moves = PSYCHIC,FOCUSBLAST,ENERGYBALL,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,86
+    Moves = ROOST,STONEEDGE,AERIALACE,SUPERPOWER
+    IV = 31,31,31,31,31,31
+Pokemon = KLINKLANG,86
+    Moves = VOLTSWITCH,FLASHCANNON,THUNDERWAVE,GEARGRIND
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,88
+    Moves = FAKEOUT,NIGHTSLASH,LOWKICK,SWORDSDANCE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMABOSS,Ghetsis,20]
+LoseText = I may be nothing in your eyes but I was someone before !
+Pokemon = COFAGRIGUS,87
+    Moves = WILLOWISP,TOXICSPIKES,SHADOWBALL,DESTINYBOND
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,87
+    Moves = THUNDERBOLT,FLAMETHROWER,ROCKTOMB,EARTHPOWER
+    IV = 31,31,31,31,31,31
+Pokemon = BISHARP,87
+    Moves = NIGHTSLASH,IRONHEAD,SWORDSDANCE,GUILLOTINE
+    IV = 31,31,31,31,31,31
+Pokemon = BOUFFALANT,87
+    Moves = MEGAHORN,DOUBLEEDGE,HEADSMASH,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,90
+    Moves = OUTRAGE,CRUNCH,DRAGONDANCE,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = KYUREM,92
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[TOBIASCHALLENGER,Tobias,4]
+LoseText = Wait... we lost !?
+Items = MEGARING
+Pokemon = GALVANTULA,86
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = LANTURN,86
+    Moves = TOXIC,SCALD,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = JOLTEON,86
+    Moves = THUNDERBOLT,SHADOWBALL,CALMMIND,YAWN
+    IV = 31,31,31,31,31,31
+Pokemon = ROTOM,86
+    Form = 4
+    Moves = THUNDERBOLT,SHADOWBALL,VOLTSWITCH,TRICK
+    IV = 31,31,31,31,31,31
+Pokemon = AMPHAROS,86
+	Item = AMPHAROSITE
+    Moves = DRAGONPULSE,DISCHARGE,RAINDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,90
+    Shiny = yes
+    Moves = BRICKBREAK,FIREPUNCH,THUNDERPUNCH,EARTHQUAKE
+    Item = CHOICEBAND
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,0,252
+#-------------------------------
+[VICTORIA,Victoria,5]
+LoseText = It... can't be...
+Pokemon = CROBAT,86
+    Moves = ROOST,LEECHLIFE,RAINDANCE,CROSSPOISON
+    IV = 31,31,31,31,31,31
+Pokemon = LUNATONE,86
+    Moves = EARTHPOWER,COSMICPOWER,HELPINGHAND,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = BEWEAR,86
+    Moves = COUNTER,CLOSECOMBAT,DOUBLEEDGE,SUCKERPUNCH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = FERROTHORN,86
+    Moves = LEECHSEED,GYROBALL,STEALTHROCK,POWERWHIP
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,86
+    Moves = DRAGONDANCE,OUTRAGE,THUNDERPUNCH,AQUATAIL
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC,90
+    Moves = SCALD,ICEBEAM,RECOVER,AQUARING
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[SANDRA,Sandra]
+LoseText = And... glory just went away.
+Pokemon = DRAGONAIR,86
+    Moves = THUNDERWAVE,THUNDERBOLT,FLAMETHROWER,DRAGONPULSE
+Pokemon = DRAGONITE,86
+    Moves = THUNDERPUNCH,DRAGONDANCE,DRAGONCLAW,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = AERODACTYL,86
+    Moves = ROCKSLIDE,PROTECT,IRONHEAD,TAILWIND
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,86
+    Moves = OUTRAGE,SUCKERPUNCH,EARTHPOWER,FIREPUNCH
+    Item = DRAGONGEM
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,86
+    Moves = ICEFANG,AQUATAIL,HURRICANE,DRAGONPULSE
+    IV = 31,31,31,31,31,31
+Pokemon = KINGDRA,89
+    Moves = DRAGONPULSE,SURF,ICEBEAM,FLASHCANNON
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[KOGA,Koga]
+LoseText = It is by training that you can achieve massive victories. I'll support your path !
+Pokemon = TENTACRUEL,86
+    Moves = SCALD,TOXICSPIKES,HAZE,SLUDGEBOMB
+    IV = 31,31,31,31,31,31
+Pokemon = VENOMOTH,86
+    Moves = QUIVERDANCE,SILVERWIND,SLUDGEBOMB,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,86
+    Moves = AIRSLASH,SLUDGEBOMB,TOXIC,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = ARIADOS,86
+    Moves = STICKYWEB,GIGADRAIN,SUCKERPUNCH,MEGAHORN
+    IV = 31,31,31,31,31,31
+Pokemon = WEEZING,86
+    IV = 31,31,31,31,31,31
+Pokemon = SKUNTANK,89
+    Moves = SUCKERPUNCH,DIG,TOXIC,SLUDGEBOMB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[YAHGOLEADER,Talma,5]
+LoseText = It was time... Even with a final light, it all disapears.
+Pokemon = GARDEVOIR,87
+    Moves = PSYCHIC,MOONBLAST,CALMMIND,SHADOWBALL
+    IV = 31,31,31,31,31,31
+Pokemon = SCIZOR,87
+    Moves = BULLETPUNCH,NIGHTSLASH,ROOST,XSCISSOR
+    IV = 31,31,31,31,31,31
+Pokemon = LUCARIO,87
+    Moves = AURASPHERE,EXTREMESPEED,DRAGONPULSE,IRONHEAD
+    IV = 31,31,31,31,31,31
+Pokemon = LUDICOLO,87
+    Moves = RAINDANCE,HYDROPUMP,ICEBEAM,LEECHSEED
+    IV = 31,31,31,31,31,31
+Pokemon = CHARIZARD,88
+    Moves = FLAMETHROWER,AIRSLASH,ROOST,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = TYRANITAR,90
+    Moves = EARTHQUAKE,STONEEDGE,CRUNCH,DRAGONDANCE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ELITEFOUR_Lance,Lance,1]
+LoseText = It was an honnor to battle you !
+Pokemon = CHARIZARD,87
+    Moves = FLAMETHROWER,AIRSLASH,ROOST,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,87
+    Moves = ICEFANG,AQUATAIL,HURRICANE,DRAGONPULSE
+    IV = 31,31,31,31,31,31
+Pokemon = AERODACTYL,87
+    Moves = ROCKSLIDE,PROTECT,IRONHEAD,TAILWIND
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,90
+    Moves = DRAGONDANCE,OUTRAGE,THUNDERPUNCH,AQUATAIL
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,90
+    Moves = DRAGONDANCE,OUTRAGE,FIREPUNCH,AQUATAIL
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,90
+    Moves = DRAGONDANCE,OUTRAGE,ICEPUNCH,ROOST
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARAGON,Aragon,5]
+LoseText = So... that's my potential...
+Pokemon = ROTOM,86
+    Form = 5
+Pokemon = VOLCARONA,86
+Pokemon = GYARADOS,86
+Pokemon = TSAREENA,86
+Pokemon = DURALUDON,86
+Pokemon = METAGROSS,89
+#-------------------------------
+[ARCHKNIGHT,Kivanee,4]
+LoseText = Bravo, simply, just bravo !
+Pokemon = VILEPLUME,86
+    Moves = POISONPOWDER,GIGADRAIN,SLUDGEBOMB,SLEEPPOWDER
+    IV = 31,31,31,31,31,31
+Pokemon = AROMATISSE,86
+    Moves = MOONBLAST,CALMMIND,PSYCHIC,THUNDERBOLT
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,86
+    Moves = EARTHQUAKE,REST,GIGAIMPACT,ROLLOUT
+    IV = 31,31,31,31,31,31
+Pokemon = BRONZONG,86
+    Moves = TRICKROOM,BULLDOZE,PSYCHIC,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,86
+    Moves = SUCKERPUNCH,DOUBLETEAM,ICYWIND,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT,88
+    Moves = SHADOWBALL,DARKPULSE,PROTECT,DRAGONDARTS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[SPIRITGENTLEMAN,Tako]
+LoseText = ...
+Pokemon = INFERNAPE,79
+Pokemon = EXCADRILL,79
+#-------------------------------
+[SPIRITGENTLEMAN,Ayto]
+LoseText = ...
+Pokemon = MAGCARGO,79
+Pokemon = LUXRAY,78
+#-------------------------------
+[SPIRITGENTLEMAN,Augustin]
+LoseText = ...
+Pokemon = BRAVIARY,79
+Pokemon = BLAZIKEN,79
+#-------------------------------
+[SPIRITGENTLEMAN,Orowin]
+LoseText = ...
+Pokemon = BLISSEY,79
+Pokemon = CLAYDOL,79
+#-------------------------------
+[SPIRITGENTLEMAN,Uguras]
+LoseText = ...
+Pokemon = BRELOOM,79
+Pokemon = CROBAT,79
+#-------------------------------
+[SPIRITGENTLEMAN,Cal]
+LoseText = ...
+Pokemon = MACHAMP,79
+Pokemon = SKARMORY,79
+#-------------------------------
+[PIRATELEADER,???]
+LoseText = ...
+Pokemon = GENGAR,61
+Pokemon = METAGROSS,61
+Pokemon = BLAZIKEN,61
+Pokemon = ROSERADE,61
+Pokemon = ESCAVALIER,63
+#-------------------------------
+[PIRATELEADER,Aulio]
+LoseText = ...
+Pokemon = GENGAR,82
+Pokemon = METAGROSS,82
+Pokemon = BLAZIKEN,82
+Pokemon = ROSERADE,82
+Pokemon = ESCAVALIER,85
+Pokemon = EELEKTROSS,86
+#-------------------------------
+[ARTEMIS,Artemis]
+LoseText = ...
+Pokemon = CHARIZARD,89
+    Moves = DRAGONCLAW,FLAMETHROWER,ROOST,PROTECT
+    Item = CHARCOAL
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,89
+    Moves = ROCKSLIDE,AIRSLASH,ROOST,UTURN
+    Item = CHOICESCARF
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,89
+    Moves = AIRSLASH,MOONBLAST,ANCIENTPOWER,ROOST
+    IV = 31,31,31,31,31,31
+Pokemon = TROPIUS,89
+    Moves = LEAFBLADE,AERIALACE,LEECHSEED,RAINDANCE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = STARAPTOR,89
+    Moves = CLOSECOMBAT,BRAVEBIRD,ROOST,EXTREMESPEED
+    Item = CHOICESCARF
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,89
+    Moves = AQUATAIL,FIREPUNCH,ROOST,DRAGONRUSH
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARTEMIS,Artemis,1]
+LoseText = ...
+Pokemon = RAYQUAZA,92
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[KING_Douglas,Douglas,2]
+LoseText = Since our first battle, you faught really well !
+Pokemon = EMBOAR,90
+    Moves = HEADSMASH,BRICKBREAK,SCALD,FLAREBLITZ
+    IV = 31,31,31,31,31,31
+    EV = 0,250,0,250,0,0
+Pokemon = WALREIN,90
+    Moves = BLIZZARD,HEAVYSLAM,REST,SURF
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 0,0,250,250,0,0
+Pokemon = LEAFEON,90
+    Moves = LEAFBLADE,SWORDSDANCE,XSCISSOR,SYNTHESIS
+    AbilityIndex = 0
+    Item = GRASSGEM
+    IV = 31,31,31,31,31,31
+    EV = 0,250,0,0,0,250
+Pokemon = SALAMENCE,90
+    Moves = DRAGONDANCE,ZENHEADBUTT,OUTRAGE,CRUNCH
+    IV = 31,31,31,31,31,31
+    EV = 0,250,0,0,0,250
+Pokemon = KANGASKHAN,90
+    Moves = POWERUPPUNCH,FAKEOUT,EARTHQUAKE,DOUBLEEDGE
+    IV = 31,31,31,31,31,31
+    EV = 250,0,250,0,0,0
+Pokemon = SCIZOR,93
+    Form = 1
+    Moves = ROOST,BULLETPUNCH,XSCISSOR,NIGHTSLASH
+    AbilityIndex = 1
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 0,250,0,0,0,250
+#-------------------------------
+[LASS,Cassidy]
+LoseText = I can Sand-Slash in the desert.
+Pokemon = SANDSLASH,32
+#-------------------------------
+[GENTLEMAN,Larry]
+LoseText = What a pity.
+Pokemon = WARTORTLE,33
+Pokemon = MRMIME,33
+#-------------------------------
+[LCULTISTM,???]
+LoseText = The potential that you can get...
+Pokemon = GOLBAT,30
+Pokemon = KRICKETUNE,30
+Pokemon = MURKROW,30
+#-------------------------------
+[LCULTISTMORDER,Liam & Ismael & Koleman & Osim]
+LoseText = ...
+Pokemon = KANGASKHAN,33
+Pokemon = SWELLOW,33
+Pokemon = SEALEO,33
+Pokemon = CARNIVINE,33
+#-------------------------------
+[PLASMAM,Olfric,1]
+LoseText = What a turn of event.
+Pokemon = GURDURR,34
+#-------------------------------
+[PLASMAF,Jyx,1]
+LoseText = I do guess we can't take you out by numbers.
+Pokemon = KROKOROK,34
+#-------------------------------
+[PLASMACO1,Zinzolin,10]
+LoseText = This outsmarts my plan.
+Pokemon = CRYOGONAL,35
+Pokemon = DUOSION,35
+Pokemon = SNEASEL,37
+#-------------------------------
+[LCULTISTMORDER,Marcus & Ortim & ??? & Taganel]
+LoseText = ...
+Pokemon = KADABRA,35
+Pokemon = PELIPPER,36
+Pokemon = MAWILE,35
+Pokemon = MURKROW,38
+#-------------------------------
+[PLASMAF,Elsae]
+LoseText = ...
+Pokemon = SIGILYPH,36
+Pokemon = GARBODOR,36
+Pokemon = SAWK,36
+#-------------------------------
+[SHUGURI,Shuguri]
+LoseText = ...
+Pokemon = NIDOKING,48
+    Moves = EARTHQUAKE,DOUBLEKICK,POISONJAB,SUCKERPUNCH
+Pokemon = METAGROSS,48
+    Moves = METEORMASH,ZENHEADBUTT,BRICKBREAK,SHADOWBALL
+Pokemon = LUXRAY,48
+    Moves = CRUNCH,THUNDERBOLT,THUNDERWAVE,FIREFANG
+Pokemon = SPIRITOMB,48
+    Moves = SUCKERPUNCH,SHADOWBALL,PSYCHIC,CURSE
+    Item = SITRUSBERRY
+Pokemon = CHANDELURE,50
+    Moves = SHADOWBALL,FLAMETHROWER,ENERGYBALL,PAINSPLIT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[BUGCATCHER,Russ]
+LoseText = Bug type should be strong against fire.
+Pokemon = BEEDRILL,20
+Pokemon = BUTTERFREE,20
+#-------------------------------
+[CAMPER,Marty]
+LoseText = I take the train everyday !
+Pokemon = GRAVELER,20
+Pokemon = ONIX,20
+Pokemon = EKANS,20
+#-------------------------------
+[CAMPER,Timothee]
+LoseText = Oh, already done...
+Pokemon = BEAUTIFLY,20
+Pokemon = ARON,20
+Pokemon = SUDOWOODO,20
+#-------------------------------
+[ADMIN_COL,Col]
+LoseText = How did you managed to get that much power already ?
+Pokemon = GABITE,43
+Pokemon = DARMANITAN,43
+Pokemon = ESCAVALIER,43
+Pokemon = STARMIE,45
+    Form = 1
+    Moves = DARKPULSE,TOXIC,FLAMETHROWER,PSYCHIC
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[YORCHI,???]
+LoseText = It's time for me to retreat !
+Pokemon = MAGCARGO,42
+    Moves = STEALTHROCK,RECOVER,ROCKSLIDE,LAVAPLUME
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,42
+    Moves = CRUNCH,SUCKERPUNCH,PLAYROUGH,TAUNT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = TORTERRA,44
+    Form = 1
+    Moves = GIGADRAIN,FLAMETHROWER,EARTHQUAKE,STONEEDGE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMAM,Teal]
+LoseText = I hope my teammate can stop you.
+Pokemon = GARBODOR,41
+Pokemon = LAMPENT,42
+#-------------------------------
+[PLASMAM,Ramon]
+LoseText = Losing... Ugh, you won't beat our partnership member !
+Pokemon = WATCHOG,42
+Pokemon = ZEBSTRIKA,42
+Pokemon = SCRAFTY,42
+#-------------------------------
+[ARCHI,???]
+LoseText = Woah ! Easy there.
+Pokemon = QUAGSIRE,42
+    Moves = STEALTHROCK,EARTHQUAKE,SCALD,REST
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,42
+    Moves = CRUNCH,SUCKERPUNCH,PLAYROUGH,TAUNT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,44
+    Form = 2
+    Moves = MOONBLAST,PSYCHIC,THUNDERBOLT,COSMICPOWER
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[CUEBALL,Christopher]
+LoseText = ...
+Pokemon = NOCTOWL,42
+Pokemon = MIGHTYENA,43
+Pokemon = LIEPARD,42
+#-------------------------------
+[CUEBALL,Escanor]
+LoseText = ...
+Pokemon = BISHARP,44
+Pokemon = SKUNTANK,42
+#-------------------------------
+[CUEBALL,Tori]
+LoseText = ...
+Pokemon = HOUNDOOM,43
+Pokemon = SHIFTRY,43
+#-------------------------------
+[CUEBALL,Oreyo]
+LoseText = ...
+Pokemon = SHARPEDO,43
+Pokemon = HONCHKROW,44
+Pokemon = CACTURNE,43
+#-------------------------------
+[YAHGO_Artemis,???]
+LoseText = How come ?
+Pokemon = CHARIZARD,43
+    Moves = DRAGONCLAW,FLAMETHROWER,ROOST,PROTECT
+    Item = CHARCOAL
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,43
+    Moves = ROCKSLIDE,AIRSLASH,ROOST,UTURN
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,46
+    Moves = AQUATAIL,FIREPUNCH,ROOST,DRAGONCLAW
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ADMIN_COL,Col,2]
+LoseText = My... head hurts...
+Pokemon = GARCHOMP,61
+    Moves = OUTRAGE,EARTHQUAKE,AQUATAIL,DRAGONDANCE
+    IV = 31,31,31,31,31,31
+Pokemon = DARMANITAN,62
+    Moves = FLAREBLITZ,STONEEDGE,SUPERPOWER,BELLYDRUM
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = ESCAVALIER,61
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,61
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,62
+    IV = 31,31,31,31,31,31
+Pokemon = STARMIE,64
+    Form = 1
+    Moves = DARKPULSE,FLAMETHROWER,THUNDERBOLT,PSYCHIC
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[JUGGLER,Pyro]
+LoseText = ...
+Pokemon = NINETALES,71
+Pokemon = DRAPION,71
+Pokemon = GLISCOR,73
+#-------------------------------
+[BLACKBELT,Katio]
+LoseText = ...
+Pokemon = CONKELDURR,85
+    Moves = MACHPUNCH,THUNDERPUNCH,ICEPUNCH,BULKUP
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = MIENSHAO,85
+    Moves = HIGHJUMPKICK,FIREPUNCH,PROTECT,WORKUP
+    IV = 31,31,31,31,31,31
+Pokemon = HITMONCHAN,85
+    Moves = THUNDERPUNCH,MACHPUNCH,CLOSECOMBAT,FIREPUNCH
+    IV = 31,31,31,31,31,31
+Pokemon = GALLADE,85
+    Moves = PSYCHOCUT,CLOSECOMBAT,SHADOWSNEAK,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = HERACROSS,85
+    Moves = FACADE,XSCISSOR,CLOSECOMBAT,SWORDSDANCE
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE,88
+    Moves = SHADOWCLAW,STONEEDGE,FIREPUNCH,AERIALACE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[SENSEI,Katio]
+LoseText = ...
+Pokemon = CONKELDURR,88
+    Moves = MACHPUNCH,THUNDERPUNCH,ICEPUNCH,BULKUP
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = MIENSHAO,88
+    Moves = HIGHJUMPKICK,FIREPUNCH,PROTECT,WORKUP
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE,90
+    Moves = SHADOWCLAW,STONEEDGE,FIREPUNCH,AERIALACE
+    IV = 31,31,31,31,31,31
+Pokemon = GALLADE,88
+    Moves = PSYCHOCUT,CLOSECOMBAT,SHADOWSNEAK,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = HERACROSS,88
+    Moves = FACADE,XSCISSOR,CLOSECOMBAT,SWORDSDANCE
+    IV = 31,31,31,31,31,31
+Pokemon = URSHIFU,92
+    Moves = AERIALACE,WICKEDBLOW,FIREPUNCH,DRAINPUNCH
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[EXPLORERFINAL,Davidson]
+LoseText = You sure are truly a good trainer !
+Pokemon = CRUSTLE,88
+    Moves = STEALTHROCK,SPIKES,ROCKBLAST,KNOCKOFF
+    Item = FOCUSSASH
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = DARMANITAN,88
+    Moves = FLAREBLITZ,STONEEDGE,SUPERPOWER,BELLYDRUM
+    Item = SITRUSBERRY
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+Pokemon = SALAMENCE,88
+    Moves = DRAGONDANCE,ROOST,OUTRAGE,THUNDERFANG
+    Item = LEFTOVERS
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = SHIFTRY,88
+    Moves = KNOCKOFF,SUCKERPUNCH,LEAFSTORM,LOWKICK
+    Nature = LONELY
+    IV = 31,31,31,31,31,31
+Pokemon = GOLURK,88
+    Moves = SHADOWPUNCH,ICEPUNCH,EARTHQUAKE,FIREPUNCH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = PIDGEOT,92
+    Moves = ROOST,BRAVEBIRD,FEATHERDANCE,FACADE
+    Item = FOCUSSASH
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ARCHI,Archi]
+LoseText = I guess my run is done.
+Pokemon = QUAGSIRE,86
+    Moves = STEALTHROCK,EARTHQUAKE,SCALD,REST
+    Nature = CALM
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,86
+    Moves = CRUNCH,SUCKERPUNCH,PLAYROUGH,TAUNT
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT,86
+    Moves = AIRSLASH,ROOST,VENOSHOCK,ZENHEADBUTT
+    IV = 31,31,31,31,31,31
+Pokemon = GYARADOS,86
+    Moves = DRAGONDANCE,WATERFALL,CRUNCH,ICEFANG
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,75
+    Moves = GLARE,EARTHQUAKE,OUTRAGE,TAUNT
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,88
+    Form = 2
+    Moves = MOONBLAST,PSYCHIC,THUNDERBOLT,COSMICPOWER
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ADMIN_COL,Col,3]
+LoseText = My... head hurts...
+Pokemon = GARCHOMP,87
+    Moves = OUTRAGE,EARTHQUAKE,AQUATAIL,DRAGONDANCE
+    IV = 31,31,31,31,31,31
+Pokemon = DARMANITAN,87
+    Moves = FLAREBLITZ,STONEEDGE,SUPERPOWER,BELLYDRUM
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+Pokemon = ESCAVALIER,87
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,87
+    IV = 31,31,31,31,31,31
+Pokemon = CRADILY,87
+    IV = 31,31,31,31,31,31
+Pokemon = STARMIE,90
+    Form = 1
+    Moves = DARKPULSE,FLAMETHROWER,THUNDERBOLT,PSYCHIC
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LCULTISTM,Talon,3]
+LoseText = ...
+Pokemon = RAPIDASH,86
+Pokemon = INFERNAPE,86
+Pokemon = LAPRAS,86
+Pokemon = SKUNTANK,86
+#-------------------------------
+[LCULTISTM,Oscar,3]
+LoseText = ...
+Pokemon = HITMONTOP,86
+Pokemon = CARNIVINE,86
+Pokemon = GLALIE,86
+Pokemon = RAMPARDOS,86
+#-------------------------------
+[LCULTISTM,Kwarim,3]
+LoseText = ...
+Pokemon = BRELOOM,86
+Pokemon = ARIADOS,86
+Pokemon = FLYGON,86
+Pokemon = FROSLASS,86
+#-------------------------------
+[ADMIN_COL1,Col]
+LoseText = How !? HOW, HOW !?
+Pokemon = GIRATINA,90
+    Form = 1
+    Moves = SHADOWFORCE,EARTHPOWER,AURASPHERE,FLAMETHROWER
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar2,Ogar]
+LoseText = I... *sniff*
+Pokemon = LUNATONE,87
+    IV = 31,31,31,31,31,31
+Pokemon = QUAGSIRE,87
+    IV = 31,31,31,31,31,31
+Pokemon = ACCELGOR,89
+    Shiny = yes
+    Moves = BUGBUZZ,VENOSHOCK,FOCUSBLAST,MINDREADER
+    IV = 31,31,31,31,31,31
+Pokemon = MEGANIUM,87
+    IV = 31,31,31,31,31,31
+Pokemon = MACHAMP,87
+    IV = 31,31,31,31,31,31
+Pokemon = BISHARP,90
+    Form = 1
+    Moves = ICEPUNCH,SUCKERPUNCH,SWORDSDANCE,DOUBLEIRONSLASH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[CYNTHIA,Cynthia]
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE
+LoseText = My heart is pounding so hard because I had such a heated battle with you. You are a really great Trainer!
+Pokemon = SPIRITOMB,90
+    Moves = SUCKERPUNCH,WILLOWISP,DOUBLETEAM,SHADOWBALL
+    Item = FIGYBERRY
+    Nature = BRAVE
+    IV = 31,31,31,31,31,31
+    EV = 0,0,252,0,252,0
+Pokemon = EELEKTROSS,90
+    Moves = VOLTSWITCH,GIGADRAIN,KNOCKOFF,FLAMETHROWER
+    Item = ASSAULTVEST
+    Nature = MODEST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,252,0
+Pokemon = MILOTIC,90
+    Moves = SCALD,MIRRORCOAT,RECOVER,HAZE
+    Item = FLAMEORB
+    Nature = BOLD
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,252,0
+Pokemon = BRAVIARY,90
+    Moves = BULKUP,BRAVEBIRD,SUBSTITUTE,ROOST
+    Item = LEFTOVERS
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,0,252
+Pokemon = LUCARIO,90
+    Moves = SWORDSDANCE,METEORMASH,CLOSECOMBAT,BULLETPUNCH
+    Item = LIFEORB
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,4,252
+Pokemon = GARCHOMP,93
+    Moves = EARTHQUAKE,STONEEDGE,OUTRAGE,TOXIC
+    Item = FIGYBERRY
+    Nature = JOLLY
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,4,252
+    Ball = MASTERBALL
+#-------------------------------
+[SOLARIS,Solaris]
+Items = FULLRESTORE,MEGARING
+LoseText = Adults cry because they do.
+Pokemon = SCIZOR,85
+    Moves = BULLETPUNCH,UTURN,ROOST,SUPERPOWER
+    Item = SCIZORITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MANDIBUZZ,85
+    Moves = ROOST,SNARL,TOXIC,FOULPLAY
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = TYRANITAR,85
+    Moves = DRAGONDANCE,EARTHQUAKE,SUPERPOWER,ROCKSLIDE
+    Item = SMOOTHROCK
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,85
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GYARADOS,85
+    Moves = DRAGONDANCE,EARTHQUAKE,WATERFALL,OUTRAGE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GARCHOMP,87
+    Moves = FIREFANG,AQUATAIL,DRAGONRUSH,EARTHQUAKE
+    Item = ASSAULTVEST
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[SOLARIS,Solaris,2]
+Items = FULLRESTORE,FULLRESTORE,MEGARING
+LoseText = Adults cry because they do.
+Pokemon = SCIZOR,90
+    Moves = BULLETPUNCH,UTURN,ROOST,NIGHTSLASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MANDIBUZZ,90
+    Moves = ROOST,SNARL,TOXIC,FOULPLAY
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = TYRANITAR,90
+    Moves = DRAGONDANCE,EARTHQUAKE,SUPERPOWER,ROCKSLIDE
+    Item = SMOOTHROCK
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,90
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GYARADOS,90
+    Moves = DRAGONDANCE,EARTHQUAKE,WATERFALL,OUTRAGE
+    Item = GYARADOSITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GARCHOMP,92
+    Moves = FIREFANG,AQUATAIL,DRAGONRUSH,EARTHQUAKE
+    Item = ASSAULTVEST
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[RIALON,R]
+Items = FULLRESTORE,MEGARING
+LoseText = Oh ? Beaten up ?
+Pokemon = ZEBSTRIKA,66
+    Moves = DOUBLEKICK,DISCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+Pokemon = SIGILYPH,66
+    Moves = COSMICPOWER,STOREDPOWER,ROOST,AIRSLASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,68
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[RIALON,Rialon]
+Items = FULLRESTORE,MEGARING
+LoseText = We cry because of faith.
+Pokemon = SIGILYPH,86
+    Moves = COSMICPOWER,STOREDPOWER,ROOST,AIRSLASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEBSTRIKA,87
+    Moves = NASTYPLOT,DISCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = DUSKNOIR,86
+    Moves = WILLOWISP,SHADOWBALL,DISABLE,THUNDERPUNCH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,87
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = KINGDRA,86
+    Moves = DRAGONPULSE,SCALD,RAINDANCE,FOCUSBLAST
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = LANDORUS,90
+    Moves = EARTHQUAKE,STONEEDGE,BULKUP,UTURN
+    Item = ASSAULTVEST
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[JUGGLER,Kosanim]
+LoseText = Already ?
+Pokemon = CAMERUPT,84
+Pokemon = BRAVIARY,85
+Pokemon = MAGMORTAR,86
+#-------------------------------
+[GUARD,Pawn,1]
+LoseText = You are a desease.
+Pokemon = CROBAT,85
+Pokemon = OCTILLERY,85
+Pokemon = MEDICHAM,85
+Pokemon = DRAPION,85
+#-------------------------------
+[GUARD,Pawn,2]
+Items = MEGARING
+LoseText = Why does criminals always do bad stuff...
+Pokemon = ARCANINE,85
+Pokemon = TOXICROAK,85
+Pokemon = ZEBSTRIKA,85
+    Moves = DOUBLEKICK,WILDCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+Pokemon = GASTRODON,85
+#-------------------------------
+[GUARD,Pawn,3]
+LoseText = Disgusting guy.
+Pokemon = BASTIODON,85
+Pokemon = ARCANINE,85
+Pokemon = STARAPTOR,85
+Pokemon = FLYGON,85
+#-------------------------------
+[GUARD,Pawn,4]
+LoseText = Get a real job.
+Pokemon = EXCADRILL,85
+Pokemon = PORYGON2,85
+Pokemon = ZEBSTRIKA,85
+Pokemon = OCTILLERY,85
+#-------------------------------
+[GUARD,Pawn,5]
+LoseText = Get a real job.
+Pokemon = FROSLASS,85
+Pokemon = CROBAT,85
+Pokemon = MEDICHAM,85
+Pokemon = ABSOL,85
+#-------------------------------
+[GUARD,Pawn,6]
+LoseText = Get a real job.
+Pokemon = DUSKNOIR,85
+Pokemon = BRELOOM,85
+Pokemon = ARCANINE,85
+Pokemon = ZEBSTRIKA,85
+#-------------------------------
+[GUARD,Pawn,7]
+LoseText = Even with that kind of power...
+Pokemon = TOXICROAK,85
+Pokemon = CROBAT,85
+Pokemon = HOUNDOOM,85
+Pokemon = ALAKAZAM,85
+#-------------------------------
+[GUARD,Pawn,8]
+LoseText = Why now ?
+Pokemon = BRELOOM,85
+Pokemon = ABSOL,85
+Pokemon = PORYGON2,85
+Pokemon = ARCANINE,85
+#-------------------------------
+[GUARD,Pawn,9]
+LoseText = Aren't you a super criminal ?
+Pokemon = MEDICHAM,85
+Pokemon = ABSOL,85
+Pokemon = STARAPTOR,85
+Pokemon = ARCANINE,85
+#-------------------------------
+[GUARD,Pawn,10]
+LoseText = Not our storage room !
+Pokemon = FLYGON,85
+Pokemon = CROBAT,85
+Pokemon = DUSKNOIR,85
+Pokemon = MEDICHAM,85
+#-------------------------------
+[GUARD,Pawn,11]
+Items = MEGARING
+LoseText = You won't defeat us all !
+Pokemon = ZEBSTRIKA,85
+    Moves = DOUBLEKICK,WILDCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+Pokemon = DUSKNOIR,85
+Pokemon = EXCADRILL,85
+Pokemon = BRELOOM,85
+#-------------------------------
+[GUARD,Pawn,12]
+LoseText = Who are you !?
+Pokemon = STARAPTOR,85
+Pokemon = ALAKAZAM,85
+Pokemon = BRELOOM,85
+Pokemon = FLYGON,85
+#-------------------------------
+[GUARD,Pawn,13]
+LoseText = Well, I lost my time here.
+Pokemon = BRELOOM,85
+Pokemon = DUSKNOIR,85
+Pokemon = SHIFTRY,85
+Pokemon = GASTRODON,85
+#-------------------------------
+[GUARD,Pawn,14]
+LoseText = What happened ?
+Pokemon = CROBAT,85
+Pokemon = FROSLASS,85
+Pokemon = SHIFTRY,85
+Pokemon = BASTIODON,85
+#-------------------------------
+[GUARD,Pawn,15]
+Items = MEGARING
+LoseText = And... Fun's over.
+Pokemon = FLYGON,85
+Pokemon = ALAKAZAM,85
+Pokemon = ARCANINE,85
+Pokemon = ZEBSTRIKA,86
+    Moves = DOUBLEKICK,WILDCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+#-------------------------------
+[GUARD,Pawn,16]
+LoseText = What happened ?
+Pokemon = BASTIODON,85
+Pokemon = FROSLASS,85
+Pokemon = PORYGON2,85
+Pokemon = FLYGON,86
+#-------------------------------
+[GUARD,Pawn,17]
+LoseText = What the heck ? How did I lost ?
+Pokemon = GASTRODON,85
+Pokemon = ALAKAZAM,85
+Pokemon = ARCANINE,85
+Pokemon = STARAPTOR,85
+#-------------------------------
+[GUARD,Pawn,18]
+LoseText = Losing to a criminal... what a waste.
+Pokemon = GASTRODON,85
+Pokemon = ALAKAZAM,85
+Pokemon = ARCANINE,85
+Pokemon = STARAPTOR,85
+#-------------------------------
+[GUARD,Pawn,19]
+Items = MEGARING
+LoseText = You do not win... Nevermind.
+Pokemon = ZEBSTRIKA,85
+    Moves = DOUBLEKICK,WILDCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+Pokemon = BASTIODON,85
+Pokemon = BRELOOM,85
+Pokemon = DRAPION,85
+#-------------------------------
+[GUARD,Pawn,20]
+Items = MEGARING
+LoseText = Not my Max Ether !
+Pokemon = MEDICHAM,85
+Pokemon = ZEBSTRIKA,85
+Pokemon = FROSLASS,85
+Pokemon = CROBAT,85
+#-------------------------------
+[GUARD,Tobakis]
+Items = MEGARING
+LoseText = No way...
+Pokemon = CHARIZARD,85
+Pokemon = ARCANINE,85
+Pokemon = PORYGON2,85
+Pokemon = ZEBSTRIKA,85
+    Moves = DOUBLEKICK,WILDCHARGE,FLAMECHARGE,THUNDERWAVE
+    Item = ZEBSTRIKITE
+#-------------------------------
+[KIDVAY,Kidvay]
+Items = FULLRESTORE,MEGARING
+LoseText = We cry out of burst power.
+Pokemon = AEGISLASH,88
+    Moves = KINGSSHIELD,SWORDSDANCE,IRONHEAD,SHADOWSNEAK
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MANDIBUZZ,88
+    Moves = BRAVEBIRD,ROOST,DARKPULSE,NASTYPLOT
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MEDICHAM,88
+    Moves = FAKEOUT,COUNTER,ZENHEADBUTT,HIGHJUMPKICK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,88
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MAGCARGO,88
+    Item = AIRBALLOON
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEBSTRIKA,91
+    Moves = NASTYPLOT,DISCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ERVATLEY,Ervatley]
+Items = FULLRESTORE,MEGARING
+LoseText = We cry out of burst power.
+Pokemon = ZOROARK,88
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEBSTRIKA,88
+    Moves = BOUNCE,WILDCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = BLAZIKEN,88
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = FLYGON,88
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MILOTIC,88
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = STARAPTOR,92
+    Moves = BRAVEBIRD,CLOSECOMBAT,EXTREMESPEED,ROOST
+    Item = WHITEHERB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[PLASMAM,Dek,30]
+LoseText = W-What ? Y-you monster !
+Pokemon = SWOOBAT,50
+Pokemon = GOTHITELLE,50
+Pokemon = WATCHOG,50
+#-------------------------------
+[LEADER_ZACHARY,Zachary,30]
+LoseText = I am still not strong enought !
+Pokemon = MACHAMP,59
+Pokemon = TOXICROAK,59
+Pokemon = MEDICHAM,59
+Pokemon = CONKELDURR,60
+Pokemon = SAWK,60
+Pokemon = LUCARIO,62
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ACE_F,Rachel,30]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = Why are you always in my path of glory ?
+Pokemon = MANDIBUZZ,59
+    IV = 31,31,31,31,31,31
+Pokemon = ZOROARK,59
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,59
+    Moves = HONECLAWS,ICEPUNCH,POISONJAB,BRICKBREAK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = HONCHKROW,60
+    Moves = NIGHTSLASH,ROOST,THUNDERWAVE,PLUCK
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,252,2
+Pokemon = ABSOL,60
+    IV = 31,31,31,31,31,31
+Pokemon = UMBREON,62
+    Moves = DOUBLEKICK,DARKPULSE,WISH,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[LEADER_Patrick,Patrick,30]
+LoseText = I still need some improovements.
+Pokemon = GALVANTULA,62
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+Pokemon = MASQUERAIN,62
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,65
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,62
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,62
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+Pokemon = SHEDINJA,62
+    Moves = SWORDSDANCE,XSCISSOR,NIGHTSLASH,SHADOWSNEAK
+#-------------------------------
+[RIVALTalma,Talma,30]
+Items = HYPERPOTION,HYPERPOTION
+LoseText = I am living in a world of lost cause.
+Pokemon = GARDEVOIR,64
+Pokemon = SCIZOR,64
+Pokemon = LUCARIO,64
+Pokemon = LUDICOLO,64
+Pokemon = CHARIZARD,64
+    IV = 31,31,31,31,31,31
+Pokemon = TYRANITAR,67
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMABOSS,Ghetsis,30]
+LoseText = Team Plasma is falling appart...
+Pokemon = COFAGRIGUS,64
+Pokemon = EELEKTROSS,64
+Pokemon = BISHARP,64
+Pokemon = BOUFFALANT,65
+Pokemon = SEISMITOAD,65
+Pokemon = HYDREIGON,67
+    Moves = OUTRAGE,CRUNCH,DRAGONDANCE,PROTECT
+#-------------------------------
+[LEADER_Aragon,Aragon,30]
+LoseText = Disposal of the world's greatest archives, this victory is yours.
+Pokemon = AGGRON,66
+Pokemon = MAGNEZONE,66
+Pokemon = BASTIODON,66
+Pokemon = SCIZOR,67
+Pokemon = MAWILE,67
+Pokemon = METAGROSS,69
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[SHUGURI,Shuguri,30]
+LoseText = I am the General of the Rebelion, I can't... lose like that !
+Pokemon = GYARADOS,69
+Pokemon = INFERNAPE,69
+Pokemon = PELIPPER,70
+Pokemon = LILLIGANT,69
+Pokemon = RHYPERIOR,70
+Pokemon = DEOXYS,72
+    Form = 2
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Tobias,Tobias,30]
+LoseText = I am impressed by your skills.
+Pokemon = GALVANTULA,69
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,70
+    Moves = FLASHCANNON,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,69
+    Moves = DISCHARGE,FLAMETHROWER,UTURN,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = EMOLGA,69
+    Moves = DISCHARGE,VOLTSWITCH,ENERGYBALL,SWIFT
+    IV = 31,31,31,31,31,31
+Pokemon = AMPHAROS,70
+    Moves = DRAGONPULSE,DISCHARGE,RAINDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,72
+    Shiny = yes
+    Moves = ICEPUNCH,FIREPUNCH,DISCHARGE,BULLDOZE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMACO3,Rioku,30]
+LoseText = Prosperity torwards our new path.
+Pokemon = MUSHARNA,72
+Pokemon = HAXORUS,72
+Pokemon = CHANDELURE,72
+Pokemon = SCRAFTY,73
+Pokemon = KROOKODILE,73
+Pokemon = REUNICLUS,75
+#-------------------------------
+[PLASMACO2,Giallo,30]
+LoseText = No turning back on this one...
+Pokemon = MUSHARNA,72
+Pokemon = SEISMITOAD,72
+Pokemon = SCRAFTY,72
+Pokemon = SCOLIPEDE,73
+Pokemon = KROOKODILE,73
+Pokemon = REUNICLUS,75
+#-------------------------------
+[PLASMAM,Dek,31]
+LoseText = Who are you ?
+Pokemon = WATCHOG,90
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_ZACHARY,Zachary,31]
+LoseText = I am still not strong enought !
+Pokemon = MACHAMP,91
+Pokemon = MEDICHAM,91
+Pokemon = LUCARIO,93
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMACO2,Giallo,31]
+LoseText = No turning back on this one...
+Pokemon = MUSHARNA,91
+Pokemon = KROOKODILE,91
+Pokemon = REUNICLUS,93
+#-------------------------------
+[ACE_F,Rachel,31]
+LoseText = Congratulation ! I must say, it's been a while since someone was strong as you !
+Pokemon = SABLEYE,91
+    Moves = RECOVER,FEINTATTACK,DETECT,SHADOWSNEAK
+Pokemon = LIEPARD,91
+    Moves = FAKEOUT,TAUNT,DETECT,DARKPULSE
+Pokemon = WEAVILE,91
+    Moves = ICEPUNCH,TAUNT,NIGHTSLASH,SWORDSDANCE
+Pokemon = UMBREON,93
+    Moves = WISH,DARKPULSE,PROTECT,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[VIKING_Ogar,Ogar,31]
+LoseText = Omega Pokemon Defeated !?
+Pokemon = SWOOBAT,94
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Patrick,Patrick,31]
+LoseText = We lost ?
+Pokemon = YANMEGA,92
+    Moves = AERIALACE,DETECT,BUGBUZZ,DOUBLETEAM
+Pokemon = MASQUERAIN,92
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,94
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,92
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,92
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,31]
+LoseText = OH, You pushed your luck too far !
+Pokemon = SOLROCK,92
+Pokemon = DUSKNOIR,92
+Pokemon = ROSERADE,94
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VIKING_Ogar,Ogar,32]
+LoseText = Ogar doesn't accept losing !
+Pokemon = SWOOBAT,94
+    Form = 1
+    Moves = POISONTAIL,PSYCHIC,AIRSLASH,ENDEAVOR
+    IV = 31,31,31,31,31,31
+Pokemon = ACCELGOR,95
+    Shiny = yes
+    Moves = BUGBUZZ,VENOSHOCK,FOCUSBLAST,MINDREADER
+    IV = 31,31,31,31,31,31
+Pokemon = QUAGSIRE,92
+#-------------------------------
+[ARCHKNIGHT,Kivanee,31]
+LoseText = Bravo, simply, just bravo !
+Pokemon = VILEPLUME,92
+    Moves = POISONPOWDER,GIGADRAIN,SLUDGEBOMB,SLEEPPOWDER
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR,92
+    Moves = MOONBLAST,CALMMIND,PSYCHIC,SHADOWBALL
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,92
+    Moves = EARTHQUAKE,REST,GIGAIMPACT,ROLLOUT
+    IV = 31,31,31,31,31,31
+Pokemon = BRONZONG,92
+    Moves = TRICKROOM,BULLDOZE,EXTRASENSORY,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,92
+    Moves = SUCKERPUNCH,DOUBLETEAM,ICYWIND,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = DRUDDIGON,94
+    Moves = FLAMETHROWER,DRAGONCLAW,BULLDOZE,FEINTATTACK
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,32]
+LoseText = OH, You pushed your luck too far !
+Pokemon = ROSERADE,95
+Pokemon = SOLROCK,92
+Pokemon = DUSKNOIR,92
+Pokemon = DRAPION,92
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMABOSS,Ghetsis,31]
+LoseText = Team Plasma is falling appart...
+Pokemon = COFAGRIGUS,92
+Pokemon = EELEKTROSS,92
+Pokemon = BISHARP,92
+Pokemon = HYDREIGON,95
+    Moves = OUTRAGE,CRUNCH,DRAGONDANCE,PROTECT
+#-------------------------------
+[ADMIN_COL,Col,31]
+LoseText = How did you managed to get that much power already ?
+Pokemon = GARCHOMP,92
+Pokemon = DARMANITAN,92
+Pokemon = ESCAVALIER,92
+Pokemon = STARMIE,95
+    Form = 1
+    Moves = DARKPULSE,TOXIC,FLAMETHROWER,PSYCHIC
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Aragon,Aragon,31]
+LoseText = ...
+Pokemon = AGGRON,92
+Pokemon = MAGNEZONE,92
+Pokemon = SCIZOR,92
+Pokemon = MAWILE,92
+Pokemon = METAGROSS,95
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[ROCKETBOSS,Giovanni,31]
+LoseText = Rocket one day, Rocket forever we say.
+Pokemon = RHYDON,92
+Pokemon = NIDOKING,93
+Pokemon = NIDOQUEEN,93
+Pokemon = DUGTRIO,92
+Pokemon = RHYPERIOR,95
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VICTORIA,Victoria,31]
+LoseText = Eternity prooven me that losing is only a matter of changes.
+Pokemon = CROBAT,92
+Pokemon = LUNATONE,92
+Pokemon = TOXICROAK,93
+Pokemon = FERROTHORN,92
+Pokemon = DRAGONITE,95
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC,93
+#-------------------------------
+[VIKING_Ogar,Ogar,33]
+LoseText = GYAAAAAAAAAAAAAAAAAAAAAAAAA
+Pokemon = HOUNDOOM,93
+Pokemon = QUAGSIRE,93
+Pokemon = SLAKING,93
+Pokemon = GARCHOMP,93
+    IV = 31,31,31,31,31,31
+Pokemon = ACCELGOR,95
+    Shiny = yes
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_Tobias,Tobias,31]
+LoseText = A great trainer arrived here ! Congratulation !
+Pokemon = GALVANTULA,93
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,93
+    Moves = FLASHCANNON,DISCHARGE,RAINDANCE,VOLTSWITCH
+    IV = 31,31,31,31,31,31
+Pokemon = EELEKTROSS,93
+    Moves = DISCHARGE,FLAMETHROWER,UTURN,ROCKTOMB
+    IV = 31,31,31,31,31,31
+Pokemon = EMOLGA,93
+    Moves = DISCHARGE,VOLTSWITCH,ENERGYBALL,SWIFT
+    IV = 31,31,31,31,31,31
+Pokemon = AMPHAROS,93
+    Moves = DRAGONPULSE,DISCHARGE,RAINDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = ELECTIVIRE,95
+    Shiny = yes
+    Moves = ICEPUNCH,FIREPUNCH,DISCHARGE,BULLDOZE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMACO3,Rioku,31]
+LoseText = Decisions can not be undone.
+Pokemon = MUSHARNA,93
+Pokemon = REUNICLUS,93
+Pokemon = CHANDELURE,96
+#-------------------------------
+[ADMIN_ELISIA,Elisia El Clipsio,33]
+LoseText = I hate you, I hate you, I hate you.
+Pokemon = SOLROCK,93
+Pokemon = DUSKNOIR,93
+Pokemon = DRAPION,93
+Pokemon = SALAMENCE,93
+Pokemon = ROSERADE,96
+    Form = 1
+    Moves = AURASPHERE,TOXIC,DRAGONPULSE,GIGADRAIN
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[P_Patrick,Patrick,31]
+LoseText = We lost ?
+Pokemon = GALVANTULA,93
+    Moves = STICKYWEB,DISCHARGE,RAINDANCE,VOLTSWITCH
+Pokemon = MASQUERAIN,93
+    Moves = BUBBLEBEAM,SILVERWIND,AIRSLASH,QUIVERDANCE
+Pokemon = YANMEGA,96
+    Moves = BUGBUZZ,ANCIENTPOWER,DOUBLETEAM,ROOST
+    IV = 31,31,31,31,31,31
+    EV = 0,0,0,252,2,252
+    Ball = NETBALL
+Pokemon = NINJASK,93
+    Moves = XSCISSOR,DIG,NIGHTSLASH,SWORDSDANCE
+Pokemon = DUSTOX,93
+    Moves = TOXIC,SILVERWIND,PSYBEAM,SLUDGEBOMB
+#-------------------------------
+[ACE_F,Rachel,32]
+Items = FULLRESTORE,FULLRESTORE
+LoseText = How dare... you !
+Pokemon = ZOROARK,93
+    IV = 31,31,31,31,31,31
+Pokemon = MANDIBUZZ,93
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,93
+    Moves = HONECLAWS,ICEPUNCH,POISONJAB,BRICKBREAK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = HONCHKROW,93
+    Moves = NIGHTSLASH,ROOST,THUNDERWAVE,PLUCK
+    IV = 31,31,31,31,31,31
+    EV = 0,252,0,0,252,2
+Pokemon = ABSOL,93
+    IV = 31,31,31,31,31,31
+Pokemon = UMBREON,96
+    Moves = DOUBLEKICK,DARKPULSE,WISH,SANDATTACK
+    IV = 31,31,31,31,31,31
+    Ball = DUSKBALL
+#-------------------------------
+[CORRUPTED,???,31]
+LoseText = ...
+Pokemon = DARKRAI,97
+    Name = Kalathar
+    Form = 1
+    Moves = DARKPULSE,NASTYPLOT,FOCUSBLAST,SLUDGEBOMB
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[LEADER_ZACHARY,Zachary,32]
+LoseText = I am still not strong enought !
+Pokemon = CONKELDURR,93
+Pokemon = MACHAMP,93
+Pokemon = TOXICROAK,93
+Pokemon = MEDICHAM,93
+Pokemon = SAWK,93
+Pokemon = LUCARIO,96
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[HIKER,Torin]
+LoseText = ...
+Pokemon = CARKOL,39
+Pokemon = GOLBAT,39
+Pokemon = SHUCKLE,40
+#-------------------------------
+[HIKER,Seba]
+LoseText = ...
+Pokemon = GRAVELER,39
+Pokemon = STEELIX,40
+Pokemon = BRONZOR,39
+#-------------------------------
+[CHANELLER,Eva]
+LoseText = ...
+Pokemon = GASTLY,38
+Pokemon = HAUNTER,39
+Pokemon = GENGAR,40
+#-------------------------------
+[HIKER,Qwarim]
+LoseText = ...
+Pokemon = DONPHAN,39
+Pokemon = CARKOL,39
+Pokemon = HIPPOWDON,40
+#-------------------------------
+[BEAUTY,Alison]
+LoseText = ...
+Pokemon = EEVEE,39
+Pokemon = LUXRAY,39
+Pokemon = LURANTIS,40
+#-------------------------------
+[BUGCATCHER,Towel]
+LoseText = ...
+Pokemon = BEEDRILL,15
+Pokemon = SEEDOT,16
+#-------------------------------
+[BUGCATCHER,Esper]
+LoseText = ...
+Pokemon = CASCOON,15
+Pokemon = CUTIEFLY,15
+Pokemon = LEDYBA,15
+#-------------------------------
+[GAMBLER,Parker]
+LoseText = ...
+Pokemon = EKANS,15
+Pokemon = ZUBAT,15
+#-------------------------------
+[PICNICKER,Eloise]
+LoseText = ...
+Pokemon = PIDGEOTTO,15
+Pokemon = APPLIN,15
+#-------------------------------
+[BUGCATCHER,Parialo]
+LoseText = ...
+Pokemon = BUTTERFREE,16
+#-------------------------------
+[BUGCATCHER,Pedro]
+LoseText = ...
+Pokemon = SKORUPI,15
+Pokemon = PARAS,15
+#-------------------------------
+[AROMALADY,Kate]
+LoseText = ...
+Pokemon = TANGELA,16
+#-------------------------------
+[BUGCATCHER,Gumshoe]
+LoseText = ...
+Pokemon = SCYTHER,16
+#-------------------------------
+[BUGCATCHER,Olimar]
+LoseText = ...
+Pokemon = BEEDRILL,17
+Pokemon = BEAUTIFLY,17
+#-------------------------------
+[PLASMAOM,Olfric]
+LoseText = ...
+Pokemon = PALPITOAD,22
+Pokemon = WATCHOG,23
+#-------------------------------
+[CRUSHGIRL,Olivia]
+LoseText = ...
+Pokemon = MACHOKE,23
+Pokemon = GURDURR,23
+#-------------------------------
+[AROMALADY,Ira]
+LoseText = ...
+Pokemon = GLOOM,23
+Pokemon = CHERUBI,23
+Pokemon = ROSELIA,23
+#-------------------------------
+[GUITARISTF,Freya]
+LoseText = ...
+Pokemon = SLOWPOKE,22
+Pokemon = RALTS,22
+Pokemon = ROCKRUFF,23
+#-------------------------------
+[FARMERF,Myla]
+LoseText = ...
+Pokemon = BAYLEEF,23
+Pokemon = IVYSAUR,23
+Pokemon = TAUROS,23
+#-------------------------------
+[CUEBALL,Joel]
+LoseText = ...
+Pokemon = ZUBAT,21
+Pokemon = SABLEYE,21
+Pokemon = SCRAGGY,23
+#-------------------------------
+[LASS,Evelyn]
+LoseText = ...
+Pokemon = FLAPPLE,36
+Pokemon = CINCCINO,36
+#-------------------------------
+[BLACKBELT,Ekos]
+LoseText = ...
+Pokemon = HITMONLEE,36
+Pokemon = BEWEAR,37
+Pokemon = PRIMEAPE,36
+#-------------------------------
+[FARMERF,Ortie]
+LoseText = ...
+Pokemon = SALAZZLE,36
+Pokemon = FARFETCHD,36
+Pokemon = DURANT,36
+Pokemon = ARBOK,37
+#-------------------------------
+[SANDGUARD,Rigo]
+LoseText = ...
+Pokemon = MAROWAK,44
+Pokemon = DUSCLOPS,44
+Pokemon = SALAZZLE,44
+#-------------------------------
+[SANDVANGUARD,Ahmed]
+LoseText = ...
+Pokemon = CAMERUPT,44
+Pokemon = SANDACONDA,45
+Pokemon = CACTURNE,44
+#-------------------------------
+[SANDGUARD,Odin]
+LoseText = ...
+Pokemon = MAGCARGO,44
+Pokemon = GABITE,44
+Pokemon = GENGAR,44
+#-------------------------------
+[SANDGUARD,Ismael]
+LoseText = ...
+Pokemon = NIDOKING,44
+Pokemon = SIMISEAR,44
+Pokemon = LAMPENT,44
+#-------------------------------
+[SANDGUARD,Aten]
+LoseText = ...
+Pokemon = SANDACONDA,44
+Pokemon = GOLETT,44
+Pokemon = CACTURNE,44
+#-------------------------------
+[SANDVANGUARD,Babu]
+LoseText = ...
+Pokemon = RHYDON,44
+Pokemon = MISMAGIUS,45
+Pokemon = SANDACONDA,44
+#-------------------------------
+[SANDGUARD,Usair]
+LoseText = ...
+Pokemon = CAMERUPT,44
+Pokemon = SALAZZLE,44
+Pokemon = GOLEM,44
+#-------------------------------
+[SANDVANGUARD,Holts]
+LoseText = ...
+Pokemon = STEELIX,44
+Pokemon = HEATMOR,45
+Pokemon = GENGAR,44
+#-------------------------------
+[SANDVANGUARD,Zahur]
+LoseText = ...
+Pokemon = SANDACONDA,44
+Pokemon = HOUNDOOM,44
+Pokemon = BANETTE,45
+#-------------------------------
+[SANDGUARD,Jabari]
+LoseText = ...
+Pokemon = GOLEM,44
+Pokemon = VIBRAVA,44
+Pokemon = CACTURNE,44
+Pokemon = HAUNTER,44
+#-------------------------------
+[SANDGUARD,Tariq]
+LoseText = ...
+Pokemon = SANDACONDA,44
+Pokemon = MAROWAK,44
+Pokemon = MAGCARGO,44
+Pokemon = STUNFISK,44
+#-------------------------------
+[SANDVANGUARD,Mostafa]
+Items = MEGARING
+LoseText = ...
+Pokemon = SANDACONDA,45
+Pokemon = CAMERUPT,46
+    Moves = LAVAPLUME,EARTHPOWER,CURSE,YAWN
+    Item = CAMERUPTITE
+#-------------------------------
+[SANDGUARD,Quobatus]
+LoseText = ...
+Pokemon = SANDACONDA,43
+Pokemon = MAGCARGO,43
+Pokemon = KROKOROK,43
+#-------------------------------
+[SANDGUARD,Banul]
+LoseText = ...
+Pokemon = MAROWAK,43
+Pokemon = CAMERUPT,43
+Pokemon = EXCADRILL,43
+#-------------------------------
+[SANDGUARD,Sirius]
+LoseText = ...
+Pokemon = GOLEM,43
+Pokemon = SANDACONDA,43
+Pokemon = SABLEYE,43
+#-------------------------------
+[SANDVANGUARD,Basim]
+LoseText = ...
+Pokemon = COALOSSAL,44
+Pokemon = CLAYDOL,44
+Pokemon = CACTURNE,44
+Pokemon = SALAZZLE,45
+#-------------------------------
+[SANDGUARD,Hurcules]
+LoseText = ...
+Pokemon = SANDACONDA,43
+Pokemon = GENGAR,43
+Pokemon = GASTRODON,43
+#-------------------------------
+[SANDGUARD,Worco]
+LoseText = ...
+Pokemon = QUAGSIRE,43
+Pokemon = COALOSSAL,43
+Pokemon = DONPHAN,43
+#-------------------------------
+[SANDVANGUARD,Gaius]
+LoseText = ...
+Pokemon = SANDACONDA,44
+Pokemon = STEELIX,44
+Pokemon = SALAZZLE,44
+Pokemon = FLYGON,45
+#-------------------------------
+[SANDGUARD,Zeno]
+LoseText = ...
+Pokemon = SANDACONDA,46
+Pokemon = GOLEM,46
+Pokemon = CAMERUPT,46
+#-------------------------------
+[SANDGUARD,Wenut]
+LoseText = ...
+Pokemon = SALAZZLE,46
+Pokemon = MAROWAK,46
+Pokemon = GASTRODON,46
+#-------------------------------
+[SANDVANGUARD,Kogar]
+LoseText = ...
+Pokemon = CACTURNE,46
+Pokemon = RUNERIGUS,47
+Pokemon = DARMANITAN,46
+#-------------------------------
+[SANDGUARD,Kisayo]
+LoseText = ...
+Pokemon = FLYGON,46
+Pokemon = EXCADRILL,46
+Pokemon = KROOKODILE,46
+#-------------------------------
+[SANDGUARD,Tadeos]
+LoseText = ...
+Pokemon = TURTONATOR,46
+Pokemon = MAROWAK,46
+Pokemon = CAMERUPT,46
+#-------------------------------
+[SANDGUARD,Crow]
+LoseText = ...
+Pokemon = RUNERIGUS,46
+Pokemon = QUAGSIRE,46
+Pokemon = SABLEYE,46
+#-------------------------------
+[SANDGUARD,Todos]
+LoseText = ...
+Pokemon = GENGAR,46
+Pokemon = DONPHAN,46
+Pokemon = SANDACONDA,46
+#-------------------------------
+[SANDGUARD,Gusulas]
+LoseText = ...
+Pokemon = SALAZZLE,46
+Pokemon = ARCANINE,46
+Pokemon = CACTURNE,46
+#-------------------------------
+[SANDVANGUARD,Bemonachi]
+LoseText = ...
+Pokemon = COALOSSAL,47
+Pokemon = FLAREON,47
+Pokemon = GASTRODON,47
+#-------------------------------
+[SANDVANGUARD,Zetnomo]
+LoseText = ...
+Pokemon = RUNERIGUS,47
+Pokemon = STEELIX,47
+Pokemon = SALAZZLE,47
+#-------------------------------
+[SANDGUARD,Totay]
+LoseText = ...
+Pokemon = GOLEM,46
+Pokemon = CAMERUPT,46
+Pokemon = CACTURNE,46
+#-------------------------------
+[SANDVANGUARD,Ohdem]
+LoseText = ...
+Pokemon = TURTONATOR,46
+Pokemon = GOLEM,47
+Pokemon = SANDACONDA,47
+Pokemon = CACTURNE,46
+#-------------------------------
+[SANDGUARD,Iroho]
+LoseText = ...
+Pokemon = MILCERY,46
+#-------------------------------
+[SANDVANGUARD,Hercules]
+LoseText = ...
+Pokemon = SANDACONDA,47
+Pokemon = STUNFISK,47
+Pokemon = RAPIDASH,47
+#-------------------------------
+[BUGCATCHER,Goe]
+LoseText = ...
+Pokemon = ARIADOS,54
+Pokemon = CENTISKORCH,54
+#-------------------------------
+[BUGCATCHER,Orellias]
+LoseText = ...
+Pokemon = VILEPLUME,55
+Pokemon = FORRETRESS,55
+#-------------------------------
+[BUGCATCHER,Karin]
+LoseText = ...
+Pokemon = PARASECT,55
+Pokemon = SCIZOR,55
+#-------------------------------
+[BUGCATCHER,Cheren]
+LoseText = ...
+Pokemon = PINSIR,55
+Pokemon = GOLISOPOD,55
+#-------------------------------
+[BUGCATCHER,Ervan]
+LoseText = ...
+Pokemon = BEEDRILL,55
+Pokemon = BEEDRILL,55
+Pokemon = BEEDRILL,55
+#-------------------------------
+[BUGCATCHER,Hyro]
+LoseText = ...
+Pokemon = VILEPLUME,55
+Pokemon = YANMEGA,56
+#-------------------------------
+[GENTLEMAN,Yvan]
+LoseText = ...
+Pokemon = PIDGEOT,61
+Pokemon = LURANTIS,61
+#-------------------------------
+[ROCKER,Oliver]
+LoseText = ...
+Pokemon = ALAKAZAM,61
+Pokemon = SWANNA,61
+#-------------------------------
+[FARMERF,Tifanny]
+LoseText = ...
+Pokemon = MACHAMP,61
+Pokemon = FURRET,61
+#-------------------------------
+[FARMERF,Kalisha]
+LoseText = ...
+Pokemon = DRAPION,61
+Pokemon = APPLETUN,61
+#-------------------------------
+[CUEBALL,Daniel]
+LoseText = ...
+Pokemon = HOUNDOOM,62
+#-------------------------------
+[FISHERMAN,Bailiff]
+LoseText = ...
+Pokemon = CLOYSTER,61
+Pokemon = BRUXISH,61
+Pokemon = TENTACRUEL,61
+#-------------------------------
+[SAILOR,Morgoth]
+LoseText = ...
+Pokemon = LAPRAS,61
+Pokemon = WALREIN,61
+Pokemon = RELICANTH,61
+#-------------------------------
+[CRUSHGIRL,Tina]
+LoseText = ...
+Pokemon = HITMONTOP,70
+Pokemon = KOMMOO,70
+#-------------------------------
+[PSYCHIC_F,Kelly,1]
+LoseText = ...
+Pokemon = GARDEVOIR,70
+Pokemon = BEHEEYEM,70
+Pokemon = BRONZONG,70
+#-------------------------------
+[GAMBLER,Tedd]
+LoseText = ...
+Pokemon = NIDOKING,70
+Pokemon = FORRETRESS,70
+Pokemon = BRAVIARY,70
+#-------------------------------
+[MINER,Poros]
+LoseText = ...
+Pokemon = COALOSSAL,70
+Pokemon = STEELIX,70
+#-------------------------------
+[FISHERMAN,Tolin]
+LoseText = ...
+Pokemon = TENTACRUEL,70
+Pokemon = LAPRAS,70
+Pokemon = WHISCASH,70
+#-------------------------------
+[ROCKER,Elfrid]
+LoseText = ...
+Pokemon = LANTURN,70
+Pokemon = MANECTRIC,70
+Pokemon = MINUN,71
+#-------------------------------
+[FARMERF,Orelia]
+LoseText = ...
+Pokemon = BEEDRILL,70
+Pokemon = ACCELGOR,70
+Pokemon = DUBWOOL,70
+#-------------------------------
+[SANDVANGUARD,Ahdemio]
+LoseText = ...
+Pokemon = SANDACONDA,70
+Pokemon = SABLEYE,71
+Pokemon = SALAZZLE,71
+Pokemon = RAMPARDOS,70
+Pokemon = EXCADRILL,72
+#-------------------------------
+[SANDVANGUARD,Ishvan]
+LoseText = ...
+Pokemon = AGGRON,70
+Pokemon = RUNERIGUS,71
+Pokemon = GENGAR,71
+Pokemon = STEELIX,70
+Pokemon = GARCHOMP,72
+#-------------------------------
+[FARMERF,Yvette]
+LoseText = ...
+Pokemon = TOGEDEMARU,70
+Pokemon = ARIADOS,70
+#-------------------------------
+[SAILOR,George]
+LoseText = ...
+Pokemon = AZUMARILL,71
+Pokemon = BASCULIN,71
+Pokemon = WAILORD,71
+#-------------------------------
+[FLORISTA,Florista]
+LoseText = How can I protect my flowers if I lose.
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE,FULLRESTORE
+Pokemon = TSAREENA,100
+	Moves = TROPKICK,TEETERDANCE,ZENHEADBUTT,HIGHJUMPKICK
+Pokemon = VICTREEBEL,100
+	Moves = SLUDGEBOMB,INGRAIN,STOCKPILE,GIGADRAIN
+Pokemon = VIKAVOLT,100
+	Moves = VOLTSWITCH,BUGBUZZ,AIRSLASH,DIG
+Pokemon = ARAQUANID,100
+	Moves = LIQUIDATION,LUNGE,ICEBEAM,AQUARING
+Pokemon = LYCANROC,100
+	Moves = ACCELEROCK,CRUNCH,FIREFANG,BULLDOZE
+Pokemon = SHAYMIN,100
+	Form = 1
+	Moves = SEEDFLARE,PSYCHIC,GIGADRAIN,GROWTH
+#-------------------------------
+[MERIAN,Merian]
+LoseText = Losing is only a vertuality which makes you stronger after every battle.
+Items = MEGARING,FULLRESTORE
+Pokemon = OBSTAGOON,60
+Pokemon = SCRAFTY,60
+Pokemon = SPIRITOMB,60
+Pokemon = HOUNDOOM,62
+	Item = HOUNDOOMINITE
+#-------------------------------
+[KAI,Kai]
+LoseText = Well, another losing case for me.
+Items = MEGARING,FULLRESTORE
+Pokemon = TALONFLAME,60
+Pokemon = FLAREON,60
+Pokemon = SALAZZLE,60
+Pokemon = CAMERUPT,62
+	Item = CAMERUPTITE
+#-------------------------------
+[GHOSTY,Ghosty]
+LoseText = I-I shouldn't h-had been too d-demanding.
+Items = MEGARING,FULLRESTORE
+Pokemon = DUSKNOIR,60
+Pokemon = SABLEYE,60
+Pokemon = DRAGAPULT,60
+Pokemon = GENGAR,62
+	Item = GENGARITE
+#-------------------------------
+[LEADER_Ghosty,Ghosty]
+LoseText = I-incredible force...
+Items = MEGARING,FULLRESTORE
+Pokemon = DUSKNOIR,65
+Pokemon = SABLEYE,65
+Pokemon = DRAGAPULT,65
+Pokemon = FROSLASS,65
+Pokemon = GENGAR,67
+	Item = GENGARITE
+#-------------------------------
+[MERIAN,Merian,1]
+LoseText = Well I do see now why you are strong...
+Items = MEGARING,FULLRESTORE
+Pokemon = OBSTAGOON,97
+	IV = 31,31,31,31,31,31
+	Moves = FIREPUNCH,OBSTRUCT,KNOCKOFF,CLOSECOMBAT
+Pokemon = SCRAFTY,97	
+	IV = 31,31,31,31,31,31
+	Moves = BULKUP,DRAINPUNCH,SUCKERPUNCH,STONEEDGE
+Pokemon = SPIRITOMB,97
+	IV = 31,31,31,31,31,31
+	Moves = SHADOWBALL,SUCKERPUNCH,WILLOWISP,CALMMIND
+Pokemon = MIMIKYU,97
+	IV = 31,31,31,31,31,31
+	Moves = SWORDSDANCE,SHADOWSNEAK,PLAYROUGH,THUNDERBOLT
+Pokemon = TOGEKISS,97
+	Moves = ANCIENTPOWER,AIRSLASH,ROOST,SUBSTITUTE
+    IV = 31,31,31,31,31,31
+Pokemon = HOUNDOOM,99
+	Item = HOUNDOOMINITE
+	IV = 31,31,31,31,31,31
+	Moves = DARKPULSE,FLAMETHROWER,NASTYPLOT,TAUNT
+#-------------------------------
+[SVAROG,Svarog]
+LoseText = Oh ho... you overcome my power.
+Items = MEGARING,FULLRESTORE
+Pokemon = CARBINK,97
+    IV = 31,31,31,31,31,31
+	Moves = SPIKES,STEALTHROCK,MOONBLAST,ROCKBLAST
+Pokemon = TOXICROAK,97
+	Moves = DRAINPUNCH,POISONJAB,BULKUP,SUCKERPUNCH
+    IV = 31,31,31,31,31,31
+Pokemon = TOXAPEX,97
+    IV = 31,31,31,31,31,31
+	Moves = SCALD,VENOSHOCK,BANEFULBUNKER,RECOVER
+Pokemon = CROBAT,97
+    IV = 31,31,31,31,31,31
+	Moves = ROOST,CROSSPOISON,AIRSLASH,DARKPULSE
+Pokemon = SLOWKING,97
+    IV = 31,31,31,31,31,31
+	Moves = SLUDGEBOMB,NASTYPLOT,PSYCHIC,YAWN
+	Form = 1
+Pokemon = AGGRON,99
+	IV = 31,31,31,31,31,31
+	Moves = EARTHQUAKE,ROCKSLIDE,IRONHEAD,DRAGONTAIL
+	Item = AGGRONITE
+#-------------------------------
+[AMBREW_Elite,Ambrew]
+Items = FULLRESTORE,MEGARING
+LoseText = A fourth loss to you... Am I that down?
+Pokemon = ALAKAZAM,98
+	Moves = CALMMIND,PSYCHIC,ENERGYBALL,SHADOWBALL
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL,98
+	Moves = SWORDSDANCE,EARTHQUAKE,IRONHEAD,ROCKSLIDE
+    IV = 31,31,31,31,31,31
+Pokemon = GASTRODON,98
+	Moves = EARTHPOWER,HYDROPUMP,RECOVER,TOXIC
+    IV = 31,31,31,31,31,31
+Pokemon = SLOWKING,98
+	Moves = SCALD,PSYCHIC,CALMMIND,YAWN
+    IV = 31,31,31,31,31,31
+Pokemon = FLYGON,98
+	Moves = DRAGONDANCE,OUTRAGE,EARTHQUAKE,BUGBUZZ
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,100
+	Moves = OUTRAGE,EARTHQUAKE,AQUATAIL,DRAGONDANCE
+    Item = GARCHOMPITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[KIDVAY_Elite,Kidvay]
+LoseText = The way of power is simply not the way to go.
+Items = FULLRESTORE,MEGARING
+Pokemon = DRAGAPULT,98
+    IV = 31,31,31,31,31,31
+	Moves = PROTECT,SHADOWFORCE,SUCKERPUNCH,DRAGONDARTS
+	Item = LIFEORB
+Pokemon = EELEKTROSS,98
+    IV = 31,31,31,31,31,31
+	Moves = GIGADRAIN,FLAMETHROWER,THUNDERBOLT,BULLDOZE
+Pokemon = LANTURN,98
+    IV = 31,31,31,31,31,31
+	Moves = TOXIC,SCALD,THUNDERBOLT,RAINDANCE
+Pokemon = KINGDRA,98
+	Moves = DRAGONPULSE,SCALD,DRACOMETEOR,FLASHCANNON
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,98
+	Moves = DRAGONDANCE,OUTRAGE,EARTHQUAKE,CRUNCH
+	IV = 31,31,31,31,31,31
+Pokemon = ZEBSTRIKA,100
+    Moves = NASTYPLOT,DISCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ZACHARY_Champion,Zachary]
+LoseText = A sparse till the end... the summit... and I lose infront of the king...
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = GRIMMSNARL,99
+	Moves = THUNDERWAVE,BULKUP,PLAYROUGH,SUCKERPUNCH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AEGISLASH,99
+	Moves = SWORDSDANCE,KINGSSHIELD,IRONHEAD,SHADOWSNEAK
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = HITMONSLASH,99
+	Moves = JUDGEMENTALSWORD,SWORDSDANCE,SPECTRALTHIEF,THROATCHOP
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SALAMENCE,99
+	Moves = DRAGONDANCE,OUTRAGE,FLAMETHROWER,ZENHEADBUTT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = PRIMARINA,99
+	Moves = CALMMIND,ICYWIND,MOONBLAST,SPARKLINGARIA
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = LUCARIO,100
+    Name = Tanya
+    Gender = female
+    Moves = WORKUP,FORCEPALM,AURASPHERE,DRAGONPULSE
+    Item = LUCARIONITESYNC
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[NOBUNAGA,Nobunaga]
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE,MEGARING
+Pokemon = AEGISLASH,99
+	Moves = SWORDSDANCE,KINGSSHIELD,IRONHEAD,SHADOWSNEAK
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = HYDREIGON,99
+	Moves = DARKPULSE,DRAGONPULSE,WORKUP,TRIATTACK
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,99
+	Moves = ROCKSLIDE,BRAVEBIRD,ROOST,IRONHEAD
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = TALONFLAME,99
+	Moves = BRAVEBIRD,FLAMETHROWER,ROOST,FEATHERDANCE
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEKROM,100
+	Moves = BOLTSTRIKE,DRAGONDANCE,OUTRAGE,DRACOMETEOR
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = RAYQUAZA,100
+	Shiny = yes
+	Moves = DRAGONASCENT,DRAGONDANCE,EXTREMESPEED,OUTRAGE
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[RUKA,Ruka]
+LoseText = Ugh...
+Pokemon = SKITTY,4
+Pokemon = CHIMCHAR,5
+#-------------------------------
+[RUKA,Ruka,1]
+LoseText = Ugh...
+Pokemon = SKITTY,22
+Pokemon = BLITZLE,23
+Pokemon = MONFERNO,24
+#-------------------------------
+[RUKA,Ruka,2]
+LoseText = Now I have to think better.
+Pokemon = DELCATTY,39
+Pokemon = ZEBSTRIKA,39
+Pokemon = GOLISOPOD,39
+	Moves = FIRSTIMPRESSION,AQUAJET,SUCKERPUNCH,POISONJAB
+Pokemon = INFERNAPE,41
+	Moves = FIREPUNCH,THUNDERPUNCH,MACHPUNCH,BULKUP
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+#-------------------------------
+[RUKA,Ruka,3]
+LoseText = Now I have to think better.
+Pokemon = DELCATTY,51
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = ZEBSTRIKA,51
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = GOLISOPOD,52
+	Moves = FIRSTIMPRESSION,AQUAJET,SUCKERPUNCH,POISONJAB
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = NOIVERN,52
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = INFERNAPE,54
+	Moves = FIREPUNCH,THUNDERPUNCH,MACHPUNCH,BULKUP
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+#-------------------------------
+[RUKA,Ruka,4]
+LoseText = Well... now I have no chances to face Ishkatnar's tournament...
+Pokemon = DELCATTY,66
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = ZEBSTRIKA,66
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = ROARINGMOON,67
+	Moves = FLAMETHROWER,DRAGONDANCE,DRAGONCLAW,ROOST
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = GOLISOPOD,67
+	Moves = FIRSTIMPRESSION,AQUAJET,SUCKERPUNCH,POISONJAB
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = CERULEDGE,67
+	Moves = PSYCHOCUT,SWORDSDANCE,SHADOWCLAW,FLAREBLITZ
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = INFERNAPE,69
+	Moves = FIREPUNCH,THUNDERPUNCH,MACHPUNCH,BULKUP
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+#-------------------------------
+[RUKA,Ruka,5]
+LoseText = I am still behind you... how come?
+Pokemon = DELCATTY,85
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = ZEBSTRIKA,85
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = ROARINGMOON,86
+	Moves = FLAMETHROWER,DRAGONDANCE,DRAGONCLAW,ROOST
+	IV = 21,21,21,21,21,21
+    EV = 85,85,85,85,85,85	
+Pokemon = GOLISOPOD,86
+	Moves = FIRSTIMPRESSION,AQUAJET,SUCKERPUNCH,POISONJAB
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = CERULEDGE,86
+	Moves = PSYCHOCUT,SWORDSDANCE,SHADOWCLAW,FLAREBLITZ
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+Pokemon = INFERNAPE,88
+	Moves = FIREPUNCH,THUNDERPUNCH,MACHPUNCH,BULKUP
+	IV = 21,31,31,21,31,31
+    EV = 85,85,85,85,85,85	
+#-------------------------------
+[DETECTIVE,Cliff,2]
+Items = FULLRESTORE
+LoseText = Who fed you ?
+Pokemon = ARCANINE,94
+    Moves = FLAREBLITZ,EXTREMESPEED,CRUNCH,THUNDERFANG
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+Pokemon = HAXORUS,94
+    Moves = DRAGONDANCE,OUTRAGE,NIGHTSLASH,BULLDOZE
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON,95
+    Moves = IRONHEAD,EARTHQUAKE,ROCKSLIDE,PROTECT
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+Pokemon = MIGHTYENA,94
+    Moves = PLAYROUGH,SUCKERPUNCH,SWAGGER,TOXIC
+    IV = 31,31,31,31,31,31
+Pokemon = MIENSHAO,95
+    Moves = BLAZEKICK,HIGHJUMPKICK,THUNDERPUNCH,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = PALKIA,97
+	IV = 31,31,31,31,31,31
+#-------------------------------
+[AMBREW,Ambrew,3]
+Items = FULLRESTORE,MEGARING
+LoseText = Great job !
+Pokemon = KINGDRA,95
+    IV = 31,31,31,31,31,31
+Pokemon = CHARIZARD,94
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR,94
+    IV = 31,31,31,31,31,31
+Pokemon = BRELOOM,95
+    IV = 31,31,31,31,31,31
+Pokemon = SLAKING,94
+    IV = 31,31,31,31,31,31
+Pokemon = GARCHOMP,98
+    Item = GARCHOMPITE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[FLINT,Flint,2]
+LoseText = Incredible force you have there.
+Pokemon = CACTURNE,93
+    IV = 31,31,31,31,31,31
+Pokemon = CAMERUPT,94
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE,95
+    IV = 31,31,31,31,31,31
+Pokemon = GASTRODON,94
+    IV = 31,31,31,31,31,31
+Pokemon = ALTARIA,93
+    IV = 31,31,31,31,31,31
+Pokemon = ZYGARDE,97
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[CHALLENGER,Ixya,2]
+LoseText = What a performance you did out there !
+Pokemon = CLEFABLE,95
+    Moves = METRONOME,MOONBLAST,MINIMIZE,BATONPASS
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES,93
+    Moves = CALMMIND,FLAMETHROWER,PROTECT,EXTRASENSORY
+    IV = 31,31,31,31,31,31
+Pokemon = TOGEKISS,94
+    IV = 31,31,31,31,31,31
+Pokemon = BUTTERFREE,94
+    Moves = QUIVERDANCE,ROOST,INFESTATION,HURRICANE
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = MAGNEZONE,93
+    IV = 31,31,31,31,31,31
+Pokemon = FROSLASS,97
+    Moves = BLIZZARD,SHADOWBALL,HAIL,ICYWIND
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[KIDVAY,Kidvay,2]
+Items = FULLRESTORE,MEGARING
+LoseText = We cry out of burst power.
+Pokemon = AEGISLASH,96
+    Moves = KINGSSHIELD,SWORDSDANCE,IRONHEAD,SHADOWSNEAK
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MANDIBUZZ,95
+    Moves = BRAVEBIRD,ROOST,DARKPULSE,NASTYPLOT
+    Item = LEFTOVERS
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MEDICHAM,95
+    Moves = FAKEOUT,COUNTER,ZENHEADBUTT,HIGHJUMPKICK
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,96
+    Moves = SWORDSDANCE,EARTHQUAKE,ROCKSLIDE,IRONHEAD
+    Item = LIFEORB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MAGCARGO,94
+    Item = AIRBALLOON
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEBSTRIKA,98
+    Moves = NASTYPLOT,DISCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ERVATLEY,Ervatley,2]
+Items = FULLRESTORE,MEGARING
+LoseText = We cry out of burst power.
+Pokemon = ZOROARK,94
+    Item = SITRUSBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = ZEBSTRIKA,95
+    Moves = BOUNCE,WILDCHARGE,OVERHEAT,THUNDERWAVE
+    Item = ZEBSTRIKITE
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = BLAZIKEN,96
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = FLYGON,96
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = MILOTIC,95
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = STARAPTOR,98
+    Moves = BRAVEBIRD,CLOSECOMBAT,EXTREMESPEED,ROOST
+    Item = WHITEHERB
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------
+[ARCHKNIGHT,Kivanee,5]
+Items = FULLRESTORE
+LoseText = Bravo, simply, just bravo !
+Pokemon = VILEPLUME,94
+    Moves = POISONPOWDER,GIGADRAIN,SLUDGEBOMB,SLEEPPOWDER
+    IV = 31,31,31,31,31,31
+Pokemon = AROMATISSE,93
+    Moves = MOONBLAST,CALMMIND,PSYCHIC,THUNDERBOLT
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX,94
+    Moves = EARTHQUAKE,REST,GIGAIMPACT,ROLLOUT
+    IV = 31,31,31,31,31,31
+Pokemon = BRONZONG,95
+    Moves = TRICKROOM,BULLDOZE,PSYCHIC,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = KELDEO,99
+    Moves = SACREDSWORD,SWORDSDANCE,LIQUIDATION,XSCISSOR
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT,97
+    Moves = SHADOWBALL,DARKPULSE,PROTECT,DRAGONDARTS
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[VICTORIA,Victoria,6]
+Items = FULLRESTORE
+LoseText = It... can't be...
+Pokemon = CROBAT,95
+    Moves = ROOST,LEECHLIFE,RAINDANCE,CROSSPOISON
+    IV = 31,31,31,31,31,31
+Pokemon = LUNATONE,93
+    Moves = EARTHPOWER,COSMICPOWER,HELPINGHAND,HYPNOSIS
+    IV = 31,31,31,31,31,31
+Pokemon = BEWEAR,94
+    Moves = COUNTER,CLOSECOMBAT,DOUBLEEDGE,SUCKERPUNCH
+    Item = FOCUSSASH
+    IV = 31,31,31,31,31,31
+Pokemon = FERROTHORN,94
+    Moves = LEECHSEED,GYROBALL,STEALTHROCK,POWERWHIP
+    Item = ROCKYHELMET
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE,95
+    Moves = DRAGONDANCE,OUTRAGE,THUNDERPUNCH,AQUATAIL
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC,97
+    Moves = SCALD,ICEBEAM,RECOVER,AQUARING
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMACO1,Zinzolin,22]
+Items = FULLRESTORE,XDEFENSE
+LoseText = A mess... we prepared so well...
+Pokemon = CRYOGONAL,95
+    Moves = RECOVER,FREEZEDRY,FLASHCANNON,WATERPULSE
+    IV = 31,31,31,31,31,31
+Pokemon = BEARTIC,96
+    Moves = AQUAJET,YAWN,PLAYROUGH,ICEFANG
+    IV = 31,31,31,31,31,31
+Pokemon = REUNICLUS,94
+    Moves = PSYCHIC,FOCUSBLAST,ENERGYBALL,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = ARCHEOPS,94
+    Moves = ROOST,STONEEDGE,AERIALACE,SUPERPOWER
+    IV = 31,31,31,31,31,31
+Pokemon = KLINKLANG,95
+    Moves = VOLTSWITCH,FLASHCANNON,THUNDERWAVE,GEARGRIND
+    IV = 31,31,31,31,31,31
+Pokemon = WEAVILE,98
+    Moves = FAKEOUT,NIGHTSLASH,LOWKICK,SWORDSDANCE
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[PLASMABOSS,Ghetsis,22]
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LoseText = I may be nothing in your eyes but I was someone before !
+Pokemon = COFAGRIGUS,96
+    Moves = WILLOWISP,TOXICSPIKES,SHADOWBALL,DESTINYBOND
+    IV = 31,31,31,31,31,31
+Pokemon = ZEKROM,99
+    Moves = BOLTSTRIKE,DRAGONCLAW,DRAGONDANCE,BRICKBREAK
+    IV = 31,31,31,31,31,31
+Pokemon = BISHARP,96
+    Moves = NIGHTSLASH,IRONHEAD,SWORDSDANCE,GUILLOTINE
+    IV = 31,31,31,31,31,31
+Pokemon = RESHIRAM,99
+    Moves = BLUEFLARE,DRAGONPULSE,ROOST,PSYCHIC
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON,98
+    Moves = OUTRAGE,CRUNCH,DRAGONDANCE,PROTECT
+    IV = 31,31,31,31,31,31
+Pokemon = KYUREM,100
+	Moves = GLACIATE,FLASHCANNON,DRAGONDANCE,DRAGONCLAW
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[MERIAN,Merian,2]
+LoseText = Well I do see now why you are strong...
+Items = MEGARING,FULLRESTORE
+Pokemon = SCRAFTY,95	
+	IV = 31,31,31,31,31,31
+	Moves = BULKUP,DRAINPUNCH,SUCKERPUNCH,STONEEDGE
+Pokemon = OBSTAGOON,95
+	IV = 31,31,31,31,31,31
+	Moves = FIREPUNCH,OBSTRUCT,KNOCKOFF,CLOSECOMBAT
+Pokemon = SPIRITOMB,96
+	IV = 31,31,31,31,31,31
+	Moves = SHADOWBALL,SUCKERPUNCH,WILLOWISP,CALMMIND
+Pokemon = MIMIKYU,95
+	IV = 31,31,31,31,31,31
+	Moves = SWORDSDANCE,SHADOWSNEAK,PLAYROUGH,THUNDERBOLT
+Pokemon = TOGEKISS,96
+	Moves = ANCIENTPOWER,AIRSLASH,ROOST,SUBSTITUTE
+    IV = 31,31,31,31,31,31
+Pokemon = HOUNDOOM,98
+	Item = HOUNDOOMINITE
+	IV = 31,31,31,31,31,31
+	Moves = DARKPULSE,FLAMETHROWER,NASTYPLOT,TAUNT
+#-------------------------------
+[SVAROG,Svarog,1]
+LoseText = Oh ho... you overcome my power.
+Items = MEGARING,FULLRESTORE
+Pokemon = TOXAPEX,96
+    IV = 31,31,31,31,31,31
+	Moves = SCALD,VENOSHOCK,BANEFULBUNKER,RECOVER
+Pokemon = CROBAT,95
+    IV = 31,31,31,31,31,31
+	Moves = ROOST,CROSSPOISON,AIRSLASH,DARKPULSE
+Pokemon = CARBINK,96
+    IV = 31,31,31,31,31,31
+	Moves = SPIKES,STEALTHROCK,MOONBLAST,ROCKBLAST
+Pokemon = TOXICROAK,95
+	Moves = DRAINPUNCH,POISONJAB,BULKUP,SUCKERPUNCH
+    IV = 31,31,31,31,31,31
+Pokemon = SLOWKING,96
+    IV = 31,31,31,31,31,31
+	Moves = SLUDGEBOMB,NASTYPLOT,PSYCHIC,YAWN
+	Form = 1
+Pokemon = AGGRON,98
+	IV = 31,31,31,31,31,31
+	Moves = EARTHQUAKE,ROCKSLIDE,IRONHEAD,DRAGONTAIL
+	Item = AGGRONITE
+#-------------------------------
+[ROSEMARY,Rosemary]
+LoseText = Incredible Atrial's power demonstration!
+Items = MEGARING,FULLRESTORE
+Pokemon = GRIMMSNARL,96
+    IV = 31,31,31,31,31,31
+Pokemon = SCRAFTY,95
+    IV = 31,31,31,31,31,31
+Pokemon = LIEPARD,96
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK,95
+	Moves = DRAINPUNCH,POISONJAB,BULKUP,SUCKERPUNCH
+    IV = 31,31,31,31,31,31
+Pokemon = MORPEKO,96
+    IV = 31,31,31,31,31,31
+Pokemon = ABSOL,98
+	IV = 31,31,31,31,31,31
+	Item = ABSOLITE
+#-------------------------------
+[ASHEN_TIBAN,Tiban,22]
+Items = MEGARING,FULLRESTORE
+Pokemon = HIPPOWDON,95
+    Moves = SANDSTORM,YAWN,EARTHQUAKE,REST
+    Item = CHESTOBERRY
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SERPERIOR,96
+    Moves = COIL,LEAFSTORM,AQUATAIL,NATUREPOWER
+    AbilityIndex = 1
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = EXCADRILL,95
+    Moves = SWORDSDANCE,ROCKSLIDE,EARTHQUAKE,IRONHEAD
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = GASTRODON,95
+    Moves = RECOVER,ICEBEAM,SURF,EARTHPOWER
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = SALAZZLE,96
+	Moves = FLAMETHROWER,SLUDGEBOMB,DRAGONPULSE,TOXIC
+	IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+Pokemon = AERODACTYL,98
+    Moves = ROCKSLIDE,ROOST,BRAVEBIRD,IRONHEAD
+    Item = AERODACTYLITE
+    Nature = ADAMANT
+    IV = 31,31,31,31,31,31
+    EV = 85,85,85,85,85,85
+#-------------------------------

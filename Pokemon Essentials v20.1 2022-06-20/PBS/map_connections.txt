@@ -1,0 +1,202 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Cloudvale (2) -  (5)
+2,North,0,5,South,4
+# Cloudvale (2) - Safari Zone (66)
+2,West,0,66,East,0
+# Route 8 (69) - Cloudvale (2)
+69,North,12,2,South,0
+# Route 6 (44) -  (5)
+44,South,43,5,North,0
+# Safari Zone (66) -  (5)
+66,North,18,5,South,0
+# Cedolan City (7) -  (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau (35)
+31,West,0,35,East,10
+# Ingido Plateau (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone (66)
+69,North,0,66,South,10
+# Victory Road (101) - Victory Road (82)
+101,South,0,82,North,22
+# Ishkatnar West (91) - Ishkatnar (88)
+91,East,10,88,West,0
+# Ishkatnar Training Zone (110) - Ishkatnar (88)
+110,North,60,88,South,0
+# Ishkatnar East (111) - Ishkatnar (88)
+111,West,3,88,East,0
+# Ishkatnar Training Zone (110) - Ishkatnar West (91)
+110,North,0,91,South,0
+# Ishkatnar Port (109) - Ishkatnar West (91)
+109,East,0,91,West,16
+# Ishkatnar Port (109) - Ishkatnar Training Zone (110)
+109,East,44,110,West,0
+# Ishkatnar Healing Zone (114) - Ishkatnar East (111)
+114,West,0,111,East,7
+# Kivanee Road (145) - Kivanee Road (677)
+145,North,0,677,South,20
+# Kivanee Mountain (146) - Kivanee Road (145)
+146,West,0,145,East,0
+# Kivanee Mountain (146) - Kivanee Road (677)
+146,North,0,677,South,69
+# Tevian Mountain (164) - Route 1015 (549)
+164,South,0,549,North,0
+# Aurorean Pathway (208) - Route 1021 (633)
+208,East,0,633,West,18
+# Douglas Empire's Land (610) - Aurorean Pathway (208)
+610,South,3,208,North,0
+# Aurorean Pathway Water (209) - Aurorean Pathway (208)
+209,East,0,208,West,0
+# Paracel Island (211) - Aurorean Pathway (208)
+211,South,103,208,North,0
+# Aurorean Pathway Water (209) - Douglas Empire's Land (610)
+209,North,57,610,South,0
+# Aurorean Pathway Water (210) - Aurorean Pathway Water (209)
+210,East,0,209,West,0
+# Water (213) - Aurorean Pathway Water (209)
+213,North,60,209,South,0
+# Paracel Island (211) - Aurorean Pathway Water (209)
+211,South,43,209,North,0
+# Aurorean Pathway Water (210) - Douglas Empire's Land (610)
+210,North,117,610,South,0
+# Bestro Island (212) - Aurorean Pathway Water (210)
+212,East,0,210,West,19
+# Water (213) - Aurorean Pathway Water (210)
+213,North,0,210,South,0
+# Water (214) - Aurorean Pathway Water (210)
+214,East,0,210,West,79
+# Paracel Island (211) - Aurorean Pathway Water (210)
+211,South,0,210,North,17
+# Water (213) - Bestro Island (212)
+213,West,0,212,East,41
+# Water (214) - Bestro Island (212)
+214,North,0,212,South,0
+# Water (215) - Bestro Island (212)
+215,East,0,212,West,0
+# Water (214) - Water (213)
+214,East,0,213,West,19
+# Water (215) - Water (214)
+215,East,60,214,West,0
+# Opaphyl Gateway (217) - Route 1012 (517)
+217,East,0,517,West,54
+# Silta (526) - Opaphyl Gateway (217)
+526,North,24,217,South,0
+# Route 1013 (525) - Opaphyl Gateway (217)
+525,North,0,217,South,58
+# Datlas (511) - Opaphyl Gateway (217)
+511,South,0,217,North,0
+# Shrine of the Forbitten (672) - Opaphyl Gateway (217)
+672,East,68,217,West,0
+# Kivanee Town (219) - Kivanee Town (371)
+219,East,0,371,West,0
+# Reborn Sanctuary (240) - Douglas City North (635)
+240,South,0,635,North,18
+# Garden (249) - Chasia (537)
+249,West,6,537,East,0
+# Kivanee Road (677) - Kivanee Town (371)
+677,West,2,371,East,0
+# Datlas (511) - Route 1012 (517)
+511,East,16,517,West,0
+# Shrine of the Forbitten (672) - Datlas (511)
+672,East,0,511,West,2
+# Route 1015 (549) - Datlas (511)
+549,South,13,511,North,0
+# Route 1012 (517) - Chasia (537)
+517,East,0,537,West,134
+# Silta (526) - Route 1012 (517)
+526,North,94,517,South,0
+# Route 1013 (525) - Route 1012 (517)
+525,North,12,517,South,0
+# Protlas (518) - Route 1012 (517)
+518,West,0,517,East,6
+# Route 1014 (534) - Route 1012 (517)
+534,West,74,517,East,0
+# Protlas (518) - Route 1013 (525)
+518,West,64,525,East,0
+# Route 1014 (534) - Protlas (518)
+534,South,0,518,North,0
+# Route 1013 (525) - Chasia (537)
+525,East,0,537,West,204
+# Route 1013 (525) - Silta (526)
+525,West,0,526,East,0
+# Route 1014 (534) - Route 1013 (525)
+534,West,144,525,East,0
+# Route 1014 (534) - Chasia (537)
+534,North,0,537,South,0
+# Lumina Forest (536) - Lumina Forest (535)
+536,South,0,535,North,2
+# The Infinite Tower (550) - Route 1015 (549)
+550,West,20,549,East,0
+# Rocket City (589) - Route 1016 (588)
+589,East,20,588,West,0
+# Torkial City (590) - Route 1017 (600)
+590,East,24,600,West,0
+# Route 1018 (607) - Route 1019 (611)
+607,South,0,611,North,2
+# Route 1019 (611) - Douglas Empire's Land (610)
+611,East,18,610,West,0
+# Cartagna (612) - Douglas Empire's Land (610)
+612,West,0,610,East,7
+# Cartagna (612) - Route 1021 (633)
+612,South,0,633,North,8
+# Casty Shrine (617) - Cartagna (612)
+617,West,16,612,East,0
+# Route 1020 (620) - Casty Shrine (617)
+620,South,0,617,North,8
+# Starfruit's Forest (622) - Starfruit's Forest (621)
+622,South,0,621,North,0
+# Route 1021 (633) - Route 1022 (634)
+633,East,50,634,West,0
+# Route 1022 (634) - Douglas City North (635)
+634,East,11,635,West,0
+# Douglas City South (661) - Douglas City North (635)
+661,North,0,635,South,12
+# Route 1023 (669) - Douglas City South (661)
+669,West,17,661,East,0
+# Shrine Cave (673) - Shrine Cave (678)
+673,North,0,678,South,12
+# Shrine Cave (674) - Shrine Cave (673)
+674,East,0,673,West,0
+# Shrine Cave (675) - Shrine Cave (673)
+675,North,60,673,South,0
+# Shrine Cave (688) - Shrine Cave (673)
+688,South,82,673,North,0
+# Shrine Cave (674) - Shrine Cave (678)
+674,North,48,678,South,0
+# Shrine Cave (675) - Shrine Cave (674)
+675,North,0,674,South,0
+# Shrine Cave (688) - Shrine Cave (674)
+688,South,22,674,North,0
+# Shrine Cave (680) - Shrine Cave (678)
+680,West,11,678,East,0
+# Shrine Cave (681) - Shrine Cave (678)
+681,West,71,678,East,0
+# Shrine Cave (688) - Shrine Cave (678)
+688,East,33,678,West,0
+# Shrine Cave (689) - Shrine Cave (678)
+689,South,0,678,North,0
+# Shrine Cave (681) - Shrine Cave (680)
+681,South,0,680,North,0
+# Shrine Cave (689) - Shrine Cave (688)
+689,West,27,688,East,0

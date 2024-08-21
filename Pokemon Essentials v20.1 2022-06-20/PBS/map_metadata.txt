@@ -1,0 +1,1144 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[001]   # Intro
+Name = Intro
+#-------------------------------
+[002]   # Cloudvale
+Name = Lappet Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,12
+BattleBack = field
+#-------------------------------
+[003]   # Pokémon Lab
+Name = \PN's house
+HealingSpot = 2,8,8
+MapPosition = 0,13,12
+#-------------------------------
+[004]   # Pokémon Lab
+Name = Pokémon Lab
+ShowArea = false
+MapPosition = 0,13,12
+#-------------------------------
+[005]   # 
+Name = Route 1
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,11
+BattleBack = field
+#-------------------------------
+[006]   # Kurt's house
+Name = Route 1
+MapPosition = 0,13,11
+#-------------------------------
+[007]   # Cedolan City
+Name = Cedolan City
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,10
+MapSize = 2,11
+#-------------------------------
+[008]   # Ashley's house
+Name = Lappet Town
+MapPosition = 0,13,12
+#-------------------------------
+[009]   # Cedolan City Poké Center
+Name = Cedolan City
+HealingSpot = 8,17,11
+MapPosition = 0,14,10
+#-------------------------------
+[010]   # Cedolan Gym
+Name = Cedolan City
+MapPosition = 0,13,10
+BattleBack = indoor3
+Environment = Rock
+Flags = DisableBoxLink
+#-------------------------------
+[011]   # Pokémon Institute
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[012]   # Cedolan City Condo
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[013]   # Game Corner
+Name = Cedolan City
+MapPosition = 0,14,10
+#-------------------------------
+[014]   # Cedolan Dept. 1F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[015]   # Cedolan Dept. 2F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[016]   # Cedolan Dept. 3F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[017]   # Cedolan Dept. 4F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[018]   # Cedolan Dept. 5F
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[019]   # Cedolan Dept. Rooftop
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[020]   # Cedolan Dept. Elevator
+Name = Cedolan City
+MapPosition = 0,13,10
+#-------------------------------
+[021]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Weather = Rain,100
+MapPosition = 0,14,8
+BattleBack = field
+MapSize = 1,11
+#-------------------------------
+[023]   # Lerucean Town
+Name = Lerucean Town
+Outdoor = true
+ShowArea = true
+MapPosition = 0,15,8
+#-------------------------------
+[024]   # Lerucean Town Poké Center
+Name = Lerucean Town
+HealingSpot = 23,11,15
+MapPosition = 0,15,8
+#-------------------------------
+[025]   # Lerucean Town Mart
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[026]   # Pokémon Fan Club
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[027]   # Pokémon Day Care
+Name = Lerucean Town
+MapPosition = 0,15,8
+#-------------------------------
+[028]   # Natural Park
+Name = Natural Park
+Outdoor = true
+ShowArea = true
+MapPosition = 0,16,8
+BattleBack = field
+Flags = MossRock
+#-------------------------------
+[029]   # Natural Park Entrance
+Name = Natural Park
+Bicycle = true
+MapPosition = 0,16,8
+#-------------------------------
+[030]   # Natural Park Pavillion
+Name = Natural Park
+MapPosition = 0,16,8
+#-------------------------------
+[031]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+MapPosition = 0,14,6
+BattleBack = field
+MapSize = 2,1101
+#-------------------------------
+[034]   # Ice Cave
+Name = Route 3
+Bicycle = true
+MapPosition = 0,15,6
+BattleBack = cave1
+Environment = Cave
+Flags = IceRock
+#-------------------------------
+[035]   # Ingido Plateau
+Name = Ingido Plateau
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,6
+#-------------------------------
+[036]   # Pokémon League
+Name = Ingido Plateau
+HealingSpot = 35,17,7
+MapPosition = 0,13,6
+#-------------------------------
+[037]   # Pokémon League
+Name = Ingido Plateau
+MapPosition = 0,13,6
+BattleBack = elite1
+Flags = DisableBoxLink
+#-------------------------------
+[038]   # Hall of Fame
+Name = Ingido Plateau
+MapPosition = 0,13,6
+Flags = DisableBoxLink
+#-------------------------------
+[039]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,6
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[040]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,6
+#-------------------------------
+[041]   # Route 5
+Name = Route 5
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,7
+MapSize = 1,111
+#-------------------------------
+[042]   # Liberalist Hideout
+Name = Liberalist Hideout
+Outdoor = false
+ShowArea = true
+BattleBack = elite1
+#-------------------------------
+[044]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+MapPosition = 0,11,10
+BattleBack = field
+MapSize = 2,11
+#-------------------------------
+[045]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+BicycleAlways = true
+MapPosition = 0,11,10
+#-------------------------------
+[046]   # Cycling Road gate
+Name = Route 4
+Bicycle = true
+MapPosition = 0,12,6
+#-------------------------------
+[047]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Weather = Rain,0
+MapPosition = 0,15,10
+BattleBack = rocky
+MapSize = 2,11
+Environment = Rock
+#-------------------------------
+[048]   # Liberalist Hideout
+Name = Liberalist Hideout
+BattleBack = elite1
+#-------------------------------
+[049]   # Rock Cave
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+BattleBack = cave1
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[050]   # Rock Cave
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+DarkMap = true
+BattleBack = cave3
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[051]   # Dungeon
+Name = Route 7
+Bicycle = true
+MapPosition = 0,16,10
+Dungeon = true
+BattleBack = cave2
+Environment = Cave
+Flags = Magnetic,DistortionWorld
+#-------------------------------
+[052]   # Battle Frontier
+Name = Battle Frontier
+Outdoor = true
+ShowArea = true
+MapPosition = 0,17,10
+#-------------------------------
+[053]   # Battle Frontier Poké Center
+Name = Battle Frontier
+HealingSpot = 52,17,14
+MapPosition = 0,17,10
+#-------------------------------
+[054]   # Battle Frontier Mart
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[055]   # Battle Tower
+Name = Battle Frontier
+HealingSpot = 52,30,10
+MapPosition = 0,17,10
+#-------------------------------
+[056]   # Battle Tower arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[057]   # Stadium Cup lobby
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[058]   # Battle Palace
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[059]   # Battle Palace arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[060]   # Battle Arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[061]   # Battle Arena arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[062]   # Battle Factory
+Name = Battle Frontier
+MapPosition = 0,17,10
+#-------------------------------
+[063]   # Battle Factory intro corridor
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[064]   # Battle Factory arena
+Name = Battle Frontier
+MapPosition = 0,17,10
+BattleBack = indoor1
+Flags = DisableBoxLink
+#-------------------------------
+[065]   # Battle Factory corridor
+Name = Battle Frontier
+MapPosition = 0,17,10
+Flags = DisableBoxLink
+#-------------------------------
+[066]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+BattleBack = field
+#-------------------------------
+[067]   # Safari Zone gate
+Name = Safari Zone
+MapPosition = 0,12,12
+#-------------------------------
+[068]   # Safari Zone
+Name = Safari Zone
+Outdoor = true
+ShowArea = true
+MapPosition = 0,12,12
+SafariMap = true
+BattleBack = forest
+Environment = Forest
+#-------------------------------
+[069]   # Route 8
+Name = Route 8
+Outdoor = true
+ShowArea = true
+MapPosition = 0,13,13
+DiveMap = 70
+BattleBack = field
+#-------------------------------
+[070]   # Underwater
+Name = Route 8
+MapPosition = 0,13,13
+BattleBack = underwater
+Environment = Underwater
+#-------------------------------
+[071]   # Harbour
+Name = Route 8
+MapPosition = 0,13,13
+#-------------------------------
+[072]   # Daroxy Island
+Name = Berth Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,50
+MapPosition = 0,18,17
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[073]   # Faraday Island
+Name = Faraday Island
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,16
+BattleBack = field
+Flags = DistortionWorld
+#-------------------------------
+[074]   # Cycling Road gate
+Name = Route 6
+Bicycle = true
+MapPosition = 0,12,10
+#-------------------------------
+[075]   # Tiall Region
+Name = Tiall Region
+Outdoor = true
+MapPosition = 1,13,16
+BattleBack = city
+#-------------------------------
+[076]   # Liberalist Hideout
+Name = Liberalist Hideout
+BattleBack = elite1
+#-------------------------------
+[077]   # Liberalist Hideout HQ
+Name = Liberalist Hideout HQ
+ShowArea = true
+BattleBack = elite1
+Environment = Graveyard
+#-------------------------------
+[079]   # Kivanee TownHall
+Name = Kivanee TownHall
+BattleBack = champion1
+#-------------------------------
+[082]   # Victory Road
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+BattleBack = 
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[094]   # Ochtavia Cavern
+Name = Ochtavia Cavern
+Outdoor = false
+ShowArea = true
+BattleBack = cave1
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[095]   # Ochtavia Cavern
+Name = Ochtavia Cavern
+BattleBack = cave1
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[097]   # Trial
+Name = Trial
+WildBattleBGM = VS Dialga.ogg
+#-------------------------------
+[098]   # Ochtavia Cavern
+Name = Ochtavia Cavern
+BattleBack = cave1
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[100]   # Gym
+Name = Gym
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[101]   # Victory Road
+Name = Victory Road
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[102]   # Victory Road
+Name = Victory Road
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[103]   # Victory Road
+Name = Victory Road
+ShowArea = true
+Weather = Snow,100
+BattleBack = snow
+#-------------------------------
+[104]   # Victory Road
+Name = Victory Road
+BattleBack = cave2
+#-------------------------------
+[110]   # Ishkatnar Training Zone
+Name = Ishkatnar Training Zone
+#-------------------------------
+[126]   # Pokemon Tournament League Outside
+Name = Pokemon Tournament League Outside
+ShowArea = false
+BattleBack = snow
+#-------------------------------
+[128]   # Ishkatnar's Trial Cave
+Name = Ishkatnar's Trial Cave
+BattleBack = HallOfBattle
+WildBattleBGM = Vs Merian.ogg
+#-------------------------------
+[132]   # Underground Hideout
+Name = Underground Hideout
+ShowArea = true
+MapPosition = 0,28,0
+BattleBack = cave1
+Environment = Rock
+#-------------------------------
+[133]   # Underground Hideout
+Name = Underground Hideout
+ShowArea = true
+MapPosition = 0,28,0
+BattleBack = cave1
+Environment = Rock
+#-------------------------------
+[134]   # Underground Hideout
+Name = Underground Hideout
+ShowArea = true
+MapPosition = 0,28,0
+BattleBack = cave1
+Environment = Rock
+#-------------------------------
+[135]   # Pirate's Coast
+Name = Pirate's Coast
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[136]   # Pirate's Coast Inside
+Name = Pirate's Coast Inside
+ShowArea = true
+#-------------------------------
+[138]   # Pirate's Coast Vault Room
+Name = Pirate's Coast Vault Room
+ShowArea = true
+MapPosition = 0,28,0
+BattleBack = cave1
+Environment = Rock
+#-------------------------------
+[142]   # Pokemon Tournament League Outside
+Name = Pokemon Tournament League Outside
+ShowArea = false
+BattleBack = snow
+#-------------------------------
+[145]   # Kivanee Road
+Name = Kivanee Road
+Outdoor = true
+BattleBack = Field
+#-------------------------------
+[146]   # Kivanee Mountain
+Name = Kivanee Mountain
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+BattleBack = rocky
+#-------------------------------
+[147]   # Shrine Tunnel
+Name = Shrine Tunnel
+BattleBack = cave2
+#-------------------------------
+[151]   # Lumina Spring
+Name = Lumina Spring
+Outdoor = true
+ShowArea = true
+Weather = Rain,20
+MapPosition = 0,28,3
+BattleBack = field
+#-------------------------------
+[160]   # Rewto Cave
+Name = Rewto Cave
+ShowArea = true
+BattleBack = cave2
+#-------------------------------
+[161]   # Rewto Cave
+Name = Rewto Cave
+BattleBack = cave2
+#-------------------------------
+[163]   # Tevian Cave
+Name = Tevian Cave
+ShowArea = true
+BattleBack = cave2
+#-------------------------------
+[164]   # Tevian Mountain
+Name = Tevian Mountain
+Outdoor = true
+ShowArea = true
+Weather = Snow,100
+BattleBack = rocky
+#-------------------------------
+[191]   # Rialon's Appartment
+Name = Rialon's Appartment
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[202]   # Ishkatnar's Wireless Station
+Name = Ishkatnar's Wireless Station
+ShowArea = true
+BattleBack = holy
+#-------------------------------
+[205]   # Ishkatnar's Wireless Station Quarter
+Name = Ishkatnar's Wireless Station Quarter
+BattleBack = holy
+#-------------------------------
+[206]   # Ishkatnar's Drop Room
+Name = Ishkatnar's Drop Room
+Outdoor = false
+ShowArea = true
+#-------------------------------
+[208]   # Aurorean Pathway
+Name = Aurorean Pathway
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[209]   # Aurorean Pathway Water
+Name = Aurorean Pathway Water
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[210]   # Aurorean Pathway Water
+Name = Aurorean Pathway Water
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[211]   # Paracel Island
+Name = Paracel Island
+Outdoor = true
+ShowArea = true
+Weather = Storm,100
+MapPosition = 0,1,14
+BattleBack = 
+WildBattleBGM = boxlegend.ogg
+Environment = Rock
+#-------------------------------
+[212]   # Bestro Island
+Name = Bestro Island
+Outdoor = true
+ShowArea = true
+SnapEdges = false
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[214]   # Water
+Name = Water
+#-------------------------------
+[216]   # Carsaî Cave
+Name = Carsaî Cave
+DarkMap = true
+BattleBack = cave3
+#-------------------------------
+[217]   # Opaphyl Gateway
+Name = Opaphyl Gateway
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[219]   # Kivanee Town
+Name = Kivanee Town
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[221]   # Center-Tower
+Name = Center-Tower
+BattleBack = SandTower
+WildBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[225]   # Train
+Name = Train
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[226]   # CenterLeft-Tower F1
+Name = CenterLeft-Tower F1
+BattleBack = SandTower
+#-------------------------------
+[227]   # CenterLeft-Tower
+Name = CenterLeft-Tower
+ShowArea = true
+BattleBack = SandTower
+WildBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[230]   # CenterLeft-Tower BF1
+Name = CenterLeft-Tower BF1
+BattleBack = SandTower
+WildBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[231]   # CenterLeft-Tower Catacomb
+Name = Catacomb
+ShowArea = true
+BattleBack = SandTower
+#-------------------------------
+[234]   # Ashen's Palace
+Name = Ashen's Palace
+ShowArea = false
+BattleBack = SandTower
+#-------------------------------
+[235]   # Ashen's Palace
+Name = Ashen's Palace
+ShowArea = true
+BattleBack = SandTower
+#-------------------------------
+[240]   # Reborn Sanctuary
+Name = Reborn Sanctuary
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[242]   # Reborn Santuary
+Name = Reborn Santuary
+ShowArea = true
+BattleBack = temple
+#-------------------------------
+[249]   # Garden
+Name = Garden
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[252]   # Trial Cave F1
+Name = Trial Cave F1
+BattleBack = HallOfBattle
+#-------------------------------
+[253]   # Trial Cave F2
+Name = Trial Cave F2
+BattleBack = HallOfBattle
+#-------------------------------
+[254]   # Trial Cave F3
+Name = Trial Cave F3
+BattleBack = HallOfBattle
+#-------------------------------
+[255]   # Trial Cave Top
+Name = Trial Cave Top
+BattleBack = HallOfBattle
+#-------------------------------
+[256]   # Hall of Battles
+Name = Hall of Battles
+BattleBack = HallOfBattle
+#-------------------------------
+[371]   # Kivanee Town
+Name = Kivanee Town
+Outdoor = true
+ShowArea = true
+BattleBack = field
+#-------------------------------
+[511]   # Datlas
+Name = Datlas
+Outdoor = true
+ShowArea = true
+MapPosition = 0,22,6
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[517]   # Route 1012
+Name = Route 1012
+Outdoor = true
+ShowArea = true
+MapPosition = 0,24,6
+BattleBack = field
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[518]   # Protlas
+Name = Protlas
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[525]   # Route 1013
+Name = Carsaî Mountain
+Outdoor = true
+ShowArea = true
+BattleBack = rocky
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[526]   # Silta
+Name = Silta
+Outdoor = true
+ShowArea = true
+WildBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[534]   # Route 1014
+Name = Route 1014
+Outdoor = true
+ShowArea = true
+BattleBack = field
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[535]   # Lumina Forest
+Name = Lumina Forest
+Name = 
+Outdoor = true
+MapPosition = 0,27,3
+BattleBack = forest
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[536]   # Lumina Forest
+Name = Lumina Forest
+Outdoor = true
+ShowArea = true
+MapPosition = 0,26,4
+BattleBack = forest
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+Environment = Forest
+#-------------------------------
+[537]   # Chasia
+Name = Chasia
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[540]   # Gym
+Name = Gym
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[542]   # Train
+Name = Train
+ShowArea = true
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[547]   # Gym
+Name = Gym
+BattleBack = gym3
+#-------------------------------
+[549]   # Route 1015
+Name = Route 1015
+Outdoor = true
+ShowArea = true
+Weather = Sun,70
+BattleBack = field
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+Environment = Grass
+#-------------------------------
+[550]   # The Infinite Tower
+Name = The Infinite Tower
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[566]   # Tevian Cave
+Name = Tevian Cave
+BattleBack = cave1
+#-------------------------------
+[568]   # Tevian Cave Dept
+Name = Tevian Cave Dept
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[569]   # Tevian Cave Volcanic
+Name = Tevian Cave Volcanic
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[570]   # Tevian Cave Dept
+Name = Tevian Cave Dept
+BattleBack = cave1
+#-------------------------------
+[571]   # Tevian Cave
+Name = Tevian Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[572]   # Sarhal's Land
+Name = Sarhal's Desert
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,30
+BattleBack = sand
+WildBattleBGM = Sarhal's Battle Theme.ogg
+TrainerBattleBGM = SandGuards.ogg
+#-------------------------------
+[574]   # Lion's Heart City
+Name = Lion's Heart
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[578]   # Ashen's Palace
+Name = Ashen's Palace
+Outdoor = false
+ShowArea = true
+BattleBack = elite1
+Environment = Rock
+#-------------------------------
+[588]   # Route 1016
+Name = Route 1016
+Outdoor = true
+ShowArea = true
+BattleBack = field
+WildBattleBGM = Sarhal's Battle Theme.ogg
+TrainerBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[589]   # Rocket City
+Name = Rocket City
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[590]   # Torkial City
+Name = Torkial City
+Outdoor = true
+ShowArea = true
+BattleBack = sand
+#-------------------------------
+[597]   # Distorsion Cave
+Name = Distorsion Cave
+Name = 
+BattleBack = distortion
+WildBattleBGM = DESCENT.MID
+Environment = UltraSpace
+#-------------------------------
+[598]   # Distorsion Dept
+Name = Distorsion Dept
+BattleBack = distortion
+WildBattleBGM = DESCENT.MID
+#-------------------------------
+[600]   # Route 1017
+Name = Route 1017
+Outdoor = true
+ShowArea = true
+BattleBack = sand
+WildBattleBGM = Sarhal's Battle Theme.ogg
+TrainerBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[602]   # Gym
+Name = Gym
+TrainerBattleBGM = Sarhal's Battle Theme.ogg
+#-------------------------------
+[607]   # Route 1018
+Name = Route 1018
+Outdoor = true
+ShowArea = true
+BattleBack = water
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[610]   # Douglas Empire's Land
+Name = Douglas Empire's Land
+Outdoor = true
+ShowArea = true
+BattleBack = field
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[611]   # Route 1019
+Name = Route 1019
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[612]   # Cartagna
+Name = Cartagna
+Outdoor = true
+ShowArea = true
+Weather = HeavyRain,80
+Environment = Rock
+#-------------------------------
+[615]   # Gym
+Name = Gym
+BattleBack = holy
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[617]   # Casty Shrine
+Name = Casty Shrine
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[620]   # Route 1020
+Name = Route 1020
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[621]   # Starfruit's Forest
+Name = Starfruit's Forest
+Outdoor = false
+ShowArea = true
+BattleBack = forest
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[622]   # Starfruit's Forest
+Name = Starfruit's Forest
+BattleBack = forest
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[623]   # Eternity Cave Top
+Name = Eternity Cave Top
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[624]   # Eternity Cave
+Name = Eternity Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[625]   # Eternity Outpost
+Name = Eternity Outpost
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[628]   # ???
+Name = ???
+ShowArea = true
+BattleBack = distortion
+#-------------------------------
+[632]   # Eternity Pic
+Name = Eternity Pic
+Outdoor = true
+ShowArea = true
+BattleBack = rocky
+WildBattleBGM = VS Dialga.ogg
+#-------------------------------
+[633]   # Route 1021
+Name = Route 1021
+Outdoor = true
+ShowArea = true
+Weather = Rain,10
+BattleBack = field
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[634]   # Route 1022
+Name = Route 1022
+Outdoor = true
+ShowArea = true
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[635]   # Douglas City North
+Name = Douglas City North
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[642]   # Distorsion Abyss
+Name = Distorsion Abyss
+ShowArea = true
+BattleBack = distortion
+Environment = UltraSpace
+#-------------------------------
+[643]   # The Great Castle's Catacombs
+Name = The Great Castle's Catacombs
+BattleBack = distortion
+#-------------------------------
+[644]   # Castle of the Great Forgotten
+Name = Castle of the Great Forbitten
+ShowArea = true
+BattleBack = distortion
+WildBattleBGM = DESCENT.MID
+#-------------------------------
+[645]   # Castle of the Great Forgotten Waiting Room
+Name = Castle of the Great Forgotten Waiting Room
+ShowArea = true
+BattleBack = distortion
+#-------------------------------
+[646]   # ???
+Name = ???
+ShowArea = true
+BattleBack = distortion
+#-------------------------------
+[661]   # Douglas City South
+Name = Douglas City South
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[663]   # Gym
+Name = Gym
+TrainerBattleBGM = DouglasEmpiresLandBattleTheme.ogg
+#-------------------------------
+[669]   # Route 1023
+Name = Route 1023
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[670]   # Carsaî Cave
+Name = Carsaî Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[672]   # Shrine of the Forbitten
+Name = Shrine Of The Forbitten
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+BattleBack = rocky
+TrainerBattleBGM = Cerphial TrainerBattle.ogg
+#-------------------------------
+[673]   # Shrine Cave
+Name = Shrine Cave
+ShowArea = true
+Dungeon = false
+BattleBack = cave1
+#-------------------------------
+[674]   # Shrine Cave
+Name = Cave Shrine
+ShowArea = false
+BattleBack = cave1
+#-------------------------------
+[675]   # Shrine Cave
+Name = Shrine Cave
+Outdoor = false
+ShowArea = false
+BattleBack = cave1
+#-------------------------------
+[677]   # Kivanee Road
+Name = Kivanee Road
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[678]   # Shrine Cave
+Name = Shrine Cave
+Outdoor = false
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[679]   # Shrine Cave Dept
+Name = Shrine Cave Dept
+Outdoor = false
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[680]   # Shrine Cave
+Name = Shrine Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[681]   # Shrine Cave
+Name = Shrine Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[682]   # Shrine Magical Cave
+Name = Shrine Magical Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[683]   # Shrine Entei Domain
+Name = Entei's Domain
+ShowArea = true
+Weather = Sun,100
+BattleBack = cave1
+WildBattleBGM = boxlegend.ogg
+Environment = Volcano
+#-------------------------------
+[685]   # Shrine Magnetic Cave
+Name = Shrine Magnetic Cave
+Outdoor = false
+ShowArea = true
+BattleBack = 
+#-------------------------------
+[687]   # Shrine Cave Dept
+Name = Shrine Cave Dept
+Outdoor = false
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[688]   # Shrine Cave
+Name = Shrine Cave
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[689]   # Shrine Cave
+Name = Shrine Cave
+Outdoor = false
+ShowArea = true
+BattleBack = cave1
+#-------------------------------
+[690]   # Shrine Cave Dept
+Name = Shrine Cave Dept
+Outdoor = false
+ShowArea = true
+BattleBack = cave1

@@ -1,0 +1,26 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+Name = Atrial's Region North
+Filename = mapRegion0.png
+Point = 26,3,Lumina Forest,,,,,
+Point = 27,3,Lumina Forest,,,,,
+Point = 26,6,Protlas City,Pokemon Center; Gym; Shop,2,,,
+Point = 27,1,Chasia City,,,,,
+Point = 22,6,Datlas City,,,,,
+Point = 22,12,Silta City,,,,,
+Point = 23,13,Starfruit Forest,,,,,
+Point = 23,14,Starfruit Forest,,,,,
+Point = 22,13,Starfruit Forest,,,,,
+Point = 22,14,Starfruit Forest,,,,,
+Point = 22,15,Starfruit Forest,,,,,
+Point = 23,15,Starfruit Forest,,,,,
+Point = 24,12,Carsaî Cave,,,,,
+Point = 24,11,,,,,,
+Point = 24,6,,,,,,
+Point = 24,13,,,,,,
+#-------------------------------
+[1]
+Name = Tiall
+Filename = mapRegion1.png
+Point = 13,16,Here,,,,,
